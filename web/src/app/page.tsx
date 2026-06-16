@@ -127,7 +127,7 @@ export default function OverviewPage() {
             <YAxis tick={{ fontSize: 11, fill: "#94a3b8" }} width={30} />
             <Tooltip
               contentStyle={{ borderRadius: 10, border: "1px solid #e2e8f0", fontSize: 12 }}
-              formatter={(v: number) => [v.toFixed(2), "Avg actions"]}
+              formatter={(v) => [Number(v).toFixed(2), "Avg actions"]}
               labelFormatter={(l) => `Minute ${l}`}
             />
             <Area type="monotone" dataKey="upper" stroke="none" fill="url(#gradBand)" />
@@ -233,9 +233,9 @@ export default function OverviewPage() {
                      }} />
               <Tooltip
                 contentStyle={{ borderRadius: 10, border: "1px solid #e2e8f0", fontSize: 12 }}
-                formatter={(v: number, _: string, p: any) => [
-                  `${v >= 0 ? "+" : ""}${v.toFixed(3)} / min`,
-                  p.payload.pressing ? "Pressing ★" : "Not pressing"
+                formatter={(v: any, _: any, p: any) => [
+                  `${Number(v) >= 0 ? "+" : ""}${Number(v).toFixed(3)} / min`,
+                  p?.payload?.pressing ? "Pressing ★" : "Not pressing"
                 ]}
               />
               <ReferenceLine x={0} stroke="#0f172a" strokeWidth={1.5} />
@@ -265,15 +265,15 @@ export default function OverviewPage() {
                 <YAxis tick={{ fontSize: 11, fill: "#94a3b8" }} width={40} />
                 <Tooltip
                   contentStyle={{ borderRadius: 10, border: "1px solid #e2e8f0", fontSize: 12 }}
-                  formatter={(v: number, _, p) => [
-                    `${v >= 0 ? "+" : ""}${v.toFixed(3)} / min (n=${p.payload.n})`,
+                  formatter={(v: any, _: any, p: any) => [
+                    `${Number(v) >= 0 ? "+" : ""}${Number(v).toFixed(3)} / min (n=${p?.payload?.n})`,
                     "Mean Δ"
                   ]}
                 />
                 <ReferenceLine y={0} stroke="#0f172a" strokeWidth={1.5} />
                 <Bar dataKey="value" radius={[6, 6, 0, 0]} maxBarSize={90}
                      label={{ position: "top", fontSize: 12, fontWeight: 700,
-                              formatter: (v: number) => `${v >= 0 ? "+" : ""}${v.toFixed(3)}` }}>
+                              formatter: (v: any) => `${Number(v) >= 0 ? "+" : ""}${Number(v).toFixed(3)}` }}>
                   <Cell fill={RED}   fillOpacity={0.85} />
                   <Cell fill={GREEN} fillOpacity={0.85} />
                 </Bar>

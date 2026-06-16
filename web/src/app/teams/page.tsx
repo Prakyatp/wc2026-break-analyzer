@@ -121,9 +121,9 @@ export default function TeamsPage() {
                        }} />
                 <Tooltip
                   contentStyle={{ borderRadius: 10, border: "1px solid #e2e8f0", fontSize: 12 }}
-                  formatter={(v: number, _, p) => [
-                    `${v >= 0 ? "+" : ""}${v.toFixed(3)} / min`,
-                    p.payload.pressing ? "Was pressing ★" : "Not pressing",
+                  formatter={(v: any, _: any, p: any) => [
+                    `${Number(v) >= 0 ? "+" : ""}${Number(v).toFixed(3)} / min`,
+                    p?.payload?.pressing ? "Was pressing ★" : "Not pressing",
                   ]}
                   labelFormatter={(_, p) => p[0]?.payload?.match_label ?? ""}
                 />

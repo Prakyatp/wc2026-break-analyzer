@@ -145,7 +145,7 @@ export default function MatchesPage() {
                       <YAxis tick={{ fontSize: 11, fill: "#94a3b8" }} width={30} />
                       <Tooltip
                         contentStyle={{ borderRadius: 10, border: "1px solid #e2e8f0", fontSize: 12 }}
-                        formatter={(v: number) => [`${v.toFixed(3)} / min`]}
+                        formatter={(v) => [`${Number(v).toFixed(3)} / min`]}
                       />
                       <Legend wrapperStyle={{ fontSize: 12 }} />
                       <Bar dataKey="home" name={detail.home} fill={detail.home_color}
