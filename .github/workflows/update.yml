@@ -1,0 +1,42 @@
+name: Daily Dataset Update
+
+on:
+  schedule:
+    # runs every day at 9:00 AM UTC (after matches have finished)
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+    # also lets you trigger it manually from the GitHub Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch new match data from ESPN
+        run: python3 build_dataset.py
+
+      - name: Recompute analysis + regenerate website JSON
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python3 export_data.py
+
+      - name: Commit updated data back to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/wc2026_events.csv data/wc2026_breaks.csv web/public/data/
+          git diff --staged --quiet && echo "No new data today." || (
+            git commit -m "data: daily update $(date +'%Y-%m-%d')" &&
+            git push
+          )
