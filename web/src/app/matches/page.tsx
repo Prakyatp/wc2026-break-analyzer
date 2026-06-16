@@ -6,6 +6,7 @@ import {
   ReferenceLine, Cell, Legend,
 } from "recharts";
 import { Card, CardHeader, InsightBox } from "@/components/Card";
+import { BASE } from "@/lib/basePath";
 
 type MatchMeta = { event_id: string; home: string; away: string; label: string };
 type BreakData = {
@@ -41,7 +42,7 @@ export default function MatchesPage() {
   const [detail, setDetail]   = useState<MatchDetail | null>(null);
 
   useEffect(() => {
-    fetch("/data/matches.json").then(r => r.json()).then((m: MatchMeta[]) => {
+    fetch(`${BASE}/data/matches.json`).then(r => r.json()).then((m: MatchMeta[]) => {
       setMatches(m);
       if (m.length) setSelected(m[0].event_id);
     });
@@ -50,7 +51,7 @@ export default function MatchesPage() {
   useEffect(() => {
     if (!selected) return;
     setDetail(null);
-    fetch(`/data/match/${selected}.json`).then(r => r.json()).then(setDetail);
+    fetch(`${BASE}/data/match/${selected}.json`).then(r => r.json()).then(setDetail);
   }, [selected]);
 
   return (

@@ -5,6 +5,7 @@ import {
   ResponsiveContainer, ReferenceLine, Cell,
 } from "recharts";
 import { Card, CardHeader, InsightBox, MetricCard } from "@/components/Card";
+import { BASE } from "@/lib/basePath";
 
 type TeamMeta   = { team: string; slug: string; verdict: string; mean_delta: number };
 type BreakEntry = {
@@ -44,7 +45,7 @@ export default function TeamsPage() {
   const [detail,   setDetail]   = useState<TeamDetail | null>(null);
 
   useEffect(() => {
-    fetch("/data/teams.json").then(r => r.json()).then((t: TeamMeta[]) => {
+    fetch(`${BASE}/data/teams.json`).then(r => r.json()).then((t: TeamMeta[]) => {
       setTeams(t);
       if (t.length) setSelected(t[0].slug);
     });
@@ -53,7 +54,7 @@ export default function TeamsPage() {
   useEffect(() => {
     if (!selected) return;
     setDetail(null);
-    fetch(`/data/team/${selected}.json`).then(r => r.json()).then(setDetail);
+    fetch(`${BASE}/data/team/${selected}.json`).then(r => r.json()).then(setDetail);
   }, [selected]);
 
   return (

@@ -6,6 +6,7 @@ import {
   ReferenceLine, Cell, Legend,
 } from "recharts";
 import { MetricCard, Card, CardHeader, InsightBox } from "@/components/Card";
+import { BASE } from "@/lib/basePath";
 
 type Overview = {
   stats: { matches: number; breaks: number; pressing_lost_pct: number; passive_gained_pct: number };
@@ -59,7 +60,7 @@ export default function OverviewPage() {
   const [summaryHalf, setSummaryHalf]   = useState<1|2>(1);
 
   useEffect(() => {
-    fetch("/data/overview.json").then(r => r.json()).then(setData);
+    fetch(`${BASE}/data/overview.json`).then(r => r.json()).then(setData);
   }, []);
 
   if (!data) return (
