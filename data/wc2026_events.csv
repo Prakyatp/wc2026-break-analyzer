@@ -1810,3 +1810,53 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760432,2026-06-16,France,Senegal,90.0,90'+9',2,Start Delay,France,0,0,0,0,Delay in match because of an injury Kylian Mbappé (France).
 760432,2026-06-16,France,Senegal,90.0,90'+9',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
 760432,2026-06-16,France,Senegal,90.0,90'+10',2,End Regular Time,France,0,0,0,0,"Second Half ends, France 3, Senegal 1."
+760430,2026-06-16,Iraq,Norway,3.9,4',1,Foul,Norway,0,0,1,0,Foul by Torbjørn Heggem (Norway).
+760430,2026-06-16,Iraq,Norway,3.9,4',1,Foul,Iraq,0,0,1,0,Aymen Hussein (Iraq) wins a free kick in the attacking half.
+760430,2026-06-16,Iraq,Norway,4.5,5',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Aymen Hussein (Iraq) header from the centre of the box is too high following a set piece situation.
+760430,2026-06-16,Iraq,Norway,5.2,6',1,Foul,Norway,0,0,1,0,Foul by Alexander Sørloth (Norway).
+760430,2026-06-16,Iraq,Norway,5.2,6',1,Foul,Iraq,0,0,1,0,Akam Hashim (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,7.7,8',1,Foul,Norway,0,0,1,0,Foul by Julian Ryerson (Norway).
+760430,2026-06-16,Iraq,Norway,7.7,8',1,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick on the left wing.
+760430,2026-06-16,Iraq,Norway,9.2,10',1,Foul,Iraq,0,0,1,0,Foul by Ali Al Hamadi (Iraq).
+760430,2026-06-16,Iraq,Norway,9.2,10',1,Foul,Norway,0,0,1,0,Kristoffer Ajer (Norway) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,12.2,13',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Ali Al Hamadi (Iraq) right footed shot from the centre of the box is too high. Assisted by Aymen Hussein.
+760430,2026-06-16,Iraq,Norway,16.4,17',1,Foul,Norway,0,0,1,0,Sander Berge (Norway) wins a free kick on the left wing.
+760430,2026-06-16,Iraq,Norway,16.4,17',1,Foul,Iraq,0,0,1,0,Foul by Zaid Tahseen (Iraq).
+760430,2026-06-16,Iraq,Norway,18.9,19',1,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Ibrahim Bayesh."
+760430,2026-06-16,Iraq,Norway,19.7,20',1,Shot Off Target,Norway,0,0,0,0,Attempt missed. Erling Haaland (Norway) header from the centre of the box is too high. Assisted by Julian Ryerson with a cross following a corner.
+760430,2026-06-16,Iraq,Norway,21.8,22',1,Foul,Iraq,0,0,1,0,Foul by Zaid Ismael (Iraq).
+760430,2026-06-16,Iraq,Norway,21.8,22',1,Foul,Norway,0,0,1,0,Antonio Nusa (Norway) wins a free kick on the left wing.
+760430,2026-06-16,Iraq,Norway,23.2,24',1,Shot Blocked,Norway,1,0,0,0,Attempt blocked. Alexander Sørloth (Norway) header from the centre of the box is blocked. Assisted by Julian Ryerson with a cross.
+760430,2026-06-16,Iraq,Norway,23.8,24',1,Foul,Iraq,0,0,1,0,Ibrahim Bayesh (Iraq) wins a free kick on the right wing.
+760430,2026-06-16,Iraq,Norway,23.8,24',1,Foul,Norway,0,0,1,0,Foul by David Møller Wolfe (Norway).
+760430,2026-06-16,Iraq,Norway,23.9,24',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760430,2026-06-16,Iraq,Norway,26.8,27',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760430,2026-06-16,Iraq,Norway,27.4,28',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Zaid Tahseen (Iraq) left footed shot from outside the box is high and wide to the left following a set piece situation.
+760430,2026-06-16,Iraq,Norway,28.2,29',1,Goal,Norway,1,1,0,0,"Goal! Iraq 0, Norway 1. Erling Haaland (Norway) left footed shot from very close range to the top right corner. Assisted by David Møller Wolfe with a "
+760430,2026-06-16,Iraq,Norway,30.6,31',1,Shot Blocked,Norway,1,0,0,0,Attempt blocked. Alexander Sørloth (Norway) left footed shot from the left side of the box is blocked. Assisted by Erling Haaland.
+760430,2026-06-16,Iraq,Norway,31.3,32',1,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Hussein Ali."
+760430,2026-06-16,Iraq,Norway,33.0,33',1,Foul,Iraq,0,0,1,0,Jalal Hassan (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,33.0,33',1,Foul,Norway,0,0,1,0,Foul by Sander Berge (Norway).
+760430,2026-06-16,Iraq,Norway,34.7,35',1,Foul,Iraq,0,0,1,0,Foul by Aymen Hussein (Iraq).
+760430,2026-06-16,Iraq,Norway,34.7,35',1,Foul,Norway,0,0,1,0,Alexander Sørloth (Norway) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,35.5,36',1,Foul,Iraq,0,0,1,0,Ibrahim Bayesh (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,35.5,36',1,Foul,Norway,0,0,1,0,Foul by David Møller Wolfe (Norway).
+760430,2026-06-16,Iraq,Norway,36.1,37',1,Shot Off Target,Norway,0,0,0,0,Attempt missed. Martin Ødegaard (Norway) left footed shot from outside the box misses to the right. Assisted by Alexander Sørloth.
+760430,2026-06-16,Iraq,Norway,36.5,37',1,Foul,Norway,0,0,1,0,Foul by Alexander Sørloth (Norway).
+760430,2026-06-16,Iraq,Norway,36.5,37',1,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,38.3,39',1,Goal - Header,Norway,1,1,0,0,"Goal! Iraq 1, Norway 1. Aymen Hussein (Iraq) header from the centre of the box to the bottom right corner. Assisted by Amir Al Ammari with a cross."
+760430,2026-06-16,Iraq,Norway,42.3,43',1,Shot On Target,Norway,0,0,0,0,Attempt saved. Erling Haaland (Norway) right footed shot from very close range is saved in the centre of the goal by Jalal Hassan (Iraq).
+760430,2026-06-16,Iraq,Norway,42.4,43',1,Goal,Norway,1,1,0,0,"Goal! Iraq 1, Norway 2. Erling Haaland (Norway) right footed shot from very close range to the centre of the goal."
+760430,2026-06-16,Iraq,Norway,43.9,44',1,Handball,Iraq,0,0,0,0,Handball by Zaid Ismael (Iraq).
+760430,2026-06-16,Iraq,Norway,45.0,45'+1',1,Foul,Norway,0,0,1,0,Foul by David Møller Wolfe (Norway).
+760430,2026-06-16,Iraq,Norway,45.0,45'+1',1,Foul,Iraq,0,0,1,0,Zaid Tahseen (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,45.0,45'+2',1,Foul,Norway,0,0,1,0,Foul by Erling Haaland (Norway).
+760430,2026-06-16,Iraq,Norway,45.0,45'+2',1,Foul,Iraq,0,0,1,0,Akam Hashim (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,45.0,45'+3',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Ali Al Hamadi (Iraq) with an attempt from the centre of the box misses to the right. Assisted by Merchas Doski with a cross.
+760430,2026-06-16,Iraq,Norway,45.0,45'+3',1,Shot Blocked,Iraq,1,0,0,0,Attempt blocked. Ibrahim Bayesh (Iraq) right footed shot from the right side of the six yard box is blocked. Assisted by Ali Al Hamadi.
+760430,2026-06-16,Iraq,Norway,45.0,45'+3',1,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by David Møller Wolfe."
+760430,2026-06-16,Iraq,Norway,45.0,45'+4',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Zaid Tahseen (Iraq) header from the left side of the six yard box is high and wide to the left. Assisted by Amir Al Ammari with a cros
+760430,2026-06-16,Iraq,Norway,45.0,45'+5',1,Shot Blocked,Iraq,1,0,0,0,Attempt blocked. Ali Al Hamadi (Iraq) right footed shot from outside the box is blocked. Assisted by Ali Jasim with a through ball.
+760430,2026-06-16,Iraq,Norway,45.0,45'+5',1,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by Kristoffer Ajer."
+760430,2026-06-16,Iraq,Norway,45.0,45'+6',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Akam Hashim (Iraq) left footed shot from outside the box is too high following a corner.
+760430,2026-06-16,Iraq,Norway,45.0,45'+7',1,Halftime,Iraq,0,0,0,0,"First Half ends, Iraq 1, Norway 2."

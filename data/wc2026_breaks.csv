@@ -33,3 +33,4 @@ event_id,date,home_team,away_team,break_start,break_end,duration_s,display_start
 760427,2026-06-15,Iran,New Zealand,67.7,70.0,138,68',70',2
 760432,2026-06-16,France,Senegal,25.7,29.1,204,26',30',1
 760432,2026-06-16,France,Senegal,68.0,70.5,150,68',71',2
+760430,2026-06-16,Iraq,Norway,23.9,26.8,174,24',27',1

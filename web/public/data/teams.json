@@ -84,6 +84,12 @@
     "mean_delta": 0.2
   },
   {
+    "team": "Iraq",
+    "slug": "iraq",
+    "verdict": "helped",
+    "mean_delta": 0.1
+  },
+  {
     "team": "Ivory Coast",
     "slug": "ivory-coast",
     "verdict": "hurt",
@@ -118,6 +124,12 @@
     "slug": "new-zealand",
     "verdict": "neutral",
     "mean_delta": -0.05
+  },
+  {
+    "team": "Norway",
+    "slug": "norway",
+    "verdict": "helped",
+    "mean_delta": 0.1
   },
   {
     "team": "Paraguay",

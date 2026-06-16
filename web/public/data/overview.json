@@ -1,8 +1,8 @@
 {
   "stats": {
-    "matches": 17,
-    "breaks": 34,
-    "pressing_lost_pct": 69,
+    "matches": 18,
+    "breaks": 35,
+    "pressing_lost_pct": 67,
     "passive_gained_pct": 90
   },
   "break_times": {
@@ -12,9 +12,9 @@
   "timeline": [
     {
       "minute": 0,
-      "avg": 2.182,
-      "upper": 2.478,
-      "lower": 1.886
+      "avg": 2.083,
+      "upper": 2.371,
+      "lower": 1.796
     },
     {
       "minute": 5,
@@ -24,51 +24,51 @@
     },
     {
       "minute": 10,
-      "avg": 2.333,
-      "upper": 2.875,
-      "lower": 1.792
+      "avg": 2.231,
+      "upper": 2.739,
+      "lower": 1.722
     },
     {
       "minute": 15,
-      "avg": 1.5,
-      "upper": 1.703,
-      "lower": 1.297
+      "avg": 1.533,
+      "upper": 1.725,
+      "lower": 1.341
     },
     {
       "minute": 20,
-      "avg": 2.0,
-      "upper": 2.373,
-      "lower": 1.627
+      "avg": 1.9,
+      "upper": 2.248,
+      "lower": 1.552
     },
     {
       "minute": 25,
-      "avg": 2.583,
-      "upper": 2.962,
-      "lower": 2.205
+      "avg": 2.538,
+      "upper": 2.89,
+      "lower": 2.187
     },
     {
       "minute": 30,
-      "avg": 2.071,
-      "upper": 2.316,
-      "lower": 1.826
+      "avg": 2.067,
+      "upper": 2.295,
+      "lower": 1.838
     },
     {
       "minute": 35,
-      "avg": 2.462,
-      "upper": 2.909,
-      "lower": 2.014
+      "avg": 2.429,
+      "upper": 2.844,
+      "lower": 2.013
     },
     {
       "minute": 40,
-      "avg": 2.214,
-      "upper": 2.636,
-      "lower": 1.793
+      "avg": 2.2,
+      "upper": 2.593,
+      "lower": 1.807
     },
     {
       "minute": 45,
-      "avg": 5.267,
-      "upper": 5.895,
-      "lower": 4.638
+      "avg": 5.375,
+      "upper": 5.973,
+      "lower": 4.777
     },
     {
       "minute": 50,
@@ -224,6 +224,13 @@
         "post": 0.0,
         "delta": -0.3,
         "pressing": true
+      },
+      {
+        "team": "Norway",
+        "pre": 0.3,
+        "post": 0.4,
+        "delta": 0.1,
+        "pressing": true
       }
     ],
     "half2": [
@@ -357,13 +364,18 @@
         "pressing": true
       },
       {
+        "team": "Cura\u00e7ao",
+        "delta": -0.2,
+        "pressing": true
+      },
+      {
         "team": "Bosnia-Herzegovina",
         "delta": -0.2,
         "pressing": true
       },
       {
-        "team": "Cura\u00e7ao",
-        "delta": -0.2,
+        "team": "Senegal",
+        "delta": -0.1,
         "pressing": true
       },
       {
@@ -377,22 +389,17 @@
         "pressing": false
       },
       {
+        "team": "Switzerland",
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
         "team": "Spain",
         "delta": -0.1,
         "pressing": true
       },
       {
         "team": "Ivory Coast",
-        "delta": -0.1,
-        "pressing": true
-      },
-      {
-        "team": "Switzerland",
-        "delta": -0.1,
-        "pressing": true
-      },
-      {
-        "team": "Senegal",
         "delta": -0.1,
         "pressing": true
       },
@@ -417,17 +424,32 @@
         "pressing": false
       },
       {
-        "team": "Paraguay",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
         "team": "South Africa",
         "delta": 0.0,
         "pressing": false
       },
       {
+        "team": "Paraguay",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Norway",
+        "delta": 0.1,
+        "pressing": true
+      },
+      {
+        "team": "Iraq",
+        "delta": 0.1,
+        "pressing": false
+      },
+      {
         "team": "New Zealand",
+        "delta": 0.1,
+        "pressing": false
+      },
+      {
+        "team": "Egypt",
         "delta": 0.1,
         "pressing": false
       },
@@ -442,22 +464,7 @@
         "pressing": false
       },
       {
-        "team": "Egypt",
-        "delta": 0.1,
-        "pressing": false
-      },
-      {
-        "team": "Scotland",
-        "delta": 0.2,
-        "pressing": false
-      },
-      {
-        "team": "Qatar",
-        "delta": 0.2,
-        "pressing": false
-      },
-      {
-        "team": "T\u00fcrkiye",
+        "team": "Iran",
         "delta": 0.2,
         "pressing": false
       },
@@ -467,12 +474,22 @@
         "pressing": false
       },
       {
-        "team": "Iran",
+        "team": "Qatar",
         "delta": 0.2,
         "pressing": false
       },
       {
-        "team": "Netherlands",
+        "team": "Scotland",
+        "delta": 0.2,
+        "pressing": false
+      },
+      {
+        "team": "T\u00fcrkiye",
+        "delta": 0.2,
+        "pressing": false
+      },
+      {
+        "team": "Sweden",
         "delta": 0.3,
         "pressing": false
       },
@@ -482,14 +499,14 @@
         "pressing": false
       },
       {
-        "team": "Sweden",
-        "delta": 0.3,
-        "pressing": false
-      },
-      {
         "team": "Canada",
         "delta": 0.3,
         "pressing": true
+      },
+      {
+        "team": "Netherlands",
+        "delta": 0.3,
+        "pressing": false
       },
       {
         "team": "Haiti",
@@ -683,14 +700,14 @@
   "summary": {
     "half1": {
       "pressing": {
-        "mean": -0.1357,
-        "sem": 0.0427,
-        "n": 14
+        "mean": -0.12,
+        "sem": 0.0428,
+        "n": 15
       },
       "notpressing": {
-        "mean": 0.18,
-        "sem": 0.0374,
-        "n": 20
+        "mean": 0.1762,
+        "sem": 0.0358,
+        "n": 21
       },
       "pvalue": 0.0
     },
@@ -709,9 +726,9 @@
     }
   },
   "insights": {
-    "timeline": "The attacking pressure pattern in the 2026 World Cup reveals that teams tend to build momentum in the first 20 minutes of each half, with a significant increase in shots, corners, and goals. The hydration break at around 23 minutes into the first half seems to interrupt this initial surge, causing a brief lull in attacking pressure before teams regain their rhythm. In the second half, the break at approximately 67 minutes appears to come at a point where teams are already experiencing a natural dip in pressure, allowing them to regroup and potentially launch a late push for a goal. Overall, the break timing seems to be well-placed to minimize disruptions to the natural flow of the game, while still providing players with essential rest and hydration.",
-    "scatter": "The statistics from the FIFA World Cup 2026 show that teams that are actively pressing their opponents, meaning they launch at least two attacks within a 10-minute period before a hydration break, tend to lose their momentum after the break. This is evident in both the first and second halves of matches, where 12 out of 14 and 8 out of 15 pressing teams, respectively, experienced a drop in performance after the break. This means that in real match terms, when a team is aggressively pushing forward and creating scoring opportunities before a hydration break, they often struggle to maintain that same level of intensity and pressure on their opponents after the break. As a result, the opposing team may be able to gain an advantage and potentially turn the game in their favor.",
-    "deltas": "The statistics suggest that the hydration break has a significant impact on the momentum of a match, particularly in the first half. The increase in actions per minute after the break indicates that teams tend to come out stronger and more energetic, with an average increase of 0.050 actions per minute, which can translate to more intense and dynamic play. However, teams that employ a pressing strategy tend to lose momentum after the break, as evidenced by their dominance on the negative side of the distribution, implying that the break disrupts their high-intensity approach and allows their opponents to regroup and counter-attack. This disruption can be a crucial factor in the outcome of a match, as teams that can adapt to the break and maintain their momentum may gain a significant advantage over their opponents.",
-    "summary": "The statistics show that teams that press high up the pitch tend to lose momentum during hydration breaks, while teams that don't press as much actually gain momentum. In real match terms, this means that when a pressing team takes a break, they tend to lose their intensity and concede more possession to their opponents, allowing the non-pressing team to gain an advantage. This \"equalizer effect\" is more pronounced during the first half break, where pressing teams lose a significant amount of momentum, but it still exists in the second half, albeit to a lesser extent, suggesting that hydration breaks can be a crucial factor in shifting the balance of a match. As a result, coaches may need to adjust their strategies during breaks to mitigate this effect and maintain their team's momentum throughout the game."
+    "timeline": "The attacking pressure pattern in WC2026 matches shows that teams tend to build momentum in the first 20 minutes of each half, with a noticeable spike in shots, corners, and goals. The hydration break at around 23 minutes into the first half comes at a point where teams are just starting to find their rhythm, potentially disrupting their flow and allowing the opposing team to regroup. In the second half, the break at around 67 minutes occurs when teams are often pushing for a late goal, and the pause can give them a chance to reassess and adjust their strategy, which may explain why there's often a surge in pressure after the break. Overall, the timing of the hydration breaks seems to intersect with key moments in the match where teams are establishing or re-establishing their attacking rhythm.",
+    "scatter": "The statistics from the FIFA World Cup 2026 show that teams which are actively pressing their opponents, meaning they launch at least two attacks within a 10-minute period before a hydration break, tend to lose their momentum after the break. This is evident in both the first and second halves of the matches, where 12 out of 15 teams and 8 out of 15 teams respectively, that were pressing before the break, saw a decline in their performance afterwards. This suggests that the hydration breaks are disrupting the rhythm of these teams, causing them to struggle to regain their intensity and attacking flair after the pause in play. As a result, teams that are dominating possession and creating scoring opportunities before the break often find themselves on the back foot afterwards, which can significantly impact the outcome of the match.",
+    "deltas": "The statistics from the FIFA World Cup 2026 show that teams tend to have a slight increase in actions per minute after the first half hydration break, with an average increase of 0.053 actions per minute, indicating a minor boost in intensity. However, this increase is much less pronounced in the second half, with an average increase of only 0.009 actions per minute, suggesting that the break has a lesser impact on the game's momentum later on. The fact that teams that were pressing tend to have a decrease in actions per minute after the break, while non-pressing teams see an increase, implies that the hydration break can disrupt the momentum of teams that were aggressively pushing the pace of the game. This disruption can potentially level the playing field, allowing non-pressing teams to regain their footing and mount a challenge against their more aggressive opponents.",
+    "summary": "The statistics show that teams that press high up the pitch tend to lose momentum during hydration breaks, with their intensity dropping significantly, while teams that don't press as much actually gain energy and intensity during these breaks. This \"equalizer effect\" means that the breaks are essentially leveling the playing field, allowing non-pressing teams to catch their breath and regain their composure, while pressing teams struggle to maintain their high-intensity pace. As a result, the breaks are having a profound impact on the dynamics of the match, with pressing teams losing their advantage and non-pressing teams gaining a newfound sense of energy and purpose. This shift in momentum can be a game-changer, potentially altering the outcome of the match in favor of the non-pressing team."
   }
 }

@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the Brazil vs Morocco match, Brazil's attacking momentum decreased significantly after the first hydration break, with their actions per minute dropping by 0.30, indicating a noticeable slowdown in their offense. In contrast, Morocco's attacking momentum increased substantially after the first break, with their actions per minute rising by 0.50, showing a marked improvement in their offense. After the second hydration break, Brazil's attacking momentum saw a slight increase, while Morocco's remained unchanged, suggesting that Morocco benefited more overall from the hydration breaks in terms of maintaining and building their attacking momentum. Overall, Morocco's ability to increase their attacking pace after the first break and maintain it after the second break gave them an edge in terms of momentum, despite Brazil's initial strong start.",
+  "insight": "During the first hydration break, Morocco's attacking momentum increased significantly, with their actions per minute rising by 0.50, indicating they were creating more scoring opportunities after the break. In contrast, Brazil's momentum slowed down, with a decrease of 0.30 actions per minute, suggesting they lost some of their attacking edge. At the second hydration break, Brazil's momentum picked up slightly, while Morocco's remained unchanged, but overall, Morocco seemed to benefit more from the breaks, as their increase in momentum during the first break was more substantial than Brazil's slight gain in the second. This shift in momentum could have impacted the overall flow of the game, potentially affecting the final score in favor of Morocco.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -100,7 +100,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Mexico and South Africa, the hydration breaks seemed to have a neutral effect on both teams' attacking momentum initially, as neither team gained or lost any actions per minute at the first break. However, at the second hydration break, both teams experienced a slight decline in their attacking momentum, with Mexico and South Africa each seeing a decrease of 0.10 actions per minute. This suggests that the breaks may have disrupted the flow of the game, particularly in the second half, but neither team appeared to benefit more than the other in terms of regaining momentum. Overall, the hydration breaks seemed to have a similar, mildly negative impact on both teams' attacking performance, with neither Mexico nor South Africa able to capitalize on the breaks to gain a significant advantage.",
+  "insight": "During the match between Mexico and South Africa, the hydration breaks seemed to have a neutral effect on both teams' attacking momentum at the first break, with neither team gaining or losing any intensity. However, at the second break, both teams experienced a slight decline in attacking actions per minute, with Mexico's rate decreasing from 1 to 0 actions and South Africa's also decreasing, indicating a loss of momentum for both teams. Mexico may have been slightly more affected by this decline, as they had a higher initial rate of attacking actions, but overall, the impact of the hydration breaks was relatively balanced between the two teams. As a result, neither team appeared to benefit significantly more than the other from the hydration breaks in terms of regaining or maintaining their attacking momentum.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

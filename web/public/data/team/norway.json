@@ -1,0 +1,31 @@
+{
+  "team": "Norway",
+  "slug": "norway",
+  "stats": {
+    "total_breaks": 1,
+    "gained": 1,
+    "lost": 0,
+    "mean_delta": 0.1,
+    "verdict": "helped",
+    "pressing_n": 1,
+    "pressing_mean": 0.1,
+    "pressing_kept": 1,
+    "nonpressing_n": 0,
+    "nonpressing_mean": 0,
+    "nonpressing_gained": 0,
+    "half1_mean": 0.1,
+    "half2_mean": 0
+  },
+  "breaks": [
+    {
+      "opponent": "Iraq",
+      "half": 1,
+      "match_label": "Iraq v Norway",
+      "pre_rate": 0.3,
+      "post_rate": 0.4,
+      "delta": 0.1,
+      "pressing": true
+    }
+  ],
+  "insight": "In the 2026 FIFA World Cup, Norway's single hydration break had a notable impact on their performance, as they managed to gain momentum after the break, with their average change in momentum increasing by 0.100 minutes. This suggests that the break allowed Norway to regroup and refocus, leading to a stronger performance afterwards. Specifically, when Norway was pressing before the break, they were able to maintain their momentum after the break, which happened in their only instance of pressing before a hydration break. Overall, the data indicates that Norway was able to effectively utilize the hydration break to their advantage, although more data would be needed to draw more comprehensive conclusions."
+}
