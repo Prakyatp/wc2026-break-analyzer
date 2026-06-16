@@ -1,0 +1,40 @@
+{
+  "team": "Netherlands",
+  "slug": "netherlands",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.3,
+    "verdict": "helped",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.3,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.3,
+    "half2_mean": 0.3
+  },
+  "breaks": [
+    {
+      "opponent": "Japan",
+      "half": 1,
+      "match_label": "Netherlands v Japan",
+      "pre_rate": 0.0,
+      "post_rate": 0.3,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Japan",
+      "half": 2,
+      "match_label": "Netherlands v Japan",
+      "pre_rate": 0.1,
+      "post_rate": 0.4,
+      "delta": 0.3,
+      "pressing": false
+    }
+  ],
+  "insight": "The hydration breaks in the 2026 World Cup seem to have a positive impact on the Netherlands team, as they gained momentum in both of their breaks, with an average increase of 0.300 points per minute. This suggests that the breaks allow the team to regroup and refocus, leading to improved performance on the field. Notably, the team's success in gaining momentum during breaks is not dependent on their pressing strategy before the break, as they did not press before any of the breaks but still managed to gain momentum afterwards, maintaining an average increase of 0.300 points per minute. Overall, the data indicates that the Netherlands team is able to capitalize on the hydration breaks to boost their performance and gain an advantage over their opponents."
+}

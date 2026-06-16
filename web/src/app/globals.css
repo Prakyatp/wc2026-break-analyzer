@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* WC2026 official gradient — red → orange → gold → navy */
+  --wc-gradient: linear-gradient(145deg, #C8102E 0%, #E8412A 20%, #F47B20 50%, #FFB800 72%, #003087 100%);
+  --wc-red:    #C8102E;
+  --wc-orange: #F47B20;
+  --wc-gold:   #FFB800;
+  --wc-navy:   #003087;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background: #f5f6fa;
+  color: #0f172a;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Utility: apply WC gradient as text fill */
+.wc-text {
+  background: var(--wc-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Utility: WC gradient background */
+.wc-bg { background: var(--wc-gradient); }
+
+/* scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: #cbd5e1; }

@@ -1,0 +1,40 @@
+{
+  "team": "Brazil",
+  "slug": "brazil",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.1,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": -0.3,
+    "half2_mean": 0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Morocco",
+      "half": 1,
+      "match_label": "Brazil v Morocco",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Morocco",
+      "half": 2,
+      "match_label": "Brazil v Morocco",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    }
+  ],
+  "insight": "Brazil's performance during hydration breaks in the 2026 World Cup shows that the team was able to gain momentum in half of the breaks, with an average change of -0.100 minutes per break, indicating a slight loss of momentum overall. However, when Brazil was pressing before a break, they tended to lose more momentum, with an average change of -0.300 minutes per break, and were unable to regain it after the break. In contrast, when Brazil was not pressing before a break, they were able to maintain or slightly gain momentum, with an average change of +0.100 minutes per break, suggesting that the team may benefit from a more conservative approach leading up to a hydration break. This data suggests that Brazil's strategy leading up to a break can significantly impact their performance after the break."
+}

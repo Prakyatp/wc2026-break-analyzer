@@ -1,0 +1,40 @@
+{
+  "team": "Tunisia",
+  "slug": "tunisia",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.2,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.1,
+    "half2_mean": -0.2
+  },
+  "breaks": [
+    {
+      "opponent": "Sweden",
+      "half": 1,
+      "match_label": "Sweden v Tunisia",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Sweden",
+      "half": 2,
+      "match_label": "Sweden v Tunisia",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "For Tunisia, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they tend to lose a bit of momentum after a break, with a mean change of -0.050 per minute, indicating a slight decline in performance. However, the numbers also suggest that when Tunisia isn't pressing before a break, they tend to gain momentum afterwards, with an average change of +0.100 per minute, which could be a strategic insight for their coaches. In contrast, when they are pressing before a break, they tend to lose more momentum, with an average change of -0.200 per minute, which may indicate a need to adjust their pre-break tactics to maintain their intensity."
+}

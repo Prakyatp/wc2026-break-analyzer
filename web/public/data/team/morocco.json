@@ -1,0 +1,40 @@
+{
+  "team": "Morocco",
+  "slug": "morocco",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.25,
+    "verdict": "helped",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.25,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.5,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Brazil",
+      "half": 1,
+      "match_label": "Brazil v Morocco",
+      "pre_rate": 0.1,
+      "post_rate": 0.6,
+      "delta": 0.5,
+      "pressing": false
+    },
+    {
+      "opponent": "Brazil",
+      "half": 2,
+      "match_label": "Brazil v Morocco",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "Morocco's performance in the 2026 FIFA World Cup shows a notable trend when it comes to hydration breaks, as they managed to gain momentum in both of their breaks, with a mean increase of 0.250 points per minute. This suggests that the team is able to regroup and refocus during these breaks, ultimately leading to a positive impact on their gameplay. The fact that they were not pressing before any of the breaks means there's no data on how they perform in those situations, but when they weren't pressing, they still maintained an average increase of 0.250 points per minute, indicating that the breaks themselves are a key factor in their momentum gain. Overall, Morocco seems to be benefiting from the hydration breaks, using them as an opportunity to recharge and come back stronger, which could be a crucial strategic advantage in their matches."
+}

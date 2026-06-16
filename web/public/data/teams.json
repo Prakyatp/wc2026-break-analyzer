@@ -1,0 +1,206 @@
+[
+  {
+    "team": "Australia",
+    "slug": "australia",
+    "verdict": "neutral",
+    "mean_delta": 0.05
+  },
+  {
+    "team": "Belgium",
+    "slug": "belgium",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Bosnia-Herzegovina",
+    "slug": "bosnia-herzegovina",
+    "verdict": "hurt",
+    "mean_delta": -0.1
+  },
+  {
+    "team": "Brazil",
+    "slug": "brazil",
+    "verdict": "hurt",
+    "mean_delta": -0.1
+  },
+  {
+    "team": "Canada",
+    "slug": "canada",
+    "verdict": "helped",
+    "mean_delta": 0.15
+  },
+  {
+    "team": "Cape Verde",
+    "slug": "cape-verde",
+    "verdict": "helped",
+    "mean_delta": 0.1
+  },
+  {
+    "team": "Cura\u00e7ao",
+    "slug": "cura-ao",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Czechia",
+    "slug": "czechia",
+    "verdict": "hurt",
+    "mean_delta": -0.15
+  },
+  {
+    "team": "Ecuador",
+    "slug": "ecuador",
+    "verdict": "neutral",
+    "mean_delta": 0.0
+  },
+  {
+    "team": "Egypt",
+    "slug": "egypt",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "France",
+    "slug": "france",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Germany",
+    "slug": "germany",
+    "verdict": "helped",
+    "mean_delta": 0.25
+  },
+  {
+    "team": "Haiti",
+    "slug": "haiti",
+    "verdict": "helped",
+    "mean_delta": 0.5
+  },
+  {
+    "team": "Iran",
+    "slug": "iran",
+    "verdict": "helped",
+    "mean_delta": 0.2
+  },
+  {
+    "team": "Ivory Coast",
+    "slug": "ivory-coast",
+    "verdict": "hurt",
+    "mean_delta": -0.15
+  },
+  {
+    "team": "Japan",
+    "slug": "japan",
+    "verdict": "neutral",
+    "mean_delta": 0.0
+  },
+  {
+    "team": "Mexico",
+    "slug": "mexico",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Morocco",
+    "slug": "morocco",
+    "verdict": "helped",
+    "mean_delta": 0.25
+  },
+  {
+    "team": "Netherlands",
+    "slug": "netherlands",
+    "verdict": "helped",
+    "mean_delta": 0.3
+  },
+  {
+    "team": "New Zealand",
+    "slug": "new-zealand",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Paraguay",
+    "slug": "paraguay",
+    "verdict": "neutral",
+    "mean_delta": 0.0
+  },
+  {
+    "team": "Qatar",
+    "slug": "qatar",
+    "verdict": "helped",
+    "mean_delta": 0.15
+  },
+  {
+    "team": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Scotland",
+    "slug": "scotland",
+    "verdict": "helped",
+    "mean_delta": 0.1
+  },
+  {
+    "team": "Senegal",
+    "slug": "senegal",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "South Africa",
+    "slug": "south-africa",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "South Korea",
+    "slug": "south-korea",
+    "verdict": "hurt",
+    "mean_delta": -0.2
+  },
+  {
+    "team": "Spain",
+    "slug": "spain",
+    "verdict": "neutral",
+    "mean_delta": 0.0
+  },
+  {
+    "team": "Sweden",
+    "slug": "sweden",
+    "verdict": "helped",
+    "mean_delta": 0.1
+  },
+  {
+    "team": "Switzerland",
+    "slug": "switzerland",
+    "verdict": "hurt",
+    "mean_delta": -0.1
+  },
+  {
+    "team": "Tunisia",
+    "slug": "tunisia",
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "T\u00fcrkiye",
+    "slug": "t-rkiye",
+    "verdict": "helped",
+    "mean_delta": 0.1
+  },
+  {
+    "team": "United States",
+    "slug": "united-states",
+    "verdict": "helped",
+    "mean_delta": 0.15
+  },
+  {
+    "team": "Uruguay",
+    "slug": "uruguay",
+    "verdict": "hurt",
+    "mean_delta": -0.1
+  }
+]

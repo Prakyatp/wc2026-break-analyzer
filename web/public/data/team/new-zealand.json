@@ -1,0 +1,40 @@
+{
+  "team": "New Zealand",
+  "slug": "new-zealand",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.2,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.1,
+    "half2_mean": -0.2
+  },
+  "breaks": [
+    {
+      "opponent": "Iran",
+      "half": 1,
+      "match_label": "Iran v New Zealand",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Iran",
+      "half": 2,
+      "match_label": "Iran v New Zealand",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "For New Zealand, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they tend to lose a bit of momentum after a break, with a mean change of -0.050 per minute, indicating a slight decline in their performance. However, the numbers also suggest that when New Zealand is not pressing before a break, they are able to regain some momentum afterwards, as evidenced by a positive change of +0.100 per minute in such situations, whereas when they are pressing, they tend to lose more momentum, with a change of -0.200 per minute, and have not been able to maintain their momentum after the break. This implies that New Zealand's strategy and performance can be influenced by their approach before a hydration break, with a more cautious approach potentially leading to better outcomes."
+}

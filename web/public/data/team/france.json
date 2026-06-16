@@ -1,0 +1,40 @@
+{
+  "team": "France",
+  "slug": "france",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.2,
+    "nonpressing_gained": 1,
+    "half1_mean": -0.3,
+    "half2_mean": 0.2
+  },
+  "breaks": [
+    {
+      "opponent": "Senegal",
+      "half": 1,
+      "match_label": "France v Senegal",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Senegal",
+      "half": 2,
+      "match_label": "France v Senegal",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    }
+  ],
+  "insight": "For France, the hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they have slightly lost momentum during these breaks, with a mean change of -0.050 per minute, indicating a minor decline in their performance. However, the numbers also suggest that when France was pressing before a break, they struggled to maintain their momentum afterwards, losing it entirely in the one instance this occurred, with their performance declining by an average of -0.300 per minute. In contrast, when they weren't pressing before a break, they actually gained momentum, with their performance improving by an average of +0.200 per minute, highlighting the importance of strategic decision-making around these breaks."
+}

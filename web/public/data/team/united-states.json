@@ -1,0 +1,40 @@
+{
+  "team": "United States",
+  "slug": "united-states",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.15,
+    "verdict": "helped",
+    "pressing_n": 1,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.3,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.3,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Paraguay",
+      "half": 1,
+      "match_label": "United States v Paraguay",
+      "pre_rate": 0.1,
+      "post_rate": 0.4,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Paraguay",
+      "half": 2,
+      "match_label": "United States v Paraguay",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    }
+  ],
+  "insight": "The hydration breaks in the 2026 FIFA World Cup have had a notable impact on the United States team, with the team gaining momentum in both of their breaks, resulting in a mean increase of 0.150 points per minute. This suggests that the breaks have given the team a chance to regroup and refocus, leading to improved performance on the field. The data also shows that when the United States was not pressing before a break, they tended to gain more momentum afterwards, with an average increase of 0.300 points per minute, indicating that the break allowed them to recharge and come back stronger. Overall, the hydration breaks seem to be a beneficial factor for the United States team, allowing them to regain their footing and push forward with renewed energy."
+}

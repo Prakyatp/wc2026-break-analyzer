@@ -1,0 +1,40 @@
+{
+  "team": "Iran",
+  "slug": "iran",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.2,
+    "verdict": "helped",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.2,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.2,
+    "half2_mean": 0.2
+  },
+  "breaks": [
+    {
+      "opponent": "New Zealand",
+      "half": 1,
+      "match_label": "Iran v New Zealand",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "New Zealand",
+      "half": 2,
+      "match_label": "Iran v New Zealand",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    }
+  ],
+  "insight": "Iran's performance in the 2026 FIFA World Cup has shown a notable trend when it comes to hydration breaks, with the team gaining momentum after both breaks they've had. This means that after taking a short pause to rehydrate, Iran has been able to increase their intensity and pace of play, which can be a significant advantage in a match. The data suggests that this momentum boost is consistent, regardless of whether they were pressing or not before the break, as they've only had breaks when not pressing and still managed to gain momentum. Overall, Iran seems to be using hydration breaks effectively to recharge and come back stronger, which could be a key factor in their success in the tournament."
+}

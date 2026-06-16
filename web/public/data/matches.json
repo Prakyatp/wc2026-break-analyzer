@@ -1,0 +1,104 @@
+[
+  {
+    "event_id": 760415,
+    "home": "Mexico",
+    "away": "South Africa",
+    "label": "Mexico vs South Africa"
+  },
+  {
+    "event_id": 760414,
+    "home": "South Korea",
+    "away": "Czechia",
+    "label": "South Korea vs Czechia"
+  },
+  {
+    "event_id": 760416,
+    "home": "Canada",
+    "away": "Bosnia-Herzegovina",
+    "label": "Canada vs Bosnia-Herzegovina"
+  },
+  {
+    "event_id": 760417,
+    "home": "United States",
+    "away": "Paraguay",
+    "label": "United States vs Paraguay"
+  },
+  {
+    "event_id": 760420,
+    "home": "Qatar",
+    "away": "Switzerland",
+    "label": "Qatar vs Switzerland"
+  },
+  {
+    "event_id": 760419,
+    "home": "Brazil",
+    "away": "Morocco",
+    "label": "Brazil vs Morocco"
+  },
+  {
+    "event_id": 760418,
+    "home": "Haiti",
+    "away": "Scotland",
+    "label": "Haiti vs Scotland"
+  },
+  {
+    "event_id": 760421,
+    "home": "Australia",
+    "away": "T\u00fcrkiye",
+    "label": "Australia vs T\u00fcrkiye"
+  },
+  {
+    "event_id": 760422,
+    "home": "Germany",
+    "away": "Cura\u00e7ao",
+    "label": "Germany vs Cura\u00e7ao"
+  },
+  {
+    "event_id": 760425,
+    "home": "Netherlands",
+    "away": "Japan",
+    "label": "Netherlands vs Japan"
+  },
+  {
+    "event_id": 760423,
+    "home": "Ivory Coast",
+    "away": "Ecuador",
+    "label": "Ivory Coast vs Ecuador"
+  },
+  {
+    "event_id": 760424,
+    "home": "Sweden",
+    "away": "Tunisia",
+    "label": "Sweden vs Tunisia"
+  },
+  {
+    "event_id": 760428,
+    "home": "Spain",
+    "away": "Cape Verde",
+    "label": "Spain vs Cape Verde"
+  },
+  {
+    "event_id": 760426,
+    "home": "Belgium",
+    "away": "Egypt",
+    "label": "Belgium vs Egypt"
+  },
+  {
+    "event_id": 760429,
+    "home": "Saudi Arabia",
+    "away": "Uruguay",
+    "label": "Saudi Arabia vs Uruguay"
+  },
+  {
+    "event_id": 760427,
+    "home": "Iran",
+    "away": "New Zealand",
+    "label": "Iran vs New Zealand"
+  },
+  {
+    "event_id": 760432,
+    "home": "France",
+    "away": "Senegal",
+    "label": "France vs Senegal"
+  }
+]

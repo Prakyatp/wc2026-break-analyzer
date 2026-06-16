@@ -1,0 +1,40 @@
+{
+  "team": "Canada",
+  "slug": "canada",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.15,
+    "verdict": "helped",
+    "pressing_n": 2,
+    "pressing_mean": 0.15,
+    "pressing_kept": 2,
+    "nonpressing_n": 0,
+    "nonpressing_mean": 0,
+    "nonpressing_gained": 0,
+    "half1_mean": 0.3,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 1,
+      "match_label": "Canada v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.5,
+      "delta": 0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 2,
+      "match_label": "Canada v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    }
+  ],
+  "insight": "For the Canadian team in the 2026 World Cup, hydration breaks have had a notable impact on their performance, with the team gaining momentum in both of their breaks so far. This means that after taking a break to rehydrate, Canada has been able to increase their intensity and pace of play, which can be a significant advantage in terms of creating scoring opportunities and putting pressure on their opponents. Specifically, when Canada was pressing before a hydration break, they were able to maintain their momentum after the break, which suggests that the team is able to use these breaks effectively to recharge and refocus without losing their edge. Overall, the statistics suggest that hydration breaks have been a positive factor for Canada, allowing them to sustain their energy and intensity levels throughout the match."
+}

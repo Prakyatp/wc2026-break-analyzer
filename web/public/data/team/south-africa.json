@@ -1,0 +1,40 @@
+{
+  "team": "South Africa",
+  "slug": "south-africa",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": -0.05,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.0,
+    "half2_mean": -0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Mexico",
+      "half": 1,
+      "match_label": "Mexico v South Africa",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Mexico",
+      "half": 2,
+      "match_label": "Mexico v South Africa",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    }
+  ],
+  "insight": "In the 2026 FIFA World Cup, South Africa's performance during hydration breaks has been a mixed bag, with the team managing to gain momentum in only half of the two breaks they've had, resulting in a slight decline in performance with a mean change of -0.050 minutes per minute. When they didn't press before the break, which happened twice, they still experienced a slight decline in performance, averaging a change of -0.050 minutes per minute, indicating that the breaks didn't provide a significant boost to their gameplay. This suggests that South Africa struggles to capitalize on hydration breaks to shift the momentum in their favor, and instead, often sees a minor drop in performance. Overall, the hydration breaks have not been a significant factor in South Africa's ability to turn the tide of a match."
+}

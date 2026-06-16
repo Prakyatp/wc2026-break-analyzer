@@ -1,0 +1,40 @@
+{
+  "team": "Cape Verde",
+  "slug": "cape-verde",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.1,
+    "verdict": "helped",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.2,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Spain",
+      "half": 1,
+      "match_label": "Spain v Cape Verde",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Spain",
+      "half": 2,
+      "match_label": "Spain v Cape Verde",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "Cape Verde seems to benefit from hydration breaks in the FIFA World Cup 2026, as they gained momentum in both of their breaks, with a mean change of +0.100 minutes per minute. This suggests that the team is able to regroup and refocus during these breaks, allowing them to come back stronger and more energized. The fact that they were not pressing before any of the breaks but still managed to gain momentum after the breaks indicates that the team is able to capitalize on the brief pause in play to adjust their strategy and gain an advantage. Overall, the hydration breaks appear to be a positive factor for Cape Verde, allowing them to shift the momentum in their favor and potentially impact the outcome of the match."
+}

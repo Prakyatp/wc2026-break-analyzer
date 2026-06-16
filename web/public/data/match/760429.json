@@ -1,0 +1,131 @@
+{
+  "event_id": 760429,
+  "home": "Saudi Arabia",
+  "away": "Uruguay",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 35,
+      "home": 5,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 3
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 4
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 4
+    },
+    {
+      "minute": 85,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 13
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.9,
+      "break_end": 26.8,
+      "display": "23'",
+      "home_pre": 0.2,
+      "home_post": 0.1,
+      "home_delta": -0.1,
+      "away_pre": 0.1,
+      "away_post": 0.0,
+      "away_delta": -0.1
+    },
+    {
+      "half": 2,
+      "break_start": 68.4,
+      "break_end": 71.1,
+      "display": "69'",
+      "home_pre": 0.0,
+      "home_post": 0.0,
+      "home_delta": 0.0,
+      "away_pre": 0.5,
+      "away_post": 0.4,
+      "away_delta": -0.1
+    }
+  ],
+  "insight": "At the first hydration break, Saudi Arabia's attacking momentum slightly decreased, with 2 actions leading to 1, resulting in a decrease of 0.10 actions per minute, while Uruguay's also decreased at the same rate, with 1 action leading to 0. By the second hydration break, Saudi Arabia's attacking momentum remained steady with no change, whereas Uruguay's decreased again, despite having 5 actions leading to 4, still resulting in a decrease of 0.10 actions per minute. Overall, Saudi Arabia seemed to benefit more from the hydration breaks as they were able to stabilize their attacking momentum by the second break, while Uruguay continued to experience a decline. This suggests that Saudi Arabia may have been better at adjusting their strategy and regrouping during the breaks, potentially giving them an edge in the match.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

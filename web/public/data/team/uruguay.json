@@ -1,0 +1,40 @@
+{
+  "team": "Uruguay",
+  "slug": "uruguay",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 0,
+    "lost": 2,
+    "mean_delta": -0.1,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.1,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": -0.1,
+    "nonpressing_gained": 0,
+    "half1_mean": -0.1,
+    "half2_mean": -0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Saudi Arabia",
+      "half": 1,
+      "match_label": "Saudi Arabia v Uruguay",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Saudi Arabia",
+      "half": 2,
+      "match_label": "Saudi Arabia v Uruguay",
+      "pre_rate": 0.5,
+      "post_rate": 0.4,
+      "delta": -0.1,
+      "pressing": true
+    }
+  ],
+  "insight": "Uruguay's performance after hydration breaks in the 2026 World Cup has been underwhelming, as they failed to gain momentum in both of their breaks, with a mean change of -0.100 minutes per minute, indicating a slight decline in their performance. This trend holds true whether they were pressing before the break or not, as they maintained an average change of -0.100 minutes per minute in both scenarios, and were unable to keep momentum going after the break when they did press. This suggests that the breaks may be disrupting Uruguay's rhythm, rather than providing a boost, and they may need to adjust their strategy to capitalize on these pauses in play. Overall, the numbers indicate that Uruguay struggles to regain their footing after hydration breaks, which could be a crucial factor in their overall performance in the tournament."
+}

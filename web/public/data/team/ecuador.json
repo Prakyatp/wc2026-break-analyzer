@@ -1,0 +1,40 @@
+{
+  "team": "Ecuador",
+  "slug": "ecuador",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.0,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.0,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Ivory Coast",
+      "half": 1,
+      "match_label": "Ivory Coast v Ecuador",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Ivory Coast",
+      "half": 2,
+      "match_label": "Ivory Coast v Ecuador",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "Ecuador's performance during hydration breaks in the 2026 World Cup has been notable, as they managed to gain momentum in both of their breaks, with no significant change in their pace. This suggests that the team is able to maintain their energy levels and intensity even after the brief pause, which can be a crucial factor in determining the outcome of a match. The fact that Ecuador's momentum was unaffected whether they were pressing or not pressing before the break indicates that their strategy and teamwork are consistent, allowing them to adapt to different situations and maintain their rhythm. Overall, Ecuador's ability to capitalize on hydration breaks without losing momentum could be a key advantage for the team as they progress through the tournament."
+}

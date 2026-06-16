@@ -1,0 +1,40 @@
+{
+  "team": "Japan",
+  "slug": "japan",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.0,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.0,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Netherlands",
+      "half": 1,
+      "match_label": "Netherlands v Japan",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Netherlands",
+      "half": 2,
+      "match_label": "Netherlands v Japan",
+      "pre_rate": 0.3,
+      "post_rate": 0.3,
+      "delta": 0.0,
+      "pressing": true
+    }
+  ],
+  "insight": "Japan's hydration breaks in the 2026 World Cup have shown a neutral impact on their momentum, with an average change of zero. This means that after taking a break, Japan's performance has neither significantly improved nor declined, allowing them to maintain their pace. Notably, whether Japan was pressing or not before the break, the outcome was the same, suggesting that their strategy before the break did not influence their ability to gain or lose momentum after the break. Overall, Japan's hydration breaks have been a steady factor, allowing them to regroup without losing their footing in the match."
+}

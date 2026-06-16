@@ -1,0 +1,40 @@
+{
+  "team": "Ivory Coast",
+  "slug": "ivory-coast",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 0,
+    "lost": 2,
+    "mean_delta": -0.15,
+    "verdict": "hurt",
+    "pressing_n": 2,
+    "pressing_mean": -0.15,
+    "pressing_kept": 0,
+    "nonpressing_n": 0,
+    "nonpressing_mean": 0,
+    "nonpressing_gained": 0,
+    "half1_mean": -0.1,
+    "half2_mean": -0.2
+  },
+  "breaks": [
+    {
+      "opponent": "Ecuador",
+      "half": 1,
+      "match_label": "Ivory Coast v Ecuador",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 2,
+      "match_label": "Ivory Coast v Ecuador",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "The hydration break statistics for Ivory Coast in the 2026 World Cup suggest that the team struggles to maintain momentum after these breaks, with a mean change of -0.150 minutes per minute, indicating a slight decline in performance. Specifically, when Ivory Coast was pressing before the break, they failed to gain momentum after the break in both instances, with an average change of -0.150 minutes per minute, which translates to a loss of intensity and potentially scoring opportunities. This decline in performance after breaks could be a concern for the team, as it may allow opponents to regain control of the match or even capitalize on Ivory Coast's decreased momentum. Overall, the numbers imply that Ivory Coast needs to work on maintaining their energy and focus after hydration breaks to stay competitive in the tournament."
+}

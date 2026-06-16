@@ -1,0 +1,40 @@
+{
+  "team": "Sweden",
+  "slug": "sweden",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": 0.1,
+    "verdict": "helped",
+    "pressing_n": 1,
+    "pressing_mean": -0.1,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.3,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.3,
+    "half2_mean": -0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Tunisia",
+      "half": 1,
+      "match_label": "Sweden v Tunisia",
+      "pre_rate": 0.0,
+      "post_rate": 0.3,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Tunisia",
+      "half": 2,
+      "match_label": "Sweden v Tunisia",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    }
+  ],
+  "insight": "For Sweden, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. In half of their breaks, they managed to gain momentum, with their pace increasing by an average of 0.100 minutes, which can be a significant advantage in a tightly contested match. However, when Sweden was pressing before a break, they actually lost momentum, with their pace slowing down by 0.100 minutes on average, and they were unable to regain it afterwards. On the other hand, when they weren't pressing before a break, they were able to increase their pace by a substantial 0.300 minutes, suggesting that Sweden may benefit from taking a more relaxed approach leading up to hydration breaks."
+}

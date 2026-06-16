@@ -1,0 +1,40 @@
+{
+  "team": "Mexico",
+  "slug": "mexico",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": -0.05,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.0,
+    "half2_mean": -0.1
+  },
+  "breaks": [
+    {
+      "opponent": "South Africa",
+      "half": 1,
+      "match_label": "Mexico v South Africa",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "South Africa",
+      "half": 2,
+      "match_label": "Mexico v South Africa",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    }
+  ],
+  "insight": "Mexico's performance in the 2026 FIFA World Cup shows that hydration breaks have a slight negative impact on their momentum, with an average change of -0.050 per minute after the breaks. This means that after a hydration break, Mexico tends to lose a bit of their pace and intensity, which can affect their overall performance in the match. In the two hydration breaks they had, Mexico was not pressing before the break, and in both cases, they experienced a slight decline in momentum, suggesting that the breaks may be disrupting their flow and rhythm. Overall, the numbers indicate that Mexico may need to work on regaining their momentum quickly after hydration breaks to maintain their competitive edge."
+}

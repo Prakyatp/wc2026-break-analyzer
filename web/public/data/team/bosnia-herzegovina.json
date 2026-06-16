@@ -1,0 +1,40 @@
+{
+  "team": "Bosnia-Herzegovina",
+  "slug": "bosnia-herzegovina",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.1,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.2,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
+    "half1_mean": -0.2,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Canada",
+      "half": 1,
+      "match_label": "Canada v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Canada",
+      "half": 2,
+      "match_label": "Canada v Bosnia-Herzegovina",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "Bosnia-Herzegovina's performance after hydration breaks in the 2026 World Cup shows that they tend to lose momentum, with an average change of -0.100 minutes per game after these breaks. This loss of momentum is more pronounced when they are pressing before the break, as they lost momentum in the only instance where they were pressing, with a significant average change of -0.200 minutes per game. However, when they were not pressing before the break, they managed to maintain their momentum, with no change in their performance. Overall, these statistics suggest that hydration breaks can disrupt Bosnia-Herzegovina's rhythm, particularly when they are applying pressure on their opponents before the break."
+}

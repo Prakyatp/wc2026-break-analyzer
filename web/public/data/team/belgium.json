@@ -1,0 +1,40 @@
+{
+  "team": "Belgium",
+  "slug": "belgium",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.2,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.1,
+    "half2_mean": -0.2
+  },
+  "breaks": [
+    {
+      "opponent": "Egypt",
+      "half": 1,
+      "match_label": "Belgium v Egypt",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Egypt",
+      "half": 2,
+      "match_label": "Belgium v Egypt",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "For Belgium, the hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. In half of the breaks, they managed to gain momentum, although the overall change in momentum was slightly negative, indicating a minor decline in performance after the breaks. When Belgium was pressing before a break, they tended to lose momentum more significantly, with an average decline of 0.200 per minute, and they were unable to regain it after the break. However, when they weren't pressing before a break, they actually gained momentum, with an average increase of 0.100 per minute, suggesting that the breaks may have given them a chance to regroup and refocus when they weren't already applying intense pressure."
+}

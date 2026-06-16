@@ -1,0 +1,131 @@
+{
+  "event_id": 760419,
+  "home": "Brazil",
+  "away": "Morocco",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 1,
+      "away": 5
+    },
+    {
+      "minute": 10,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 15,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 4
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 35,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 7,
+      "away": 0
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 4,
+      "away": 4
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.4,
+      "break_end": 25.2,
+      "display": "23'",
+      "home_pre": 0.3,
+      "home_post": 0.0,
+      "home_delta": -0.3,
+      "away_pre": 0.1,
+      "away_post": 0.6,
+      "away_delta": 0.5
+    },
+    {
+      "half": 2,
+      "break_start": 67.5,
+      "break_end": 69.8,
+      "display": "68'",
+      "home_pre": 0.0,
+      "home_post": 0.1,
+      "home_delta": 0.1,
+      "away_pre": 0.0,
+      "away_post": 0.0,
+      "away_delta": 0.0
+    }
+  ],
+  "insight": "During the Brazil vs Morocco match, Brazil's attacking momentum decreased significantly after the first hydration break, with their actions per minute dropping by 0.30, indicating a noticeable slowdown in their offense. In contrast, Morocco's attacking momentum increased substantially after the first break, with their actions per minute rising by 0.50, showing a marked improvement in their offense. After the second hydration break, Brazil's attacking momentum saw a slight increase, while Morocco's remained unchanged, suggesting that Morocco benefited more overall from the hydration breaks in terms of maintaining and building their attacking momentum. Overall, Morocco's ability to increase their attacking pace after the first break and maintain it after the second break gave them an edge in terms of momentum, despite Brazil's initial strong start.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

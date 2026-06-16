@@ -1,0 +1,40 @@
+{
+  "team": "Paraguay",
+  "slug": "paraguay",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.0,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.0,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "United States",
+      "half": 1,
+      "match_label": "United States v Paraguay",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "United States",
+      "half": 2,
+      "match_label": "United States v Paraguay",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    }
+  ],
+  "insight": "For Paraguay, the hydration breaks in the 2026 World Cup have been a consistent factor in maintaining their momentum on the field. In both breaks they've had, they've managed to gain or at least sustain their momentum, with no noticeable decline in performance, as indicated by the mean change of +0.000 minutes. This suggests that Paraguay is able to effectively use these breaks to regroup and refocus, regardless of whether they were pressing their opponents before the break or not, as they've been able to keep their momentum going in both scenarios. Overall, the hydration breaks seem to have a neutral to slightly positive effect on Paraguay's gameplay, allowing them to continue playing at their existing level without any significant drop-off."
+}

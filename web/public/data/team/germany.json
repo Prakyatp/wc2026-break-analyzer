@@ -1,0 +1,40 @@
+{
+  "team": "Germany",
+  "slug": "germany",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.25,
+    "verdict": "helped",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.25,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.5,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Cura\u00e7ao",
+      "half": 1,
+      "match_label": "Germany v Cura\u00e7ao",
+      "pre_rate": 0.1,
+      "post_rate": 0.6,
+      "delta": 0.5,
+      "pressing": false
+    },
+    {
+      "opponent": "Cura\u00e7ao",
+      "half": 2,
+      "match_label": "Germany v Cura\u00e7ao",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "In the FIFA World Cup 2026, Germany's performance after hydration breaks has been notable, as they gained momentum in both of their breaks, with a mean increase of 0.250 minutes per match. This suggests that the breaks have given Germany a slight edge, allowing them to come back stronger and potentially change the course of the game. The fact that they were not pressing before any of the breaks but still managed to gain momentum afterwards indicates that the breaks themselves, rather than their pre-break strategy, may have been the key factor in their improved performance. Overall, the data implies that hydration breaks have been a positive turning point for Germany in their matches, providing them with a slight boost in momentum that they can leverage to their advantage."
+}

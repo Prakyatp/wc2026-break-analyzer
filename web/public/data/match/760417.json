@@ -1,0 +1,131 @@
+{
+  "event_id": 760417,
+  "home": "United States",
+  "away": "Paraguay",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 15,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 1,
+      "away": 5
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 75,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 1,
+      "away": 1
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 23.7,
+      "break_end": 27.0,
+      "display": "24'",
+      "home_pre": 0.1,
+      "home_post": 0.4,
+      "home_delta": 0.3,
+      "away_pre": 0.1,
+      "away_post": 0.1,
+      "away_delta": 0.0
+    },
+    {
+      "half": 2,
+      "break_start": 67.3,
+      "break_end": 70.2,
+      "display": "68'",
+      "home_pre": 0.2,
+      "home_post": 0.2,
+      "home_delta": 0.0,
+      "away_pre": 0.2,
+      "away_post": 0.2,
+      "away_delta": 0.0
+    }
+  ],
+  "insight": "During the first hydration break, the United States increased their attacking actions from 1 to 4, showing a significant surge in momentum with an increase of 0.30 actions per minute, while Paraguay's actions remained steady with no change. However, by the second hydration break, both teams had stabilized with no change in their attacking actions, indicating a loss of momentum for the United States and a maintained steady pace for Paraguay. The United States benefited more overall from the hydration breaks, as they were able to increase their attacking momentum early in the game, which could have given them an advantage in terms of scoring opportunities. Overall, the hydration breaks seemed to have a more positive impact on the United States' attacking strategy, at least in the initial part of the match.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

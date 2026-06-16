@@ -1,0 +1,40 @@
+{
+  "team": "Egypt",
+  "slug": "egypt",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.2,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.1,
+    "half2_mean": -0.2
+  },
+  "breaks": [
+    {
+      "opponent": "Belgium",
+      "half": 1,
+      "match_label": "Belgium v Egypt",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Belgium",
+      "half": 2,
+      "match_label": "Belgium v Egypt",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "In the FIFA World Cup 2026, Egypt's performance during hydration breaks has been a mixed bag, with the team managing to gain momentum in only half of the two breaks they've had, resulting in a slight overall decline in performance with a mean change of -0.050 minutes. When Egypt was pressing before a hydration break, they struggled to maintain their intensity, losing momentum every time and experiencing a significant decline in performance with an average change of -0.200 minutes per minute. However, when they weren't pressing before a break, they were able to capitalize on the pause and come back stronger, gaining momentum and seeing an improvement in their performance with an average change of +0.100 minutes per minute. This suggests that Egypt may benefit from adjusting their strategy to take advantage of hydration breaks, particularly when they're not already dominating possession."
+}

@@ -1,0 +1,131 @@
+{
+  "event_id": 760423,
+  "home": "Ivory Coast",
+  "away": "Ecuador",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 15,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 30,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 35,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 4,
+      "away": 1
+    },
+    {
+      "minute": 50,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 60,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 4
+    },
+    {
+      "minute": 90,
+      "home": 2,
+      "away": 5
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 23.5,
+      "break_end": 26.8,
+      "display": "24'",
+      "home_pre": 0.3,
+      "home_post": 0.2,
+      "home_delta": -0.1,
+      "away_pre": 0.2,
+      "away_post": 0.2,
+      "away_delta": 0.0
+    },
+    {
+      "half": 2,
+      "break_start": 68.3,
+      "break_end": 71.3,
+      "display": "69'",
+      "home_pre": 0.2,
+      "home_post": 0.0,
+      "home_delta": -0.2,
+      "away_pre": 0.1,
+      "away_post": 0.1,
+      "away_delta": 0.0
+    }
+  ],
+  "insight": "During the match between Ivory Coast and Ecuador, the hydration breaks had a noticeable impact on the teams' attacking momentum. Ivory Coast's attacking actions decreased slightly after the first break, with a drop of 0.10 actions per minute, and more significantly after the second break, with a drop of 0.20 actions per minute, indicating a loss of momentum. In contrast, Ecuador maintained a consistent level of attacking actions after both breaks, with no change in their rate of actions per minute, suggesting they were able to sustain their momentum throughout the match. Overall, Ecuador appears to have benefited more from the hydration breaks, as they were able to maintain their attacking pace while Ivory Coast's momentum slowed, potentially giving Ecuador an advantage in the match.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

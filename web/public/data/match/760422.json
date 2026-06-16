@@ -1,0 +1,126 @@
+{
+  "event_id": 760422,
+  "home": "Germany",
+  "away": "Cura\u00e7ao",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 4,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 25,
+      "home": 5,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 40,
+      "home": 5,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 50,
+      "home": 4,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 80,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 85,
+      "home": 1,
+      "away": 1
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.7,
+      "break_end": 24.7,
+      "display": "23'",
+      "home_pre": 0.1,
+      "home_post": 0.6,
+      "home_delta": 0.5,
+      "away_pre": 0.2,
+      "away_post": 0.0,
+      "away_delta": -0.2
+    },
+    {
+      "half": 2,
+      "break_start": 69.0,
+      "break_end": 71.4,
+      "display": "69'",
+      "home_pre": 0.1,
+      "home_post": 0.1,
+      "home_delta": 0.0,
+      "away_pre": 0.2,
+      "away_post": 0.3,
+      "away_delta": 0.1
+    }
+  ],
+  "insight": "During the first hydration break, Germany's attacking momentum increased, with their actions per minute rising by 0.50, indicating a significant surge in their offense, as they went from 1 to 6 actions. In contrast, Cura\u00e7ao's attacking momentum decreased, with their actions per minute dropping by 0.20, suggesting they lost some steam, as they went from 2 to 0 actions. At the second break, Germany's momentum remained steady, with no change in their actions per minute, while Cura\u00e7ao slightly increased theirs, but overall, Germany benefited more from the hydration breaks, as their initial surge gave them a strong advantage that they were able to maintain for the rest of the match. This suggests that Germany was able to capitalize on their increased energy and intensity after the first break, ultimately giving them an edge over Cura\u00e7ao.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

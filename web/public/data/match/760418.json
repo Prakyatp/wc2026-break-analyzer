@@ -1,0 +1,131 @@
+{
+  "event_id": 760418,
+  "home": "Haiti",
+  "away": "Scotland",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 30,
+      "home": 3,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 75,
+      "home": 5,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 2,
+      "away": 0
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.6,
+      "break_end": 25.5,
+      "display": "23'",
+      "home_pre": 0.0,
+      "home_post": 0.4,
+      "home_delta": 0.4,
+      "away_pre": 0.1,
+      "away_post": 0.3,
+      "away_delta": 0.2
+    },
+    {
+      "half": 2,
+      "break_start": 66.2,
+      "break_end": 69.5,
+      "display": "67'",
+      "home_pre": 0.0,
+      "home_post": 0.6,
+      "home_delta": 0.6,
+      "away_pre": 0.1,
+      "away_post": 0.1,
+      "away_delta": 0.0
+    }
+  ],
+  "insight": "During the match between Haiti and Scotland, the hydration breaks seemed to have a significant impact on the attacking momentum of both teams. For Haiti, the first hydration break saw a slight increase in attacking actions, but it was the second break that really sparked their offense, with a notable increase in actions per minute, indicating a surge in attacking momentum. In contrast, Scotland's attacking momentum remained relatively stagnant, with a small increase after the first break and no change after the second, suggesting that the breaks did not have a significant positive impact on their offense. Overall, Haiti appeared to benefit more from the hydration breaks, particularly the second one, which could have potentially changed the course of the match if they had capitalized on the increased momentum.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

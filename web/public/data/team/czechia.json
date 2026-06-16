@@ -1,0 +1,40 @@
+{
+  "team": "Czechia",
+  "slug": "czechia",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.15,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
+    "half1_mean": -0.3,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "South Korea",
+      "half": 1,
+      "match_label": "South Korea v Czechia",
+      "pre_rate": 0.4,
+      "post_rate": 0.1,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "South Korea",
+      "half": 2,
+      "match_label": "South Korea v Czechia",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "For the Czechia team in the 2026 World Cup, hydration breaks have had a mixed impact on their performance. On average, they tend to lose a bit of momentum after a hydration break, with their performance declining by 0.150 points per minute across the two breaks they've had. However, the effect of the break seems to depend on their strategy before the break - when they were pressing their opponents before a break, they lost even more momentum afterwards, with a decline of 0.300 points per minute, whereas when they weren't pressing, they were able to maintain their level of performance after the break. This suggests that Czechia may need to adjust their approach before hydration breaks to minimize the disruption to their game."
+}

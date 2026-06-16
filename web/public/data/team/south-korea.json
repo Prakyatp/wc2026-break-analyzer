@@ -1,0 +1,40 @@
+{
+  "team": "South Korea",
+  "slug": "south-korea",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 0,
+    "lost": 2,
+    "mean_delta": -0.2,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": -0.1,
+    "nonpressing_gained": 0,
+    "half1_mean": -0.3,
+    "half2_mean": -0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Czechia",
+      "half": 1,
+      "match_label": "South Korea v Czechia",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Czechia",
+      "half": 2,
+      "match_label": "South Korea v Czechia",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    }
+  ],
+  "insight": "For South Korea, hydration breaks in the 2026 World Cup have not provided the desired boost, as they failed to gain momentum in both of their breaks, with their performance actually declining by an average of 0.200 minutes. When they were pressing before a break, their decline was even more pronounced, with an average drop of 0.300 minutes, and they were unable to regain their momentum after the break. In contrast, when they were not pressing before a break, the decline was less severe, with an average drop of 0.100 minutes, suggesting that they may be better off conserving energy before a break rather than trying to push forward. Overall, these statistics suggest that South Korea needs to rethink their strategy around hydration breaks to avoid losing momentum and get back on track."
+}

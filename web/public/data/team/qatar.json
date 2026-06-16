@@ -1,0 +1,40 @@
+{
+  "team": "Qatar",
+  "slug": "qatar",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.15,
+    "verdict": "helped",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.15,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.2,
+    "half2_mean": 0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Switzerland",
+      "half": 1,
+      "match_label": "Qatar v Switzerland",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 2,
+      "match_label": "Qatar v Switzerland",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    }
+  ],
+  "insight": "Qatar's performance during hydration breaks in the 2026 World Cup has been notable, as they managed to gain momentum in both of their breaks, with a mean change of +0.150 minutes per minute. This suggests that the team is able to use the breaks to their advantage, potentially regrouping and refocusing to come out stronger afterwards. The fact that they were not pressing before either of their breaks and still managed to gain momentum, with an average change of +0.150 minutes per minute, indicates that the breaks themselves may be a key factor in their ability to shift the pace of the game in their favor. Overall, the numbers imply that Qatar is able to effectively utilize hydration breaks to boost their performance and gain an edge over their opponents."
+}

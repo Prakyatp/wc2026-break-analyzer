@@ -1,0 +1,131 @@
+{
+  "event_id": 760424,
+  "home": "Sweden",
+  "away": "Tunisia",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 30,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 65,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 85,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 2
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.0,
+      "break_end": 25.2,
+      "display": "22'",
+      "home_pre": 0.0,
+      "home_post": 0.3,
+      "home_delta": 0.3,
+      "away_pre": 0.1,
+      "away_post": 0.2,
+      "away_delta": 0.1
+    },
+    {
+      "half": 2,
+      "break_start": 68.2,
+      "break_end": 70.9,
+      "display": "69'",
+      "home_pre": 0.2,
+      "home_post": 0.1,
+      "home_delta": -0.1,
+      "away_pre": 0.2,
+      "away_post": 0.0,
+      "away_delta": -0.2
+    }
+  ],
+  "insight": "During the match between Sweden and Tunisia, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Sweden's attacking actions increased from 0 to 3, with a significant rise of 0.30 actions per minute, indicating a strong resurgence in their offense, while Tunisia's increase was more modest, going from 1 to 2 actions with a 0.10 per minute rise. However, at the second break, the momentum shifted, with Sweden's attacking actions decreasing from 2 to 1, and Tunisia's dropping to 0, suggesting that Tunisia was more affected by the break, losing their attacking rhythm. Overall, Sweden seemed to benefit more from the hydration breaks, particularly the first one, where they gained a significant boost in their attacking momentum.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}
