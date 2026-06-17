@@ -34,3 +34,7 @@ event_id,date,home_team,away_team,break_start,break_end,duration_s,display_start
 760432,2026-06-16,France,Senegal,25.7,29.1,204,26',30',1
 760432,2026-06-16,France,Senegal,68.0,70.5,150,68',71',2
 760430,2026-06-16,Iraq,Norway,23.9,26.8,174,24',27',1
+760430,2026-06-16,Iraq,Norway,68.8,71.5,162,69',72',2
+760433,2026-06-16,Argentina,Algeria,24.3,27.2,174,25',28',1
+760433,2026-06-16,Argentina,Algeria,68.5,71.0,150,69',71',2
+760431,2026-06-17,Austria,Jordan,22.7,25.8,186,23',26',1

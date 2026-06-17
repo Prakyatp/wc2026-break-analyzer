@@ -1,0 +1,40 @@
+{
+  "team": "Algeria",
+  "slug": "algeria",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 0,
+    "lost": 2,
+    "mean_delta": -0.1,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.1,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": -0.1,
+    "nonpressing_gained": 0,
+    "half1_mean": -0.1,
+    "half2_mean": -0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Argentina",
+      "half": 1,
+      "match_label": "Argentina v Algeria",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 2,
+      "match_label": "Argentina v Algeria",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    }
+  ],
+  "insight": "Algeria's hydration breaks in the 2026 World Cup have not provided the team with a significant boost in momentum, with the team failing to gain momentum in both breaks. On average, Algeria's momentum has actually decreased by 0.100 points per minute after a hydration break, indicating that the team has struggled to regain their footing after stopping play. This trend holds true regardless of whether Algeria was pressing their opponent before the break or not, suggesting that the breaks have not given the team an opportunity to reset and regain their advantage. As a result, Algeria's coaches may need to rethink their strategy during hydration breaks to find a way to turn these pauses in play into opportunities to regain momentum and drive their team forward."
+}

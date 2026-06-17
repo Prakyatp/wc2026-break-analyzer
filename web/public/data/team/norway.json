@@ -2,19 +2,19 @@
   "team": "Norway",
   "slug": "norway",
   "stats": {
-    "total_breaks": 1,
-    "gained": 1,
+    "total_breaks": 2,
+    "gained": 2,
     "lost": 0,
-    "mean_delta": 0.1,
+    "mean_delta": 0.15,
     "verdict": "helped",
     "pressing_n": 1,
     "pressing_mean": 0.1,
     "pressing_kept": 1,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.2,
+    "nonpressing_gained": 1,
     "half1_mean": 0.1,
-    "half2_mean": 0
+    "half2_mean": 0.2
   },
   "breaks": [
     {
@@ -25,7 +25,16 @@
       "post_rate": 0.4,
       "delta": 0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Iraq",
+      "half": 2,
+      "match_label": "Iraq v Norway",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
     }
   ],
-  "insight": "In the 2026 FIFA World Cup, Norway's single hydration break had a notable impact on their performance, as they managed to gain momentum after the break, with their average change in momentum increasing by 0.100 minutes. This suggests that the break allowed Norway to regroup and refocus, leading to a stronger performance afterwards. Specifically, when Norway was pressing before the break, they were able to maintain their momentum after the break, which happened in their only instance of pressing before a hydration break. Overall, the data indicates that Norway was able to effectively utilize the hydration break to their advantage, although more data would be needed to draw more comprehensive conclusions."
+  "insight": "Norway's performance in the 2026 World Cup shows a positive trend when it comes to hydration breaks, with the team gaining momentum in both of their breaks so far, resulting in an average increase of 0.150 points per minute. This suggests that the breaks are giving Norway a chance to regroup and come back stronger, which is reflected in their ability to maintain momentum after the break in all instances. The data also indicates that Norway's strategy before the break can impact the outcome, as they maintained momentum when pressing before the break, but actually performed slightly better when not pressing, with an average increase of 0.200 points per minute. Overall, the hydration breaks seem to be a key factor in Norway's performance, allowing them to refocus and come back with renewed energy and intensity."
 }

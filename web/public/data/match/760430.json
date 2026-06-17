@@ -52,6 +52,51 @@
       "minute": 45,
       "home": 7,
       "away": 0
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 60,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 1
     }
   ],
   "breaks": [
@@ -66,9 +111,21 @@
       "away_pre": 0.3,
       "away_post": 0.4,
       "away_delta": 0.1
+    },
+    {
+      "half": 2,
+      "break_start": 68.8,
+      "break_end": 71.5,
+      "display": "69'",
+      "home_pre": 0.1,
+      "home_post": 0.0,
+      "home_delta": -0.1,
+      "away_pre": 0.1,
+      "away_post": 0.3,
+      "away_delta": 0.2
     }
   ],
-  "insight": "At the first hydration break, Iraq's attacking momentum remained relatively stagnant, with their actions per minute increasing by only 0.10, going from 0 to 1 action, indicating a slow start to the game. In contrast, Norway's attacking momentum showed a slight increase, with their actions per minute also increasing by 0.10, but from a higher base of 3 to 4 actions, suggesting they were able to maintain a moderate level of pressure on Iraq. Overall, Norway benefited more from the early hydration break, as they were able to build on their existing attacking momentum, whereas Iraq struggled to gain traction. This subtle difference in momentum could have a significant impact on the remainder of the match, as Norway's continued pressure may force Iraq to defend deeply and limit their own scoring opportunities.",
+  "insight": "During the match between Iraq and Norway, the hydration breaks had varying effects on each team's attacking momentum. At the first break, both teams saw a slight increase in attacking actions per minute, with Iraq going from 0 to 1 action and Norway from 3 to 4 actions, indicating a minimal but equal boost in momentum. However, at the second break, Norway's attacking momentum surged with an increase of 0.20 actions per minute, while Iraq's actually decreased, suggesting that Norway was able to capitalize more on the break and gain an advantage. Overall, Norway benefited more from the hydration breaks, as they were able to maintain and even increase their attacking momentum, potentially giving them an edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

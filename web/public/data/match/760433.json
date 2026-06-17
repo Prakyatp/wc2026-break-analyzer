@@ -1,0 +1,126 @@
+{
+  "event_id": 760433,
+  "home": "Argentina",
+  "away": "Algeria",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 4
+    },
+    {
+      "minute": 45,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 50,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 2,
+      "away": 2
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 1
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 24.3,
+      "break_end": 27.2,
+      "display": "25'",
+      "home_pre": 0.0,
+      "home_post": 0.1,
+      "home_delta": 0.1,
+      "away_pre": 0.1,
+      "away_post": 0.0,
+      "away_delta": -0.1
+    },
+    {
+      "half": 2,
+      "break_start": 68.5,
+      "break_end": 71.0,
+      "display": "69'",
+      "home_pre": 0.4,
+      "home_post": 0.0,
+      "home_delta": -0.4,
+      "away_pre": 0.2,
+      "away_post": 0.1,
+      "away_delta": -0.1
+    }
+  ],
+  "insight": "During the match between Argentina and Algeria, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Argentina's attack remained steady with no change in actions per minute, while Algeria's attack slightly decreased, indicating a minor loss of momentum for the Algerian team. However, at the second break, Argentina's attack significantly slowed down, with a decrease of 0.40 actions per minute, whereas Algeria's attack only decreased slightly, suggesting that Algeria maintained their momentum better than Argentina in the latter part of the match. Overall, Algeria seemed to benefit more from the hydration breaks in terms of maintaining their attacking rhythm, as they experienced less disruption to their momentum compared to Argentina.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

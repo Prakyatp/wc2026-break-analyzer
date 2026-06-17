@@ -1812,7 +1812,7 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760432,2026-06-16,France,Senegal,90.0,90'+10',2,End Regular Time,France,0,0,0,0,"Second Half ends, France 3, Senegal 1."
 760430,2026-06-16,Iraq,Norway,3.9,4',1,Foul,Norway,0,0,1,0,Foul by Torbjørn Heggem (Norway).
 760430,2026-06-16,Iraq,Norway,3.9,4',1,Foul,Iraq,0,0,1,0,Aymen Hussein (Iraq) wins a free kick in the attacking half.
-760430,2026-06-16,Iraq,Norway,4.5,5',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Aymen Hussein (Iraq) header from the centre of the box is too high following a set piece situation.
+760430,2026-06-16,Iraq,Norway,4.5,5',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Aymen Hussein (Iraq) header from the centre of the box is high and wide to the left following a set piece situation.
 760430,2026-06-16,Iraq,Norway,5.2,6',1,Foul,Norway,0,0,1,0,Foul by Alexander Sørloth (Norway).
 760430,2026-06-16,Iraq,Norway,5.2,6',1,Foul,Iraq,0,0,1,0,Akam Hashim (Iraq) wins a free kick in the defensive half.
 760430,2026-06-16,Iraq,Norway,7.7,8',1,Foul,Norway,0,0,1,0,Foul by Julian Ryerson (Norway).
@@ -1860,3 +1860,186 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760430,2026-06-16,Iraq,Norway,45.0,45'+5',1,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by Kristoffer Ajer."
 760430,2026-06-16,Iraq,Norway,45.0,45'+6',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Akam Hashim (Iraq) left footed shot from outside the box is too high following a corner.
 760430,2026-06-16,Iraq,Norway,45.0,45'+7',1,Halftime,Iraq,0,0,0,0,"First Half ends, Iraq 1, Norway 2."
+760430,2026-06-16,Iraq,Norway,45.0,45',1,Start 2nd Half,Norway,0,0,0,0,"Second Half begins Iraq 1, Norway 2."
+760430,2026-06-16,Iraq,Norway,46.9,47',2,Offside,Iraq,0,0,0,0,"Offside, Iraq. Hussein Ali is caught offside."
+760430,2026-06-16,Iraq,Norway,48.6,49',2,Foul,Iraq,0,0,1,0,Foul by Aymen Hussein (Iraq).
+760430,2026-06-16,Iraq,Norway,48.6,49',2,Foul,Norway,0,0,1,0,David Møller Wolfe (Norway) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,52.5,53',2,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Aymen Hussein (Iraq) header from the centre of the box misses to the left. Assisted by Ibrahim Bayesh with a cross.
+760430,2026-06-16,Iraq,Norway,53.0,54',2,Foul,Iraq,0,0,1,0,Foul by Amir Al Ammari (Iraq).
+760430,2026-06-16,Iraq,Norway,53.0,54',2,Foul,Norway,0,0,1,0,Martin Ødegaard (Norway) wins a free kick on the right wing.
+760430,2026-06-16,Iraq,Norway,53.5,54',2,Foul,Iraq,0,0,1,0,Foul by Hussein Ali (Iraq).
+760430,2026-06-16,Iraq,Norway,53.5,54',2,Foul,Norway,0,0,1,0,Antonio Nusa (Norway) wins a free kick on the left wing.
+760430,2026-06-16,Iraq,Norway,55.7,56',2,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Akam Hashim."
+760430,2026-06-16,Iraq,Norway,57.0,58',2,Start Delay,Iraq,0,0,0,0,Delay in match because of an injury Ali Jasim (Iraq).
+760430,2026-06-16,Iraq,Norway,58.4,59',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Zidane Iqbal replaces Zaid Ismael."
+760430,2026-06-16,Iraq,Norway,58.6,59',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Marko Farji replaces Ali Al Hamadi."
+760430,2026-06-16,Iraq,Norway,58.7,59',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760430,2026-06-16,Iraq,Norway,62.5,63',2,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Hussein Ali (Iraq) right footed shot from a difficult angle on the right is just a bit too high. Assisted by Amir Al Ammari with a cro
+760430,2026-06-16,Iraq,Norway,63.1,64',2,Foul,Norway,0,0,1,0,Foul by Alexander Sørloth (Norway).
+760430,2026-06-16,Iraq,Norway,63.1,64',2,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,65.1,66',2,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Hussein Ali."
+760430,2026-06-16,Iraq,Norway,68.2,69',2,Start Delay,Iraq,0,0,0,0,Delay in match because of an injury Ali Jasim (Iraq).
+760430,2026-06-16,Iraq,Norway,68.8,69',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760430,2026-06-16,Iraq,Norway,68.8,69',2,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760430,2026-06-16,Iraq,Norway,71.5,72',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760430,2026-06-16,Iraq,Norway,72.1,73',2,Substitution,Norway,0,0,0,0,"Substitution, Norway. Andreas Schjelderup replaces Antonio Nusa."
+760430,2026-06-16,Iraq,Norway,72.3,73',2,Substitution,Norway,0,0,0,0,"Substitution, Norway. Kristian Thorstvedt replaces Fredrik Aursnes."
+760430,2026-06-16,Iraq,Norway,72.4,73',2,Substitution,Norway,0,0,0,0,"Substitution, Norway. Oscar Bobb replaces Alexander Sørloth."
+760430,2026-06-16,Iraq,Norway,72.4,73',2,Substitution,Norway,0,0,0,0,"Substitution, Norway. Leo Østigård replaces David Møller Wolfe because of an injury."
+760430,2026-06-16,Iraq,Norway,72.6,73',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Mustafa Saadoon replaces Hussein Ali."
+760430,2026-06-16,Iraq,Norway,72.8,73',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Ahmed Qasem replaces Ali Jasim because of an injury."
+760430,2026-06-16,Iraq,Norway,75.1,76',2,Shot Blocked,Norway,1,0,0,0,Attempt blocked. Kristian Thorstvedt (Norway) left footed shot from the right side of the box is blocked. Assisted by Oscar Bobb.
+760430,2026-06-16,Iraq,Norway,75.1,76',2,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Merchas Doski."
+760430,2026-06-16,Iraq,Norway,75.9,76',2,Goal - Header,Norway,1,1,0,0,"Goal! Iraq 1, Norway 3. Leo Østigård (Norway) header from very close range to the high centre of the goal. Assisted by Martin Ødegaard with a cross fo"
+760430,2026-06-16,Iraq,Norway,77.3,78',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Mohanad Ali replaces Ibrahim Bayesh."
+760430,2026-06-16,Iraq,Norway,77.7,78',2,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,77.7,78',2,Foul,Norway,0,0,1,0,Foul by Martin Ødegaard (Norway).
+760430,2026-06-16,Iraq,Norway,78.5,79',2,Foul,Norway,0,0,1,0,Foul by Erling Haaland (Norway).
+760430,2026-06-16,Iraq,Norway,78.5,79',2,Foul,Iraq,0,0,1,0,Zaid Tahseen (Iraq) wins a free kick in the attacking half.
+760430,2026-06-16,Iraq,Norway,80.6,81',2,Substitution,Norway,0,0,0,0,"Substitution, Norway. Patrick Berg replaces Martin Ødegaard."
+760430,2026-06-16,Iraq,Norway,81.1,82',2,Foul,Iraq,0,0,1,0,Foul by Zaid Tahseen (Iraq).
+760430,2026-06-16,Iraq,Norway,81.1,82',2,Foul,Norway,0,0,1,0,Erling Haaland (Norway) wins a free kick on the left wing.
+760430,2026-06-16,Iraq,Norway,81.9,82',2,Shot Off Target,Norway,0,0,0,0,Attempt missed. Leo Østigård (Norway) header from the centre of the box misses to the right. Assisted by Julian Ryerson with a cross following a set p
+760430,2026-06-16,Iraq,Norway,82.2,83',2,Shot On Target,Norway,0,0,0,0,Attempt saved. Erling Haaland (Norway) left footed shot from the right side of the box is saved in the centre of the goal by Jalal Hassan (Iraq).
+760430,2026-06-16,Iraq,Norway,85.1,86',2,Foul,Norway,0,0,1,0,Erling Haaland (Norway) wins a free kick in the attacking half.
+760430,2026-06-16,Iraq,Norway,85.1,86',2,Foul,Iraq,0,0,1,0,Foul by Zaid Tahseen (Iraq).
+760430,2026-06-16,Iraq,Norway,85.1,86',2,Yellow Card,Iraq,0,0,1,0,Zaid Tahseen (Iraq) is shown the yellow card for a bad foul.
+760430,2026-06-16,Iraq,Norway,90.0,90'+1',2,Shot Off Target,Norway,0,0,0,0,"Attempt missed. Kristian Thorstvedt (Norway) right footed shot from the left side of the box is close, but misses to the left. Assisted by Andreas Sch"
+760430,2026-06-16,Iraq,Norway,90.0,90'+2',2,Start Delay,Iraq,0,0,0,0,Delay in match because of an injury Aymen Hussein (Iraq).
+760430,2026-06-16,Iraq,Norway,90.0,90'+2',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760430,2026-06-16,Iraq,Norway,90.0,90'+4',2,Foul,Iraq,0,0,1,0,Marko Farji (Iraq) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,90.0,90'+4',2,Foul,Norway,0,0,1,0,Foul by Julian Ryerson (Norway).
+760430,2026-06-16,Iraq,Norway,90.0,90'+5',2,Foul,Iraq,0,0,1,0,Foul by Mustafa Saadoon (Iraq).
+760430,2026-06-16,Iraq,Norway,90.0,90'+5',2,Foul,Norway,0,0,1,0,Andreas Schjelderup (Norway) wins a free kick in the defensive half.
+760430,2026-06-16,Iraq,Norway,90.0,90'+6',2,Foul,Iraq,0,0,1,0,Foul by Mustafa Saadoon (Iraq).
+760430,2026-06-16,Iraq,Norway,90.0,90'+6',2,Foul,Norway,0,0,1,0,Erling Haaland (Norway) wins a free kick on the left wing.
+760430,2026-06-16,Iraq,Norway,90.0,90'+6',2,Own Goal,Iraq,0,1,0,0,"Own Goal by Aymen Hussein, Iraq. Iraq 1, Norway 4."
+760430,2026-06-16,Iraq,Norway,90.0,90'+8',2,End Regular Time,Iraq,0,0,0,0,"Second Half ends, Iraq 1, Norway 4."
+760433,2026-06-16,Argentina,Algeria,0.6,1',1,Foul,Argentina,0,0,1,0,Foul by Enzo Fernández (Argentina).
+760433,2026-06-16,Argentina,Algeria,0.6,1',1,Foul,Algeria,0,0,1,0,Anis Hadj Moussa (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,3.1,4',1,Offside,Argentina,0,0,0,0,"Offside, Argentina. Lautaro Martínez is caught offside."
+760433,2026-06-16,Argentina,Algeria,4.7,5',1,Offside,Argentina,0,0,0,0,"Offside, Argentina. Lionel Messi is caught offside."
+760433,2026-06-16,Argentina,Algeria,7.4,8',1,Offside,Algeria,0,0,0,0,"Offside, Algeria. Farès Chaïbi is caught offside."
+760433,2026-06-16,Argentina,Algeria,7.5,8',1,Deleted After Review,Algeria,0,0,0,0,GOAL OVERTURNED BY VAR: Farès Chaïbi (Algeria) scores but the goal is ruled out after a VAR review.
+760433,2026-06-16,Argentina,Algeria,8.3,9',1,VAR - Referee decision cancelled,unknown,0,0,0,0,VAR Decision: No Goal Argentina 0-0 Algeria.
+760433,2026-06-16,Argentina,Algeria,9.8,10',1,Foul,Algeria,0,0,1,0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,9.8,10',1,Foul,Argentina,0,0,1,0,Foul by Lautaro Martínez (Argentina).
+760433,2026-06-16,Argentina,Algeria,10.5,11',1,Foul,Algeria,0,0,1,0,Rayan Aït-Nouri (Algeria) wins a free kick on the left wing.
+760433,2026-06-16,Argentina,Algeria,10.5,11',1,Foul,Argentina,0,0,1,0,Foul by Gonzalo Montiel (Argentina).
+760433,2026-06-16,Argentina,Algeria,16.6,17',1,Goal,Algeria,1,1,0,0,"Goal! Argentina 1, Algeria 0. Lionel Messi (Argentina) left footed shot from outside the box to the top right corner. Assisted by Rodrigo De Paul."
+760433,2026-06-16,Argentina,Algeria,24.3,25',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760433,2026-06-16,Argentina,Algeria,27.2,28',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760433,2026-06-16,Argentina,Algeria,30.8,31',1,Foul,Argentina,0,0,1,0,Foul by Lionel Messi (Argentina).
+760433,2026-06-16,Argentina,Algeria,30.8,31',1,Foul,Algeria,0,0,1,0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,33.8,34',1,Foul,Argentina,0,0,1,0,Alexis Mac Allister (Argentina) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,33.8,34',1,Foul,Algeria,0,0,1,0,Foul by Amine Gouiri (Algeria).
+760433,2026-06-16,Argentina,Algeria,35.4,36',1,Foul,Algeria,0,0,1,0,Foul by Rafik Belghali (Algeria).
+760433,2026-06-16,Argentina,Algeria,35.4,36',1,Foul,Argentina,0,0,1,0,Thiago Almada (Argentina) wins a free kick in the attacking half.
+760433,2026-06-16,Argentina,Algeria,36.2,37',1,Shot Off Target,Argentina,0,0,0,0,Attempt missed. Lionel Messi (Argentina) left footed shot from more than 35 yards misses to the left from a direct free kick.
+760433,2026-06-16,Argentina,Algeria,36.2,37',1,Foul,Algeria,0,0,1,0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,36.2,37',1,Foul,Argentina,0,0,1,0,Foul by Facundo Medina (Argentina).
+760433,2026-06-16,Argentina,Algeria,38.5,39',1,Offside,Argentina,0,0,0,0,"Offside, Argentina. Thiago Almada is caught offside."
+760433,2026-06-16,Argentina,Algeria,40.0,40',1,Corner Awarded,Algeria,0,0,0,1,"Corner, Algeria. Conceded by Emiliano Martínez."
+760433,2026-06-16,Argentina,Algeria,40.5,41',1,Shot Off Target,Algeria,0,0,0,0,Attempt missed. Farès Chaïbi (Algeria) header from the centre of the box misses to the left. Assisted by Hicham Boudaoui with a cross following a corn
+760433,2026-06-16,Argentina,Algeria,41.4,42',1,Shot Off Target,Argentina,0,0,0,0,Attempt missed. Thiago Almada (Argentina) right footed shot from outside the box is high and wide to the right. Assisted by Enzo Fernández.
+760433,2026-06-16,Argentina,Algeria,42.6,43',1,Foul,Argentina,0,0,1,0,Foul by Alexis Mac Allister (Argentina).
+760433,2026-06-16,Argentina,Algeria,42.6,43',1,Foul,Algeria,0,0,1,0,Ibrahim Maza (Algeria) wins a free kick on the left wing.
+760433,2026-06-16,Argentina,Algeria,43.2,44',1,Shot Off Target,Algeria,0,0,0,0,Attempt missed. Farès Chaïbi (Algeria) right footed shot from outside the box is too high. Assisted by Aïssa Mandi.
+760433,2026-06-16,Argentina,Algeria,44.4,45',1,Shot Off Target,Algeria,0,0,0,0,"Attempt missed. Farès Chaïbi (Algeria) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Anis Hadj "
+760433,2026-06-16,Argentina,Algeria,44.9,45',1,Foul,Argentina,0,0,1,0,Foul by Lautaro Martínez (Argentina).
+760433,2026-06-16,Argentina,Algeria,44.9,45',1,Foul,Algeria,0,0,1,0,Ramy Bensebaini (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,45.0,45'+1',1,Corner Awarded,Algeria,0,0,0,1,"Corner, Algeria. Conceded by Lisandro Martínez."
+760433,2026-06-16,Argentina,Algeria,45.0,45'+4',1,Shot Blocked,Algeria,1,0,0,0,Attempt blocked. Anis Hadj Moussa (Algeria) left footed shot from the right side of the box is blocked. Assisted by Rafik Belghali.
+760433,2026-06-16,Argentina,Algeria,45.0,45'+4',1,Foul,Algeria,0,0,1,0,Foul by Rafik Belghali (Algeria).
+760433,2026-06-16,Argentina,Algeria,45.0,45'+4',1,Foul,Argentina,0,0,1,0,Facundo Medina (Argentina) wins a free kick on the left wing.
+760433,2026-06-16,Argentina,Algeria,45.0,45'+5',1,Shot Off Target,Argentina,0,0,0,0,Attempt missed. Alexis Mac Allister (Argentina) header from the centre of the box is too high. Assisted by Lionel Messi with a cross following a set p
+760433,2026-06-16,Argentina,Algeria,45.0,45',1,Substitution,Argentina,0,0,0,0,"Substitution, Argentina. Nahuel Molina replaces Gonzalo Montiel."
+760433,2026-06-16,Argentina,Algeria,45.0,45',1,Start 2nd Half,Algeria,0,0,0,0,"Second Half begins Argentina 1, Algeria 0."
+760433,2026-06-16,Argentina,Algeria,47.5,48',2,Foul,Argentina,0,0,1,0,Lionel Messi (Argentina) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,47.5,48',2,Foul,Algeria,0,0,1,0,Foul by Hicham Boudaoui (Algeria).
+760433,2026-06-16,Argentina,Algeria,50.2,51',2,Shot Off Target,Argentina,0,0,0,0,Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is high and wide to the left. Assisted by Nahuel Molina.
+760433,2026-06-16,Argentina,Algeria,50.7,51',2,Foul,Argentina,0,0,1,0,Foul by Cristian Romero (Argentina).
+760433,2026-06-16,Argentina,Algeria,50.7,51',2,Foul,Algeria,0,0,1,0,Ibrahim Maza (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,53.1,54',2,Shot On Target,Argentina,0,0,0,0,Attempt saved. Lautaro Martínez (Argentina) right footed shot from the right side of the box is saved in the bottom left corner by Luca Zidane (Algeri
+760433,2026-06-16,Argentina,Algeria,54.3,55',2,Foul,Algeria,0,0,1,0,Amine Gouiri (Algeria) wins a free kick on the left wing.
+760433,2026-06-16,Argentina,Algeria,54.3,55',2,Foul,Argentina,0,0,1,0,Foul by Cristian Romero (Argentina).
+760433,2026-06-16,Argentina,Algeria,54.9,55',2,Substitution,Argentina,0,0,0,0,"Substitution, Argentina. Nico González replaces Thiago Almada."
+760433,2026-06-16,Argentina,Algeria,54.9,55',2,Substitution,Argentina,0,0,0,0,"Substitution, Argentina. Julián Alvarez replaces Lautaro Martínez."
+760433,2026-06-16,Argentina,Algeria,56.9,57',2,Shot Blocked,Algeria,1,0,0,0,Attempt blocked. Ibrahim Maza (Algeria) right footed shot from outside the box is blocked. Assisted by Farès Chaïbi.
+760433,2026-06-16,Argentina,Algeria,58.5,59',2,Corner Awarded,Argentina,0,0,0,1,"Corner, Argentina. Conceded by Aïssa Mandi."
+760433,2026-06-16,Argentina,Algeria,59.7,60',2,Shot On Target,Argentina,0,0,0,0,Attempt saved. Alexis Mac Allister (Argentina) right footed shot from outside the box is saved in the centre of the goal by Luca Zidane (Algeria).
+760433,2026-06-16,Argentina,Algeria,59.7,60',2,Goal,Algeria,1,1,0,0,"Goal! Argentina 2, Algeria 0. Lionel Messi (Argentina) right footed shot from the centre of the box to the bottom right corner."
+760433,2026-06-16,Argentina,Algeria,63.0,63',2,Foul,Algeria,0,0,1,0,Foul by Hicham Boudaoui (Algeria).
+760433,2026-06-16,Argentina,Algeria,63.0,63',2,Foul,Argentina,0,0,1,0,Enzo Fernández (Argentina) wins a free kick in the attacking half.
+760433,2026-06-16,Argentina,Algeria,63.3,64',2,Substitution,Algeria,0,0,0,0,"Substitution, Algeria. Houssem Aouar replaces Hicham Boudaoui."
+760433,2026-06-16,Argentina,Algeria,63.5,64',2,Substitution,Algeria,0,0,0,0,"Substitution, Algeria. Mohammed Amoura replaces Amine Gouiri."
+760433,2026-06-16,Argentina,Algeria,63.6,64',2,Substitution,Algeria,0,0,0,0,"Substitution, Algeria. Riyad Mahrez replaces Anis Hadj Moussa."
+760433,2026-06-16,Argentina,Algeria,63.9,64',2,Foul,Argentina,0,0,1,0,Cristian Romero (Argentina) wins a free kick in the attacking half.
+760433,2026-06-16,Argentina,Algeria,63.9,64',2,Foul,Algeria,0,0,1,0,Foul by Mohammed Amoura (Algeria).
+760433,2026-06-16,Argentina,Algeria,65.2,66',2,Shot On Target,Argentina,0,0,0,0,Attempt saved. Lionel Messi (Argentina) left footed shot from outside the box is saved in the top centre of the goal by Luca Zidane (Algeria). Assiste
+760433,2026-06-16,Argentina,Algeria,65.2,66',2,Corner Awarded,Argentina,0,0,0,1,"Corner, Argentina. Conceded by Luca Zidane."
+760433,2026-06-16,Argentina,Algeria,68.4,69',2,Shot Off Target,Algeria,0,0,0,0,"Attempt missed. Houssem Aouar (Algeria) right footed shot from outside the box is close, but misses to the left. Assisted by Mohammed Amoura."
+760433,2026-06-16,Argentina,Algeria,68.5,69',2,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760433,2026-06-16,Argentina,Algeria,71.0,71',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760433,2026-06-16,Argentina,Algeria,74.3,75',2,Foul,Algeria,0,0,1,0,Foul by Farès Chaïbi (Algeria).
+760433,2026-06-16,Argentina,Algeria,74.3,75',2,Foul,Argentina,0,0,1,0,Rodrigo De Paul (Argentina) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,75.6,76',2,Goal,Algeria,1,1,0,0,"Goal! Argentina 3, Algeria 0. Lionel Messi (Argentina) left footed shot from the centre of the box to the bottom left corner. Assisted by Nico Gonzále"
+760433,2026-06-16,Argentina,Algeria,77.9,78',2,Start Delay,Algeria,0,0,0,0,Delay in match because of an injury Ibrahim Maza (Algeria).
+760433,2026-06-16,Argentina,Algeria,78.4,79',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760433,2026-06-16,Argentina,Algeria,79.0,80',2,Substitution,Argentina,0,0,0,0,"Substitution, Argentina. Nico Paz replaces Lionel Messi."
+760433,2026-06-16,Argentina,Algeria,79.1,80',2,Substitution,Argentina,0,0,0,0,"Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero."
+760433,2026-06-16,Argentina,Algeria,81.0,81',2,Substitution,Algeria,0,0,0,0,"Substitution, Algeria. Adil Boulbina replaces Nabil Bentaleb."
+760433,2026-06-16,Argentina,Algeria,81.4,82',2,Substitution,Algeria,0,0,0,0,"Substitution, Algeria. Ramiz Zerrouki replaces Ibrahim Maza."
+760433,2026-06-16,Argentina,Algeria,82.3,83',2,Foul,Argentina,0,0,1,0,Foul by Facundo Medina (Argentina).
+760433,2026-06-16,Argentina,Algeria,82.3,83',2,Foul,Algeria,0,0,1,0,Riyad Mahrez (Algeria) wins a free kick on the right wing.
+760433,2026-06-16,Argentina,Algeria,82.8,83',2,Foul,Argentina,0,0,1,0,Foul by Julián Alvarez (Argentina).
+760433,2026-06-16,Argentina,Algeria,82.8,83',2,Foul,Algeria,0,0,1,0,Aïssa Mandi (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,84.3,85',2,Foul,Algeria,0,0,1,0,Houssem Aouar (Algeria) wins a free kick in the attacking half.
+760433,2026-06-16,Argentina,Algeria,84.3,85',2,Foul,Argentina,0,0,1,0,Foul by Alexis Mac Allister (Argentina).
+760433,2026-06-16,Argentina,Algeria,85.4,86',2,Shot Blocked,Algeria,1,0,0,0,Attempt blocked. Riyad Mahrez (Algeria) left footed shot from outside the box is blocked.
+760433,2026-06-16,Argentina,Algeria,90.0,90'+5',2,Foul,Algeria,0,0,1,0,Ramy Bensebaini (Algeria) wins a free kick in the defensive half.
+760433,2026-06-16,Argentina,Algeria,90.0,90'+5',2,Foul,Argentina,0,0,1,0,Foul by Nico Paz (Argentina).
+760433,2026-06-16,Argentina,Algeria,90.0,90'+6',2,Handball,Algeria,0,0,0,0,Handball by Rayan Aït-Nouri (Algeria).
+760431,2026-06-17,Austria,Jordan,1.5,2',1,Shot Off Target,Jordan,0,0,0,0,"Attempt missed. Ehsan Haddad (Jordan) right footed shot from a difficult angle on the right is close, but misses to the right. Assisted by Nizar Al Ra"
+760431,2026-06-17,Austria,Jordan,7.0,7',1,Handball,Austria,0,0,0,0,Handball by Konrad Laimer (Austria).
+760431,2026-06-17,Austria,Jordan,8.7,9',1,Shot On Target,Jordan,0,0,0,0,Attempt saved. Mousa Al Tamari (Jordan) left footed shot from outside the box is saved in the bottom right corner by Alexander Schlager (Austria). Ass
+760431,2026-06-17,Austria,Jordan,10.5,11',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. David Alaba (Austria) left footed shot from outside the box misses to the right.
+760431,2026-06-17,Austria,Jordan,11.1,12',1,Offside,Austria,0,0,0,0,"Offside, Austria. Konrad Laimer is caught offside."
+760431,2026-06-17,Austria,Jordan,12.1,13',1,Foul,Jordan,0,0,1,0,Foul by Abdallah Nasib (Jordan).
+760431,2026-06-17,Austria,Jordan,12.1,13',1,Foul,Austria,0,0,1,0,Sasa Kalajdzic (Austria) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,13.0,13',1,Foul,Austria,0,0,1,0,Foul by Xaver Schlager (Austria).
+760431,2026-06-17,Austria,Jordan,13.0,13',1,Foul,Jordan,0,0,1,0,Odeh Fakhoury (Jordan) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,15.5,16',1,Corner Awarded,Austria,0,0,0,1,"Corner, Austria. Conceded by Mohammad Abu Al Nadi."
+760431,2026-06-17,Austria,Jordan,16.2,17',1,Foul,Jordan,0,0,1,0,Mousa Al Tamari (Jordan) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,16.2,17',1,Foul,Austria,0,0,1,0,Foul by Konrad Laimer (Austria).
+760431,2026-06-17,Austria,Jordan,16.5,17',1,Shot On Target,Jordan,0,0,0,0,Attempt saved. Odeh Fakhoury (Jordan) right footed shot from outside the box is saved in the top centre of the goal by Alexander Schlager (Austria). A
+760431,2026-06-17,Austria,Jordan,16.5,17',1,Corner Awarded,Jordan,0,0,0,1,"Corner, Jordan. Conceded by Alexander Schlager."
+760431,2026-06-17,Austria,Jordan,18.6,19',1,Shot Blocked,Austria,1,0,0,0,Attempt blocked. Marcel Sabitzer (Austria) left footed shot from outside the box is blocked. Assisted by Sasa Kalajdzic.
+760431,2026-06-17,Austria,Jordan,18.6,19',1,Offside,Austria,0,0,0,0,"Offside, Austria. Konrad Laimer is caught offside."
+760431,2026-06-17,Austria,Jordan,20.0,20',1,Goal,Jordan,1,1,0,0,"Goal! Austria 1, Jordan 0. Romano Schmid (Austria) right footed shot from outside the box to the top right corner. Assisted by Xaver Schlager."
+760431,2026-06-17,Austria,Jordan,21.4,22',1,Corner Awarded,Jordan,0,0,0,1,"Corner, Jordan. Conceded by David Alaba."
+760431,2026-06-17,Austria,Jordan,21.9,22',1,Shot Hit Woodwork,Jordan,1,0,0,0,Ali Olwan (Jordan) hits the bar with a header from the left side of the six yard box. Assisted by Mohannad Abu Taha with a cross following a corner.
+760431,2026-06-17,Austria,Jordan,22.7,23',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760431,2026-06-17,Austria,Jordan,25.8,26',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760431,2026-06-17,Austria,Jordan,29.5,30',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Sasa Kalajdzic (Austria) header from the centre of the box misses to the right. Assisted by Phillipp Mwene.
+760431,2026-06-17,Austria,Jordan,32.2,33',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Stefan Posch (Austria) right footed shot from the centre of the box is high and wide to the left.
+760431,2026-06-17,Austria,Jordan,33.9,34',1,Shot On Target,Jordan,0,0,0,0,Attempt saved. Ali Olwan (Jordan) right footed shot from the right side of the box is saved in the top left corner by Alexander Schlager (Austria). As
+760431,2026-06-17,Austria,Jordan,33.9,34',1,Shot Blocked,Jordan,1,0,0,0,Attempt blocked. Mousa Al Tamari (Jordan) left footed shot from the centre of the box is blocked.
+760431,2026-06-17,Austria,Jordan,36.5,37',1,Foul,Jordan,0,0,1,0,Abdallah Nasib (Jordan) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,36.5,37',1,Foul,Austria,0,0,1,0,Foul by Sasa Kalajdzic (Austria).
+760431,2026-06-17,Austria,Jordan,39.5,40',1,Foul,Jordan,0,0,1,0,Foul by Nizar Al Rashdan (Jordan).
+760431,2026-06-17,Austria,Jordan,39.5,40',1,Foul,Austria,0,0,1,0,Sasa Kalajdzic (Austria) wins a free kick in the attacking half.
+760431,2026-06-17,Austria,Jordan,40.4,41',1,Foul,Jordan,0,0,1,0,Ehsan Haddad (Jordan) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,40.4,41',1,Foul,Austria,0,0,1,0,Foul by Xaver Schlager (Austria).
+760431,2026-06-17,Austria,Jordan,41.0,42',1,Foul,Austria,0,0,1,0,Foul by Phillipp Mwene (Austria).
+760431,2026-06-17,Austria,Jordan,41.0,42',1,Foul,Jordan,0,0,1,0,Ali Olwan (Jordan) wins a free kick in the attacking half.
+760431,2026-06-17,Austria,Jordan,41.7,42',1,Corner Awarded,Jordan,0,0,0,1,"Corner, Jordan. Conceded by Stefan Posch."
+760431,2026-06-17,Austria,Jordan,42.8,43',1,Foul,Austria,0,0,1,0,Foul by Stefan Posch (Austria).
+760431,2026-06-17,Austria,Jordan,42.8,43',1,Foul,Jordan,0,0,1,0,Odeh Fakhoury (Jordan) wins a free kick in the attacking half.
+760431,2026-06-17,Austria,Jordan,43.7,44',1,Shot Off Target,Jordan,0,0,0,0,Attempt missed. Mousa Al Tamari (Jordan) left footed shot from outside the box misses to the right. Assisted by Odeh Fakhoury following a set piece si
+760431,2026-06-17,Austria,Jordan,45.0,45'+1',1,Shot Off Target,Jordan,0,0,0,0,"Attempt missed. Mousa Al Tamari (Jordan) left footed shot from the right side of the box is close, but misses to the right. Assisted by Ehsan Haddad."
+760431,2026-06-17,Austria,Jordan,45.0,45'+1',1,Foul,Austria,0,0,1,0,Nicolas Seiwald (Austria) wins a free kick in the attacking half.
+760431,2026-06-17,Austria,Jordan,45.0,45'+1',1,Foul,Jordan,0,0,1,0,Foul by Nizar Al Rashdan (Jordan).
+760431,2026-06-17,Austria,Jordan,45.0,45'+4',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Sasa Kalajdzic (Austria) right footed shot from outside the box is too high. Assisted by Marcel Sabitzer.
+760431,2026-06-17,Austria,Jordan,45.0,45',1,Substitution,Austria,0,0,0,0,"Substitution, Austria. Marko Arnautovic replaces Sasa Kalajdzic."
+760431,2026-06-17,Austria,Jordan,49.1,50',2,Goal,Jordan,1,1,0,0,"Goal! Austria 1, Jordan 1. Ali Olwan (Jordan) right footed shot from the left side of the box to the bottom right corner. Assisted by Noor Al Rawabdeh"

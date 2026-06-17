@@ -120,7 +120,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the Germany vs Cura\u00e7ao match, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Germany's attack gained momentum, increasing their actions by 0.50 per minute, indicating a more aggressive approach after the pause, while Cura\u00e7ao's attack slowed down, decreasing by 0.20 actions per minute. In contrast, the second break had a neutral effect on Germany's attack, with no change in actions per minute, but Cura\u00e7ao's attack slightly picked up, increasing by 0.10 actions per minute. Overall, Germany benefited more from the hydration breaks, as their increased momentum after the first break likely contributed to their overall performance, giving them an edge over Cura\u00e7ao.",
+  "insight": "During the match between Germany and Cura\u00e7ao, the hydration breaks had varying effects on each team's attacking momentum. At the first break, Germany's attacking actions increased from 1 to 6, showing a significant surge in momentum with an increase of 0.50 actions per minute, while Cura\u00e7ao's dropped from 2 to 0, indicating a loss of momentum with a decrease of 0.20 actions per minute. In contrast, the second break had a more neutral effect, with Germany's actions remaining steady and Cura\u00e7ao's increasing slightly, but overall, Germany benefited more from the hydration breaks, particularly the first one, where they were able to regain and increase their attacking momentum. This suggests that Germany was able to capitalize on the breaks to refocus and intensify their attack, potentially giving them an edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

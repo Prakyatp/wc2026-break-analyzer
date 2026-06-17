@@ -1,9 +1,27 @@
 [
   {
+    "team": "Algeria",
+    "slug": "algeria",
+    "verdict": "hurt",
+    "mean_delta": -0.1
+  },
+  {
+    "team": "Argentina",
+    "slug": "argentina",
+    "verdict": "hurt",
+    "mean_delta": -0.15
+  },
+  {
     "team": "Australia",
     "slug": "australia",
     "verdict": "neutral",
     "mean_delta": 0.05
+  },
+  {
+    "team": "Austria",
+    "slug": "austria",
+    "verdict": "neutral",
+    "mean_delta": 0.0
   },
   {
     "team": "Belgium",
@@ -86,8 +104,8 @@
   {
     "team": "Iraq",
     "slug": "iraq",
-    "verdict": "helped",
-    "mean_delta": 0.1
+    "verdict": "neutral",
+    "mean_delta": 0.0
   },
   {
     "team": "Ivory Coast",
@@ -100,6 +118,12 @@
     "slug": "japan",
     "verdict": "neutral",
     "mean_delta": 0.0
+  },
+  {
+    "team": "Jordan",
+    "slug": "jordan",
+    "verdict": "hurt",
+    "mean_delta": -0.3
   },
   {
     "team": "Mexico",
@@ -129,7 +153,7 @@
     "team": "Norway",
     "slug": "norway",
     "verdict": "helped",
-    "mean_delta": 0.1
+    "mean_delta": 0.15
   },
   {
     "team": "Paraguay",

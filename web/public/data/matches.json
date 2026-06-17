@@ -106,5 +106,17 @@
     "home": "Iraq",
     "away": "Norway",
     "label": "Iraq vs Norway"
+  },
+  {
+    "event_id": 760433,
+    "home": "Argentina",
+    "away": "Algeria",
+    "label": "Argentina vs Algeria"
+  },
+  {
+    "event_id": 760431,
+    "home": "Austria",
+    "away": "Jordan",
+    "label": "Austria vs Jordan"
   }
 ]

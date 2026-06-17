@@ -1,0 +1,40 @@
+{
+  "team": "Argentina",
+  "slug": "argentina",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 1,
+    "lost": 1,
+    "mean_delta": -0.15,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.4,
+    "pressing_kept": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.1,
+    "half2_mean": -0.4
+  },
+  "breaks": [
+    {
+      "opponent": "Algeria",
+      "half": 1,
+      "match_label": "Argentina v Algeria",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Algeria",
+      "half": 2,
+      "match_label": "Argentina v Algeria",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    }
+  ],
+  "insight": "Argentina's performance during hydration breaks in the 2026 World Cup shows that they were able to gain momentum in half of the breaks, with a slight overall decline in momentum at a rate of -0.150 per minute. However, when they were pressing before a break, they tended to lose momentum at a higher rate of -0.400 per minute, and were unable to regain it after the break. In contrast, when Argentina was not pressing before a break, they were able to slightly increase their momentum at a rate of +0.100 per minute, suggesting that they may benefit from a more conservative approach leading up to a hydration break. This indicates that Argentina's strategy going into a break can significantly impact their performance coming out of it, and they may need to adjust their approach to maximize their chances of success."
+}

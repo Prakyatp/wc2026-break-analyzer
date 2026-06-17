@@ -1,0 +1,31 @@
+{
+  "team": "Jordan",
+  "slug": "jordan",
+  "stats": {
+    "total_breaks": 1,
+    "gained": 0,
+    "lost": 1,
+    "mean_delta": -0.3,
+    "verdict": "hurt",
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
+    "pressing_kept": 0,
+    "nonpressing_n": 0,
+    "nonpressing_mean": 0,
+    "nonpressing_gained": 0,
+    "half1_mean": -0.3,
+    "half2_mean": 0
+  },
+  "breaks": [
+    {
+      "opponent": "Austria",
+      "half": 1,
+      "match_label": "Austria v Jordan",
+      "pre_rate": 0.5,
+      "post_rate": 0.2,
+      "delta": -0.3,
+      "pressing": true
+    }
+  ],
+  "insight": "For Jordan, the hydration breaks in the 2026 World Cup have not provided a boost in momentum, with the team failing to gain momentum in their one break. On the occasion when they were pressing before the break, their momentum actually decreased at an average rate of -0.300 per minute, indicating that the stoppage may have disrupted their rhythm. This suggests that Jordan may struggle to regain their intensity after hydration breaks, particularly if they were applying pressure on their opponents beforehand. As a result, the team's coaches may need to adjust their strategy during these breaks to help the players refocus and regain their momentum."
+}

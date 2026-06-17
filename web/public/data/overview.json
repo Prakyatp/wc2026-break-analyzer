@@ -1,98 +1,98 @@
 {
   "stats": {
-    "matches": 18,
-    "breaks": 35,
-    "pressing_lost_pct": 67,
-    "passive_gained_pct": 90
+    "matches": 20,
+    "breaks": 39,
+    "pressing_lost_pct": 68,
+    "passive_gained_pct": 86
   },
   "break_times": {
-    "half1": 23.0,
-    "half2": 67.7
+    "half1": 23.1,
+    "half2": 67.8
   },
   "timeline": [
     {
       "minute": 0,
-      "avg": 2.083,
-      "upper": 2.371,
-      "lower": 1.796
+      "avg": 2.0,
+      "upper": 2.277,
+      "lower": 1.723
     },
     {
       "minute": 5,
-      "avg": 2.077,
-      "upper": 2.536,
-      "lower": 1.618
+      "avg": 2.0,
+      "upper": 2.432,
+      "lower": 1.568
     },
     {
       "minute": 10,
-      "avg": 2.231,
-      "upper": 2.739,
-      "lower": 1.722
+      "avg": 2.143,
+      "upper": 2.622,
+      "lower": 1.664
     },
     {
       "minute": 15,
-      "avg": 1.533,
-      "upper": 1.725,
-      "lower": 1.341
+      "avg": 1.647,
+      "upper": 1.873,
+      "lower": 1.421
     },
     {
       "minute": 20,
-      "avg": 1.9,
-      "upper": 2.248,
-      "lower": 1.552
+      "avg": 2.0,
+      "upper": 2.33,
+      "lower": 1.67
     },
     {
       "minute": 25,
-      "avg": 2.538,
-      "upper": 2.89,
-      "lower": 2.187
+      "avg": 2.429,
+      "upper": 2.772,
+      "lower": 2.085
     },
     {
       "minute": 30,
-      "avg": 2.067,
-      "upper": 2.295,
-      "lower": 1.838
+      "avg": 2.125,
+      "upper": 2.346,
+      "lower": 1.904
     },
     {
       "minute": 35,
-      "avg": 2.429,
-      "upper": 2.844,
-      "lower": 2.013
+      "avg": 2.333,
+      "upper": 2.732,
+      "lower": 1.935
     },
     {
       "minute": 40,
-      "avg": 2.2,
-      "upper": 2.593,
-      "lower": 1.807
+      "avg": 2.353,
+      "upper": 2.736,
+      "lower": 1.97
     },
     {
       "minute": 45,
-      "avg": 5.375,
-      "upper": 5.973,
-      "lower": 4.777
+      "avg": 5.111,
+      "upper": 5.671,
+      "lower": 4.552
     },
     {
       "minute": 50,
-      "avg": 2.467,
-      "upper": 2.757,
-      "lower": 2.176
+      "avg": 2.353,
+      "upper": 2.623,
+      "lower": 2.083
     },
     {
       "minute": 55,
-      "avg": 2.429,
-      "upper": 2.631,
-      "lower": 2.227
+      "avg": 2.438,
+      "upper": 2.661,
+      "lower": 2.214
     },
     {
       "minute": 60,
-      "avg": 1.846,
-      "upper": 2.236,
-      "lower": 1.456
+      "avg": 1.786,
+      "upper": 2.152,
+      "lower": 1.42
     },
     {
       "minute": 65,
-      "avg": 1.231,
-      "upper": 1.352,
-      "lower": 1.109
+      "avg": 1.333,
+      "upper": 1.493,
+      "lower": 1.174
     },
     {
       "minute": 70,
@@ -102,27 +102,27 @@
     },
     {
       "minute": 75,
-      "avg": 1.929,
-      "upper": 2.234,
-      "lower": 1.624
+      "avg": 1.938,
+      "upper": 2.218,
+      "lower": 1.657
     },
     {
       "minute": 80,
-      "avg": 1.923,
-      "upper": 2.188,
-      "lower": 1.658
+      "avg": 1.929,
+      "upper": 2.174,
+      "lower": 1.684
     },
     {
       "minute": 85,
-      "avg": 2.5,
-      "upper": 2.772,
-      "lower": 2.228
+      "avg": 2.4,
+      "upper": 2.673,
+      "lower": 2.127
     },
     {
       "minute": 90,
-      "avg": 3.867,
-      "upper": 4.75,
-      "lower": 2.984
+      "avg": 3.688,
+      "upper": 4.533,
+      "lower": 2.842
     }
   ],
   "scatter": {
@@ -231,6 +231,20 @@
         "post": 0.4,
         "delta": 0.1,
         "pressing": true
+      },
+      {
+        "team": "Jordan",
+        "pre": 0.5,
+        "post": 0.2,
+        "delta": -0.3,
+        "pressing": true
+      },
+      {
+        "team": "Austria",
+        "pre": 0.2,
+        "post": 0.2,
+        "delta": 0.0,
+        "pressing": true
       }
     ],
     "half2": [
@@ -338,13 +352,27 @@
         "post": 0.0,
         "delta": -0.2,
         "pressing": true
+      },
+      {
+        "team": "Algeria",
+        "pre": 0.2,
+        "post": 0.1,
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
+        "team": "Argentina",
+        "pre": 0.4,
+        "post": 0.0,
+        "delta": -0.4,
+        "pressing": true
       }
     ]
   },
   "deltas": {
     "half1": [
       {
-        "team": "France",
+        "team": "Jordan",
         "delta": -0.3,
         "pressing": true
       },
@@ -355,6 +383,11 @@
       },
       {
         "team": "Czechia",
+        "delta": -0.3,
+        "pressing": true
+      },
+      {
+        "team": "France",
         "delta": -0.3,
         "pressing": true
       },
@@ -374,22 +407,7 @@
         "pressing": true
       },
       {
-        "team": "Senegal",
-        "delta": -0.1,
-        "pressing": true
-      },
-      {
-        "team": "Saudi Arabia",
-        "delta": -0.1,
-        "pressing": true
-      },
-      {
-        "team": "Uruguay",
-        "delta": -0.1,
-        "pressing": false
-      },
-      {
-        "team": "Switzerland",
+        "team": "Ivory Coast",
         "delta": -0.1,
         "pressing": true
       },
@@ -399,7 +417,7 @@
         "pressing": true
       },
       {
-        "team": "Ivory Coast",
+        "team": "Switzerland",
         "delta": -0.1,
         "pressing": true
       },
@@ -409,9 +427,34 @@
         "pressing": true
       },
       {
+        "team": "Saudi Arabia",
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
+        "team": "Senegal",
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
+        "team": "Algeria",
+        "delta": -0.1,
+        "pressing": false
+      },
+      {
+        "team": "Uruguay",
+        "delta": -0.1,
+        "pressing": false
+      },
+      {
         "team": "Ecuador",
         "delta": 0.0,
         "pressing": true
+      },
+      {
+        "team": "Mexico",
+        "delta": 0.0,
+        "pressing": false
       },
       {
         "team": "Japan",
@@ -419,9 +462,9 @@
         "pressing": false
       },
       {
-        "team": "Mexico",
+        "team": "Austria",
         "delta": 0.0,
-        "pressing": false
+        "pressing": true
       },
       {
         "team": "South Africa",
@@ -431,6 +474,11 @@
       {
         "team": "Paraguay",
         "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Argentina",
+        "delta": 0.1,
         "pressing": false
       },
       {
@@ -444,17 +492,12 @@
         "pressing": false
       },
       {
-        "team": "New Zealand",
-        "delta": 0.1,
-        "pressing": false
-      },
-      {
-        "team": "Egypt",
-        "delta": 0.1,
-        "pressing": false
-      },
-      {
         "team": "Tunisia",
+        "delta": 0.1,
+        "pressing": false
+      },
+      {
+        "team": "New Zealand",
         "delta": 0.1,
         "pressing": false
       },
@@ -464,17 +507,22 @@
         "pressing": false
       },
       {
+        "team": "Egypt",
+        "delta": 0.1,
+        "pressing": false
+      },
+      {
         "team": "Iran",
         "delta": 0.2,
         "pressing": false
       },
       {
-        "team": "Cape Verde",
+        "team": "Qatar",
         "delta": 0.2,
         "pressing": false
       },
       {
-        "team": "Qatar",
+        "team": "Cape Verde",
         "delta": 0.2,
         "pressing": false
       },
@@ -489,6 +537,11 @@
         "pressing": false
       },
       {
+        "team": "Canada",
+        "delta": 0.3,
+        "pressing": true
+      },
+      {
         "team": "Sweden",
         "delta": 0.3,
         "pressing": false
@@ -497,11 +550,6 @@
         "team": "United States",
         "delta": 0.3,
         "pressing": false
-      },
-      {
-        "team": "Canada",
-        "delta": 0.3,
-        "pressing": true
       },
       {
         "team": "Netherlands",
@@ -514,17 +562,22 @@
         "pressing": false
       },
       {
-        "team": "Morocco",
+        "team": "Germany",
         "delta": 0.5,
         "pressing": false
       },
       {
-        "team": "Germany",
+        "team": "Morocco",
         "delta": 0.5,
         "pressing": false
       }
     ],
     "half2": [
+      {
+        "team": "Argentina",
+        "delta": -0.4,
+        "pressing": true
+      },
       {
         "team": "New Zealand",
         "delta": -0.2,
@@ -551,6 +604,26 @@
         "pressing": true
       },
       {
+        "team": "Iraq",
+        "delta": -0.1,
+        "pressing": false
+      },
+      {
+        "team": "Uruguay",
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
+        "team": "Sweden",
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
+        "team": "Algeria",
+        "delta": -0.1,
+        "pressing": true
+      },
+      {
         "team": "Mexico",
         "delta": -0.1,
         "pressing": false
@@ -566,34 +639,9 @@
         "pressing": false
       },
       {
-        "team": "Uruguay",
-        "delta": -0.1,
-        "pressing": true
-      },
-      {
         "team": "Switzerland",
         "delta": -0.1,
         "pressing": true
-      },
-      {
-        "team": "Sweden",
-        "delta": -0.1,
-        "pressing": true
-      },
-      {
-        "team": "Saudi Arabia",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
-        "team": "Cape Verde",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
-        "team": "Ecuador",
-        "delta": 0.0,
-        "pressing": false
       },
       {
         "team": "Japan",
@@ -601,37 +649,12 @@
         "pressing": true
       },
       {
-        "team": "Senegal",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
-        "team": "Germany",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
-        "team": "Czechia",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
-        "team": "T\u00fcrkiye",
-        "delta": 0.0,
-        "pressing": true
-      },
-      {
-        "team": "Canada",
-        "delta": 0.0,
-        "pressing": true
-      },
-      {
-        "team": "Scotland",
-        "delta": 0.0,
-        "pressing": false
-      },
-      {
         "team": "Bosnia-Herzegovina",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Cape Verde",
         "delta": 0.0,
         "pressing": false
       },
@@ -651,12 +674,47 @@
         "pressing": true
       },
       {
-        "team": "Cura\u00e7ao",
-        "delta": 0.1,
+        "team": "Czechia",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Canada",
+        "delta": 0.0,
         "pressing": true
       },
       {
-        "team": "Qatar",
+        "team": "Saudi Arabia",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Germany",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Senegal",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "T\u00fcrkiye",
+        "delta": 0.0,
+        "pressing": true
+      },
+      {
+        "team": "Scotland",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Ecuador",
+        "delta": 0.0,
+        "pressing": false
+      },
+      {
+        "team": "Brazil",
         "delta": 0.1,
         "pressing": false
       },
@@ -666,7 +724,12 @@
         "pressing": true
       },
       {
-        "team": "Brazil",
+        "team": "Cura\u00e7ao",
+        "delta": 0.1,
+        "pressing": true
+      },
+      {
+        "team": "Qatar",
         "delta": 0.1,
         "pressing": false
       },
@@ -682,6 +745,11 @@
       },
       {
         "team": "France",
+        "delta": 0.2,
+        "pressing": false
+      },
+      {
+        "team": "Norway",
         "delta": 0.2,
         "pressing": false
       },
@@ -700,35 +768,35 @@
   "summary": {
     "half1": {
       "pressing": {
-        "mean": -0.12,
-        "sem": 0.0428,
-        "n": 15
+        "mean": -0.1235,
+        "sem": 0.0398,
+        "n": 17
       },
       "notpressing": {
-        "mean": 0.1762,
-        "sem": 0.0358,
-        "n": 21
+        "mean": 0.1609,
+        "sem": 0.0349,
+        "n": 23
       },
       "pvalue": 0.0
     },
     "half2": {
       "pressing": {
-        "mean": -0.0733,
-        "sem": 0.0284,
-        "n": 15
+        "mean": -0.0941,
+        "sem": 0.0315,
+        "n": 17
       },
       "notpressing": {
-        "mean": 0.0737,
-        "sem": 0.0389,
-        "n": 19
+        "mean": 0.0714,
+        "sem": 0.0366,
+        "n": 21
       },
-      "pvalue": 0.0075
+      "pvalue": 0.0025
     }
   },
   "insights": {
-    "timeline": "The attacking pressure pattern in WC2026 matches shows that teams tend to build momentum in the first 20 minutes of each half, with a noticeable spike in shots, corners, and goals. The hydration break at around 23 minutes into the first half comes at a point where teams are just starting to find their rhythm, potentially disrupting their flow and allowing the opposing team to regroup. In the second half, the break at around 67 minutes occurs when teams are often pushing for a late goal, and the pause can give them a chance to reassess and adjust their strategy, which may explain why there's often a surge in pressure after the break. Overall, the timing of the hydration breaks seems to intersect with key moments in the match where teams are establishing or re-establishing their attacking rhythm.",
-    "scatter": "The statistics from the FIFA World Cup 2026 show that teams which are actively pressing their opponents, meaning they launch at least two attacks within a 10-minute period before a hydration break, tend to lose their momentum after the break. This is evident in both the first and second halves of the matches, where 12 out of 15 teams and 8 out of 15 teams respectively, that were pressing before the break, saw a decline in their performance afterwards. This suggests that the hydration breaks are disrupting the rhythm of these teams, causing them to struggle to regain their intensity and attacking flair after the pause in play. As a result, teams that are dominating possession and creating scoring opportunities before the break often find themselves on the back foot afterwards, which can significantly impact the outcome of the match.",
-    "deltas": "The statistics from the FIFA World Cup 2026 show that teams tend to have a slight increase in actions per minute after the first half hydration break, with an average increase of 0.053 actions per minute, indicating a minor boost in intensity. However, this increase is much less pronounced in the second half, with an average increase of only 0.009 actions per minute, suggesting that the break has a lesser impact on the game's momentum later on. The fact that teams that were pressing tend to have a decrease in actions per minute after the break, while non-pressing teams see an increase, implies that the hydration break can disrupt the momentum of teams that were aggressively pushing the pace of the game. This disruption can potentially level the playing field, allowing non-pressing teams to regain their footing and mount a challenge against their more aggressive opponents.",
-    "summary": "The statistics show that teams that press high up the pitch tend to lose momentum during hydration breaks, with their intensity dropping significantly, while teams that don't press as much actually gain energy and intensity during these breaks. This \"equalizer effect\" means that the breaks are essentially leveling the playing field, allowing non-pressing teams to catch their breath and regain their composure, while pressing teams struggle to maintain their high-intensity pace. As a result, the breaks are having a profound impact on the dynamics of the match, with pressing teams losing their advantage and non-pressing teams gaining a newfound sense of energy and purpose. This shift in momentum can be a game-changer, potentially altering the outcome of the match in favor of the non-pressing team."
+    "timeline": "The pattern of attacking pressure in WC2026 matches reveals that teams tend to build momentum in the first 20 minutes of each half, with a noticeable spike in shots, corners, and goals. The hydration break at around 23.1 minutes into the first half seems to interrupt this initial surge, causing a brief lull in attacking pressure before teams regain their rhythm. Similarly, in the second half, the break at 67.8 minutes appears to coincide with a natural dip in pressure, allowing teams to recharge before the final push, which often sees an increase in attacking intensity as teams seek to capitalize on any remaining scoring opportunities. This suggests that the break timing is well-placed to minimize disruption to the natural ebb and flow of the match, allowing teams to maintain their strategic momentum.",
+    "scatter": "The statistics from the FIFA World Cup 2026 show that teams that are actively pressing their opponents, meaning they launch at least two attacks within a 10-minute period before a hydration break, tend to lose their momentum after the break. This is evident in both the first and second halves of the matches, where 13 out of 17 and 10 out of 17 pressing teams, respectively, saw a drop in their performance after the break. This means that when a team is aggressively pushing forward and creating scoring opportunities, the hydration break often disrupts their rhythm, allowing their opponents to regroup and gain an advantage. As a result, teams that are dominating the game before a hydration break may need to adjust their strategy to maintain their momentum and continue applying pressure on their opponents after the break.",
+    "deltas": "The statistics from the FIFA World Cup 2026 show that teams tend to have a slight increase in actions per minute after the first half hydration break, with an average increase of 0.040 actions per minute, indicating a brief surge in activity. However, this momentum is short-lived, as the second half sees a negligible decrease in actions per minute, suggesting that the break has a disrupting effect on the teams' rhythm. The fact that teams that were pressing, marked as \u2605, are more likely to experience a decline in performance after the break, while non-pressing teams tend to see an improvement, suggests that the hydration break can be a momentum disruptor, particularly for teams that were aggressively pushing the pace of the game. This disruption can potentially lead to a shift in the balance of the match, as teams that were dominating may struggle to regain their footing after the break.",
+    "summary": "The statistics show that teams who employ a pressing strategy, which involves aggressively pursuing the ball when the opponent has possession, tend to lose momentum during hydration breaks. Specifically, pressing teams experience a significant drop in performance, with a decrease of 0.124 points per minute at the first half break and 0.094 points per minute at the second half break, indicating that they struggle to regain their intensity after the break. In contrast, non-pressing teams, who focus on defending and counter-attacking, actually gain an advantage during these breaks, with an increase of 0.161 points per minute at the first half break and 0.071 points per minute at the second half break, effectively acting as an equalizer that allows them to stay competitive with their more aggressive opponents. This equalizer effect suggests that hydration breaks can be a crucial factor in shaping the outcome of matches, as"
   }
 }

@@ -2,19 +2,19 @@
   "team": "Iraq",
   "slug": "iraq",
   "stats": {
-    "total_breaks": 1,
+    "total_breaks": 2,
     "gained": 1,
-    "lost": 0,
-    "mean_delta": 0.1,
-    "verdict": "helped",
+    "lost": 1,
+    "mean_delta": 0.0,
+    "verdict": "neutral",
     "pressing_n": 0,
     "pressing_mean": 0,
     "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.1,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.0,
     "nonpressing_gained": 1,
     "half1_mean": 0.1,
-    "half2_mean": 0
+    "half2_mean": -0.1
   },
   "breaks": [
     {
@@ -25,7 +25,16 @@
       "post_rate": 0.1,
       "delta": 0.1,
       "pressing": false
+    },
+    {
+      "opponent": "Norway",
+      "half": 2,
+      "match_label": "Iraq v Norway",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
     }
   ],
-  "insight": "In the 2026 FIFA World Cup, Iraq's performance during hydration breaks is noteworthy, as they managed to gain momentum in their single break, with a mean change of +0.100 minutes per minute. This suggests that the break had a positive impact on the team's performance, allowing them to regain energy and come back stronger. When Iraq was not pressing before the break, they were able to maintain this positive momentum, as evidenced by the average change of +0.100 minutes per minute in the one instance where they did not press. This indicates that the hydration break may have been particularly beneficial for Iraq when they were not exerting intense pressure before the stoppage, allowing them to recharge and continue playing effectively."
+  "insight": "In the FIFA World Cup 2026, Iraq's performance during hydration breaks has been relatively neutral, with the team maintaining their momentum in half of the breaks, resulting in a mean change of zero. This suggests that the breaks have neither significantly hindered nor helped Iraq's progress in the matches. When Iraq was not pressing before the breaks, they managed to maintain their pace, with an average change of zero, which indicates that the team was able to sustain their energy levels during this time. Overall, the hydration breaks have not had a noticeable impact on Iraq's performance, as the team's momentum has remained relatively stable throughout these periods."
 }
