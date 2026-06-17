@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className="flex h-screen overflow-hidden bg-[#f5f6fa]">
+      <body className="flex flex-col md:flex-row h-screen overflow-hidden bg-[#f5f6fa]">
         <Sidebar />
         <main className="flex-1 overflow-y-auto">
           {children}

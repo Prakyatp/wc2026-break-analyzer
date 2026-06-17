@@ -6,6 +6,7 @@ import {
 } from "recharts";
 import { Card, CardHeader, InsightBox, MetricCard } from "@/components/Card";
 import { BASE } from "@/lib/basePath";
+import { useIsMobile } from "@/lib/useIsMobile";
 
 type TeamMeta   = { team: string; slug: string; verdict: string; mean_delta: number };
 type BreakEntry = {
@@ -43,6 +44,7 @@ export default function TeamsPage() {
   const [teams,    setTeams]    = useState<TeamMeta[]>([]);
   const [selected, setSelected] = useState<string>("");
   const [detail,   setDetail]   = useState<TeamDetail | null>(null);
+  const isMobile = useIsMobile();
 
   useEffect(() => {
     fetch(`${BASE}/data/teams.json`).then(r => r.json()).then((t: TeamMeta[]) => {
@@ -58,7 +60,7 @@ export default function TeamsPage() {
   }, [selected]);
 
   return (
-    <div className="p-8 max-w-7xl mx-auto">
+    <div className="p-4 sm:p-6 lg:p-8 max-w-7xl mx-auto">
       <div className="mb-8">
         <h1 className="text-2xl font-bold wc-text">Team Analysis</h1>
         <p className="text-sm text-gray-400 mt-1">
@@ -109,16 +111,17 @@ export default function TeamsPage() {
               <BarChart
                 layout="vertical"
                 data={detail.breaks}
-                margin={{ top: 5, right: 60, bottom: 5, left: 160 }}
+                margin={{ top: 5, right: isMobile ? 30 : 60, bottom: 5, left: isMobile ? 90 : 160 }}
               >
                 <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" horizontal={false} />
                 <XAxis type="number" tick={{ fontSize: 11, fill: "#94a3b8" }}
                        label={{ value: "Δ actions / min (after − before)", position: "insideBottomRight", offset: -5, fontSize: 11, fill: "#94a3b8" }} />
-                <YAxis type="category" dataKey="opponent" width={155}
+                <YAxis type="category" dataKey="opponent" width={isMobile ? 85 : 155}
                        tick={{ fontSize: 11, fill: "#64748b" }}
                        tickFormatter={(v: string, i: number) => {
                          const b = detail.breaks[i];
-                         return b ? `${v.slice(0,13)}  H${b.half}${b.pressing ? " ★" : ""}` : v;
+                         const name = v.slice(0, isMobile ? 8 : 13);
+                         return b ? `${name} H${b.half}${b.pressing ? " ★" : ""}` : v;
                        }} />
                 <Tooltip
                   contentStyle={{ borderRadius: 10, border: "1px solid #e2e8f0", fontSize: 12 }}

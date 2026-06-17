@@ -1,7 +1,8 @@
 "use client";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { LayoutDashboard, Swords, Users } from "lucide-react";
+import { LayoutDashboard, Swords, Users, Menu, X } from "lucide-react";
 import clsx from "clsx";
 
 const nav = [
@@ -15,9 +16,59 @@ const WC_GRADIENT = "linear-gradient(145deg, #C8102E 0%, #E8412A 20%, #F47B20 50
 
 export default function Sidebar() {
   const path = usePathname();
+  const [open, setOpen] = useState(false);
+
+  // close the drawer whenever the route changes
+  useEffect(() => { setOpen(false); }, [path]);
 
   return (
-    <aside className="w-60 shrink-0 h-screen bg-white border-r border-gray-100 flex flex-col">
+    <>
+      {/* ── Mobile top bar ─────────────────────────────────────────── */}
+      <div className="md:hidden sticky top-0 z-30 flex items-center justify-between bg-white border-b border-gray-100 px-4 py-3">
+        <div className="flex items-center gap-2.5">
+          <div className="w-8 h-8 shrink-0 flex items-center justify-center rounded-lg" style={{ background: WC_GRADIENT }}>
+            <svg viewBox="0 0 28 34" width="16" height="19" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 2h14l-2 12c0 3.3-2.7 6-6 6s-6-2.7-6-6L7 2z" fill="white" fillOpacity="0.95"/>
+              <path d="M7 4H3a3 3 0 003 3" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
+              <path d="M21 4h4a3 3 0 01-3 3" stroke="white" strokeWidth="1.5" strokeLinecap="round"/>
+              <rect x="12" y="20" width="4" height="6" rx="1" fill="white" fillOpacity="0.95"/>
+              <rect x="8" y="26" width="12" height="3" rx="1.5" fill="white"/>
+            </svg>
+          </div>
+          <span className="text-[13px] font-bold wc-text">WC2026 Break Analyzer</span>
+        </div>
+        <button
+          onClick={() => setOpen(true)}
+          aria-label="Open menu"
+          className="p-2 rounded-lg text-gray-500 hover:bg-gray-50 hover:text-gray-800"
+        >
+          <Menu size={20} />
+        </button>
+      </div>
+
+      {/* ── Mobile overlay ─────────────────────────────────────────── */}
+      {open && (
+        <div
+          className="md:hidden fixed inset-0 bg-black/40 z-40"
+          onClick={() => setOpen(false)}
+        />
+      )}
+
+      <aside
+        className={clsx(
+          "w-60 shrink-0 h-screen bg-white border-r border-gray-100 flex flex-col",
+          "fixed md:static top-0 left-0 z-50 transition-transform duration-200",
+          open ? "translate-x-0" : "-translate-x-full md:translate-x-0"
+        )}
+      >
+        {/* mobile-only close button */}
+        <button
+          onClick={() => setOpen(false)}
+          aria-label="Close menu"
+          className="md:hidden absolute top-3 right-3 z-10 p-1.5 rounded-lg text-white/80 hover:bg-white/20"
+        >
+          <X size={18} />
+        </button>
 
       {/* ── Logo / branding ────────────────────────────────────────── */}
       <div className="relative overflow-hidden" style={{ background: WC_GRADIENT }}>
@@ -74,6 +125,7 @@ export default function Sidebar() {
             <Link
               key={href}
               href={href}
+              onClick={() => setOpen(false)}
               className={clsx(
                 "flex items-center gap-3 px-3 py-2.5 rounded-xl text-[13.5px] font-medium transition-all",
                 active
@@ -95,5 +147,6 @@ export default function Sidebar() {
         <p className="text-[11px] text-gray-300">AI insights via Groq</p>
       </div>
     </aside>
+    </>
   );
 }
