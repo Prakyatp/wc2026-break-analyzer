@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the first hydration break, Canada's attacking momentum increased significantly, with their actions per minute rising by 0.30, indicating a notable surge in their offensive pressure. In contrast, Bosnia-Herzegovina's attacking momentum decreased, with their actions per minute dropping by 0.20, suggesting they lost some steam after the initial 23 minutes. At the second hydration break, neither team saw a significant change in their attacking momentum, with both teams maintaining a steady pace. Overall, Canada benefited more from the hydration breaks, as their increased momentum in the first break gave them an edge, and they were able to maintain their pace in the second break, potentially giving them an advantage over Bosnia-Herzegovina.",
+  "insight": "During the first hydration break, Canada's attacking momentum increased significantly, with their actions per minute rising by 0.30, indicating a surge in their offensive pressure, as they went from 2 to 5 actions. In contrast, Bosnia-Herzegovina's momentum decreased, with their actions per minute dropping by 0.20, suggesting they lost some steam in their attack, going from 2 to 0 actions. By the second hydration break, both teams had stabilized, with no change in their actions per minute, but overall, Canada benefited more from the breaks, as they were able to maintain or increase their attacking momentum, while Bosnia-Herzegovina struggled to regain theirs. This shift in momentum could have given Canada an edge in the match, allowing them to dictate the pace and potentially capitalize on scoring opportunities.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

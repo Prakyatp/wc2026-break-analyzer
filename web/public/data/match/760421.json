@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Australia and T\u00fcrkiye, the hydration breaks had varying effects on each team's attacking momentum. At the first break, Australia's attacking actions decreased slightly, from 2 to 1 per minute, while T\u00fcrkiye's increased, going from 1 to 3 actions per minute, indicating a shift in momentum in favor of T\u00fcrkiye. However, at the second break, Australia's attacking momentum picked up, with their actions per minute increasing, whereas T\u00fcrkiye's remained steady, suggesting that Australia may have benefited more from the second hydration break. Overall, T\u00fcrkiye seemed to benefit more from the breaks, as their initial increase in attacking momentum was more significant, and they were able to maintain their pace in the later stages of the match.",
+  "insight": "During the match between Australia and T\u00fcrkiye, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Australia's attacking actions decreased slightly, going from 2 to 1 action per minute, while T\u00fcrkiye's increased, going from 1 to 3 actions per minute, indicating a shift in momentum in favor of T\u00fcrkiye. However, at the second break, Australia regained some momentum, increasing their actions from 0 to 2 per minute, whereas T\u00fcrkiye's remained steady, suggesting that Australia benefited more from the second break. Overall, T\u00fcrkiye seemed to benefit more from the first break, but Australia's resurgence in the second break suggests they were able to adapt and regain some ground, potentially making the match more competitive.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

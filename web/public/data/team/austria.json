@@ -2,19 +2,19 @@
   "team": "Austria",
   "slug": "austria",
   "stats": {
-    "total_breaks": 1,
+    "total_breaks": 2,
     "gained": 1,
-    "lost": 0,
-    "mean_delta": 0.0,
+    "lost": 1,
+    "mean_delta": -0.05,
     "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": 0.0,
+    "pressing_n": 2,
+    "pressing_mean": -0.05,
     "pressing_kept": 1,
     "nonpressing_n": 0,
     "nonpressing_mean": 0,
     "nonpressing_gained": 0,
     "half1_mean": 0.0,
-    "half2_mean": 0
+    "half2_mean": -0.1
   },
   "breaks": [
     {
@@ -25,7 +25,16 @@
       "post_rate": 0.2,
       "delta": 0.0,
       "pressing": true
+    },
+    {
+      "opponent": "Jordan",
+      "half": 2,
+      "match_label": "Austria v Jordan",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
     }
   ],
-  "insight": "Austria's hydration breaks in the 2026 World Cup have shown a neutral impact on their momentum, with a mean change of zero minutes per minute. This suggests that the breaks have neither significantly helped nor hindered the team's progress, allowing them to maintain their existing momentum. In the one instance where Austria was pressing before a hydration break, they were able to sustain their momentum afterwards, indicating that the break did not disrupt their attacking rhythm. Overall, the data implies that Austria's performance has been consistent and unaffected by the hydration breaks, which could be an important factor in their overall strategy and team management."
+  "insight": "Austria's performance during hydration breaks in the 2026 World Cup shows a mixed trend, with the team managing to gain momentum in only half of the breaks, resulting in a slight average decrease in momentum of 0.050 minutes. When Austria was pressing before a hydration break, they maintained their momentum in only one out of two instances, with the same average decrease in momentum. This suggests that the breaks may have slightly disrupted Austria's rhythm when they were on the front foot. Overall, the numbers indicate that hydration breaks have had a neutral to slightly negative impact on Austria's performance, although the limited sample size means that more data is needed to draw definitive conclusions."
 }

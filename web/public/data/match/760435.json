@@ -1,0 +1,116 @@
+{
+  "event_id": 760435,
+  "home": "Portugal",
+  "away": "Congo DR",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 5
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 55,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 65,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 2,
+      "away": 1
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 23.1,
+      "break_end": 26.1,
+      "display": "24'",
+      "home_pre": 0.0,
+      "home_post": 0.1,
+      "home_delta": 0.1,
+      "away_pre": 0.1,
+      "away_post": 0.1,
+      "away_delta": 0.0
+    },
+    {
+      "half": 2,
+      "break_start": 68.3,
+      "break_end": 70.9,
+      "display": "69'",
+      "home_pre": 0.2,
+      "home_post": 0.3,
+      "home_delta": 0.1,
+      "away_pre": 0.1,
+      "away_post": 0.1,
+      "away_delta": 0.0
+    }
+  ],
+  "insight": "During the match between Portugal and Congo DR, Portugal's attacking momentum increased slightly at both hydration breaks, with their actions per minute rising by 0.10 at each break, indicating a minor boost in their offensive pressure. In contrast, Congo DR's attacking momentum remained steady, with no change in their actions per minute at either break, suggesting they didn't gain any significant advantage from the pauses. Overall, Portugal appears to have benefited more from the hydration breaks, as they were able to maintain and even slightly increase their attacking intensity, which could have contributed to their overall performance in the match. This subtle increase in Portugal's attacking momentum may have given them an edge, allowing them to dictate the pace of the game and potentially create more scoring opportunities.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

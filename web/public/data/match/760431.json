@@ -52,6 +52,51 @@
       "minute": 45,
       "home": 1,
       "away": 2
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 55,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 3,
+      "away": 1
     }
   ],
   "breaks": [
@@ -66,9 +111,21 @@
       "away_pre": 0.5,
       "away_post": 0.2,
       "away_delta": -0.3
+    },
+    {
+      "half": 2,
+      "break_start": 71.3,
+      "break_end": 74.6,
+      "display": "72'",
+      "home_pre": 0.2,
+      "home_post": 0.1,
+      "home_delta": -0.1,
+      "away_pre": 0.0,
+      "away_post": 0.0,
+      "away_delta": 0.0
     }
   ],
-  "insight": "During the hydration break around the 23rd minute, Austria's attacking momentum remained steady, with no change in the number of actions per minute, indicating they maintained their pace. In contrast, Jordan's attacking momentum slowed down, with a decrease of 0.30 actions per minute, suggesting they lost some steam. This shift in momentum could have given Austria a slight advantage, as they were able to sustain their attacking pace while Jordan's tempo decreased. Overall, Austria likely benefited more from the hydration break, as they were able to maintain their rhythm and potentially capitalize on Jordan's decreased attacking intensity.",
+  "insight": "During the match between Austria and Jordan, the hydration breaks had varying effects on each team's attacking momentum. At the first break, Jordan's attacking actions decreased significantly, going from 5 to 2, which translates to a loss of momentum, while Austria maintained their pace with no change in actions per minute. At the second break, Austria's attacking actions slightly decreased, but Jordan had no change, having already slowed down earlier, suggesting Austria still had a slight edge in maintaining their attacking rhythm. Overall, Austria seemed to benefit more from the hydration breaks, as they were able to maintain or only slightly decrease their attacking momentum, while Jordan's significant drop at the first break may have hindered their overall performance.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

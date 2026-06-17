@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between the United States and Paraguay, the hydration breaks had distinct effects on each team's attacking momentum. The United States saw a significant increase in attacking actions after the first hydration break, with their rate of actions per minute rising by 0.30, indicating a surge in their offensive pressure. In contrast, Paraguay's attacking momentum remained stagnant after both breaks, with no change in their rate of actions per minute. Overall, the United States benefited more from the hydration breaks, particularly the first one, as it allowed them to gain an upper hand in terms of attacking intensity, which could have potentially influenced the outcome of the match.",
+  "insight": "During the first hydration break, the United States increased their attacking actions from 1 to 4, showing a significant surge in momentum with an increase of 0.30 actions per minute, while Paraguay remained stagnant with no change in their attacking actions. In contrast, the second hydration break saw both teams maintain their previous pace with no change in actions per minute, indicating a neutral impact on their attacking momentum. Overall, the United States benefited more from the hydration breaks, particularly the first one, as it allowed them to gain an initial attacking momentum boost that they were unable to replicate in the second break. This initial surge may have given the United States an advantage in terms of dictating the pace of the game, at least in the early stages.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

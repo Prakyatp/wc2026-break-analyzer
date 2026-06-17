@@ -21,7 +21,7 @@
     "team": "Austria",
     "slug": "austria",
     "verdict": "neutral",
-    "mean_delta": 0.0
+    "mean_delta": -0.05
   },
   {
     "team": "Belgium",
@@ -52,6 +52,12 @@
     "slug": "cape-verde",
     "verdict": "helped",
     "mean_delta": 0.1
+  },
+  {
+    "team": "Congo DR",
+    "slug": "congo-dr",
+    "verdict": "neutral",
+    "mean_delta": 0.0
   },
   {
     "team": "Cura\u00e7ao",
@@ -123,7 +129,7 @@
     "team": "Jordan",
     "slug": "jordan",
     "verdict": "hurt",
-    "mean_delta": -0.3
+    "mean_delta": -0.15
   },
   {
     "team": "Mexico",
@@ -160,6 +166,12 @@
     "slug": "paraguay",
     "verdict": "neutral",
     "mean_delta": 0.0
+  },
+  {
+    "team": "Portugal",
+    "slug": "portugal",
+    "verdict": "helped",
+    "mean_delta": 0.1
   },
   {
     "team": "Qatar",

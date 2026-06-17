@@ -1,0 +1,40 @@
+{
+  "team": "Congo DR",
+  "slug": "congo-dr",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.0,
+    "verdict": "neutral",
+    "pressing_n": 0,
+    "pressing_mean": 0,
+    "pressing_kept": 0,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.0,
+    "half2_mean": 0.0
+  },
+  "breaks": [
+    {
+      "opponent": "Portugal",
+      "half": 1,
+      "match_label": "Portugal v Congo DR",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Portugal",
+      "half": 2,
+      "match_label": "Portugal v Congo DR",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    }
+  ],
+  "insight": "The hydration breaks in the 2026 World Cup seem to have a neutral effect on Congo DR's momentum, as indicated by the mean change of +0.000 per minute across two breaks. This suggests that the team's performance remains relatively consistent before and after the breaks, with no significant gain or loss of momentum. When Congo DR is not pressing before a hydration break, they tend to maintain their momentum, as seen in the two instances where they did not press and still managed to keep their pace steady with an average change of +0.000 per minute. Overall, the statistics imply that Congo DR's strategy and performance are not heavily influenced by the hydration breaks, allowing them to sustain their energy levels throughout the match."
+}

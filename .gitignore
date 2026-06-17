@@ -10,6 +10,7 @@ __pycache__/
 # next.js build output — Vercel builds this itself
 web/.next/
 web/node_modules/
+web/tsconfig.tsbuildinfo
 
 # old db (deleted, but just in case)
 data/*.db

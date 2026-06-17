@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the first hydration break, Spain's attacking momentum slightly decreased, with their actions per minute dropping by 0.10, while Cape Verde saw an increase of 0.20 actions per minute, indicating they gained some momentum. However, by the second hydration break, Spain had regained their footing, increasing their actions per minute by 0.10, suggesting they were able to refocus and push forward. In contrast, Cape Verde's momentum stalled, with no change in their actions per minute, indicating they were unable to build on their earlier gain. Overall, Spain appears to have benefited more from the hydration breaks, as they were able to reverse their initial decline and maintain a stronger attacking presence throughout the match.",
+  "insight": "During the first hydration break, Spain's attacking momentum slightly decreased, as they went from 3 to 2 actions per minute, while Cape Verde saw an increase in their attacking pace, going from 0 to 2 actions per minute. However, by the second hydration break, Spain had regained their footing, increasing their actions per minute from 3 to 4, indicating a boost in their attacking momentum. In contrast, Cape Verde's attacking pace remained stagnant, with no change in actions per minute, suggesting they were unable to capitalize on their earlier gain. Overall, Spain benefited more from the hydration breaks, as they were able to reverse their initial decline and finish with a stronger attacking momentum.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

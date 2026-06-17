@@ -2,19 +2,19 @@
   "team": "Jordan",
   "slug": "jordan",
   "stats": {
-    "total_breaks": 1,
-    "gained": 0,
+    "total_breaks": 2,
+    "gained": 1,
     "lost": 1,
-    "mean_delta": -0.3,
+    "mean_delta": -0.15,
     "verdict": "hurt",
     "pressing_n": 1,
     "pressing_mean": -0.3,
     "pressing_kept": 0,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
     "half1_mean": -0.3,
-    "half2_mean": 0
+    "half2_mean": 0.0
   },
   "breaks": [
     {
@@ -25,7 +25,16 @@
       "post_rate": 0.2,
       "delta": -0.3,
       "pressing": true
+    },
+    {
+      "opponent": "Austria",
+      "half": 2,
+      "match_label": "Austria v Jordan",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "For Jordan, the hydration breaks in the 2026 World Cup have not provided a boost in momentum, with the team failing to gain momentum in their one break. On the occasion when they were pressing before the break, their momentum actually decreased at an average rate of -0.300 per minute, indicating that the stoppage may have disrupted their rhythm. This suggests that Jordan may struggle to regain their intensity after hydration breaks, particularly if they were applying pressure on their opponents beforehand. As a result, the team's coaches may need to adjust their strategy during these breaks to help the players refocus and regain their momentum."
+  "insight": "For Jordan, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they tend to lose a bit of momentum after a break, with a mean change of -0.150 minutes per break, indicating a slight decline in their performance. However, the numbers also suggest that when Jordan is pressing before a break, they tend to lose more momentum afterwards, with an average change of -0.300 minutes per break, and they were unable to regain their momentum after the break in the one instance where this happened. In contrast, when Jordan is not pressing before a break, they are able to maintain their momentum, with no change in their performance after the break, which could be a valuable strategic insight for their coaching team."
 }

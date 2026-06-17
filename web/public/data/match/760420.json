@@ -125,7 +125,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Qatar and Switzerland, the hydration breaks had a notable impact on the teams' attacking momentum. For Qatar, the first hydration break seemed to spark their attack, as they increased their actions per minute by 0.20, indicating a surge in their offensive efforts, and they also showed a slight increase after the second break, with a 0.10 increase in actions per minute. In contrast, Switzerland's attacking momentum slowed down after both breaks, with a decrease of 0.10 actions per minute each time, suggesting that the hydration breaks disrupted their rhythm. Overall, Qatar appeared to benefit more from the hydration breaks, as they were able to gain momentum and increase their attacking efforts, while Switzerland struggled to maintain their pace after the stops in play.",
+  "insight": "During the match between Qatar and Switzerland, the hydration breaks had a notable impact on the teams' attacking momentum. For Qatar, the first hydration break seemed to give them a slight boost, as their actions per minute increased by 0.20 after the break, indicating a slight increase in attacking intensity. In contrast, Switzerland's attacking momentum decreased slightly after both breaks, with a decrease of 0.10 actions per minute each time, suggesting that the breaks disrupted their rhythm. Overall, Qatar appeared to benefit more from the hydration breaks, as they were able to gain some momentum, while Switzerland struggled to maintain their attacking pace after the stops in play.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -2016,14 +2016,14 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760431,2026-06-17,Austria,Jordan,16.5,17',1,Corner Awarded,Jordan,0,0,0,1,"Corner, Jordan. Conceded by Alexander Schlager."
 760431,2026-06-17,Austria,Jordan,18.6,19',1,Shot Blocked,Austria,1,0,0,0,Attempt blocked. Marcel Sabitzer (Austria) left footed shot from outside the box is blocked. Assisted by Sasa Kalajdzic.
 760431,2026-06-17,Austria,Jordan,18.6,19',1,Offside,Austria,0,0,0,0,"Offside, Austria. Konrad Laimer is caught offside."
-760431,2026-06-17,Austria,Jordan,20.0,20',1,Goal,Jordan,1,1,0,0,"Goal! Austria 1, Jordan 0. Romano Schmid (Austria) right footed shot from outside the box to the top right corner. Assisted by Xaver Schlager."
+760431,2026-06-17,Austria,Jordan,20.0,21',1,Goal,Jordan,1,1,0,0,"Goal! Austria 1, Jordan 0. Romano Schmid (Austria) right footed shot from outside the box to the top right corner. Assisted by Xaver Schlager."
 760431,2026-06-17,Austria,Jordan,21.4,22',1,Corner Awarded,Jordan,0,0,0,1,"Corner, Jordan. Conceded by David Alaba."
 760431,2026-06-17,Austria,Jordan,21.9,22',1,Shot Hit Woodwork,Jordan,1,0,0,0,Ali Olwan (Jordan) hits the bar with a header from the left side of the six yard box. Assisted by Mohannad Abu Taha with a cross following a corner.
 760431,2026-06-17,Austria,Jordan,22.7,23',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
 760431,2026-06-17,Austria,Jordan,25.8,26',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
 760431,2026-06-17,Austria,Jordan,29.5,30',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Sasa Kalajdzic (Austria) header from the centre of the box misses to the right. Assisted by Phillipp Mwene.
 760431,2026-06-17,Austria,Jordan,32.2,33',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Stefan Posch (Austria) right footed shot from the centre of the box is high and wide to the left.
-760431,2026-06-17,Austria,Jordan,33.9,34',1,Shot On Target,Jordan,0,0,0,0,Attempt saved. Ali Olwan (Jordan) right footed shot from the right side of the box is saved in the top left corner by Alexander Schlager (Austria). As
+760431,2026-06-17,Austria,Jordan,33.9,34',1,Shot On Target,Jordan,0,0,0,0,Attempt saved. Ali Olwan (Jordan) right footed shot from the right side of the box is saved in the bottom left corner by Alexander Schlager (Austria).
 760431,2026-06-17,Austria,Jordan,33.9,34',1,Shot Blocked,Jordan,1,0,0,0,Attempt blocked. Mousa Al Tamari (Jordan) left footed shot from the centre of the box is blocked.
 760431,2026-06-17,Austria,Jordan,36.5,37',1,Foul,Jordan,0,0,1,0,Abdallah Nasib (Jordan) wins a free kick in the defensive half.
 760431,2026-06-17,Austria,Jordan,36.5,37',1,Foul,Austria,0,0,1,0,Foul by Sasa Kalajdzic (Austria).
@@ -2040,6 +2040,128 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760431,2026-06-17,Austria,Jordan,45.0,45'+1',1,Shot Off Target,Jordan,0,0,0,0,"Attempt missed. Mousa Al Tamari (Jordan) left footed shot from the right side of the box is close, but misses to the right. Assisted by Ehsan Haddad."
 760431,2026-06-17,Austria,Jordan,45.0,45'+1',1,Foul,Austria,0,0,1,0,Nicolas Seiwald (Austria) wins a free kick in the attacking half.
 760431,2026-06-17,Austria,Jordan,45.0,45'+1',1,Foul,Jordan,0,0,1,0,Foul by Nizar Al Rashdan (Jordan).
-760431,2026-06-17,Austria,Jordan,45.0,45'+4',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Sasa Kalajdzic (Austria) right footed shot from outside the box is too high. Assisted by Marcel Sabitzer.
+760431,2026-06-17,Austria,Jordan,45.0,45'+4',1,Shot Off Target,Austria,0,0,0,0,Attempt missed. Sasa Kalajdzic (Austria) right footed shot from outside the box is high and wide to the right. Assisted by Marcel Sabitzer.
 760431,2026-06-17,Austria,Jordan,45.0,45',1,Substitution,Austria,0,0,0,0,"Substitution, Austria. Marko Arnautovic replaces Sasa Kalajdzic."
 760431,2026-06-17,Austria,Jordan,49.1,50',2,Goal,Jordan,1,1,0,0,"Goal! Austria 1, Jordan 1. Ali Olwan (Jordan) right footed shot from the left side of the box to the bottom right corner. Assisted by Noor Al Rawabdeh"
+760431,2026-06-17,Austria,Jordan,54.5,55',2,Shot Blocked,Jordan,1,0,0,0,Attempt blocked. Ali Olwan (Jordan) right footed shot from the centre of the box is blocked. Assisted by Mousa Al Tamari.
+760431,2026-06-17,Austria,Jordan,55.9,56',2,Ball touch,Austria,0,0,0,0,Stefan Posch (Austria) wins a free kick on the right wing.
+760431,2026-06-17,Austria,Jordan,55.9,56',2,Foul,Jordan,0,0,1,0,Foul by Mohannad Abu Taha (Jordan).
+760431,2026-06-17,Austria,Jordan,57.8,58',2,Foul,Jordan,0,0,1,0,Foul by Mousa Al Tamari (Jordan).
+760431,2026-06-17,Austria,Jordan,57.8,58',2,Foul,Austria,0,0,1,0,Marko Arnautovic (Austria) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,58.1,59',2,Substitution,Austria,0,0,0,0,"Substitution, Austria. Paul Wanner replaces Phillipp Mwene."
+760431,2026-06-17,Austria,Jordan,58.3,59',2,Substitution,Austria,0,0,0,0,"Substitution, Austria. Kevin Danso replaces David Alaba."
+760431,2026-06-17,Austria,Jordan,58.3,59',2,Substitution,Austria,0,0,0,0,"Substitution, Austria. Carney Chukwuemeka replaces Xaver Schlager."
+760431,2026-06-17,Austria,Jordan,59.0,59',2,Foul,Jordan,0,0,1,0,Foul by Nizar Al Rashdan (Jordan).
+760431,2026-06-17,Austria,Jordan,59.0,59',2,Foul,Austria,0,0,1,0,Kevin Danso (Austria) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,59.6,60',2,Shot Off Target,Austria,0,0,0,0,Attempt missed. Stefan Posch (Austria) right footed shot from the right side of the box is too high. Assisted by Marko Arnautovic.
+760431,2026-06-17,Austria,Jordan,60.0,61',2,Foul,Jordan,0,0,1,0,Ali Olwan (Jordan) wins a free kick on the right wing.
+760431,2026-06-17,Austria,Jordan,60.0,61',2,Foul,Austria,0,0,1,0,Foul by Konrad Laimer (Austria).
+760431,2026-06-17,Austria,Jordan,62.8,63',2,Shot Blocked,Austria,1,0,0,0,Attempt blocked. Carney Chukwuemeka (Austria) right footed shot from the centre of the box is blocked. Assisted by Romano Schmid.
+760431,2026-06-17,Austria,Jordan,62.9,63',2,Start Delay,Jordan,0,0,0,0,Delay in match because of an injury Yazeed Abulaila (Jordan).
+760431,2026-06-17,Austria,Jordan,64.5,65',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760431,2026-06-17,Austria,Jordan,65.1,66',2,Offside,Jordan,0,0,0,0,"Offside, Jordan. Mousa Al Tamari is caught offside."
+760431,2026-06-17,Austria,Jordan,66.4,67',2,Corner Awarded,Austria,0,0,0,1,"Corner, Austria. Conceded by Abdallah Nasib."
+760431,2026-06-17,Austria,Jordan,66.9,67',2,Deleted After Review,Austria,0,0,0,0,GOAL OVERTURNED BY VAR: Marko Arnautovic (Austria) scores but the goal is ruled out after a VAR review.
+760431,2026-06-17,Austria,Jordan,66.9,67',2,Handball,Austria,0,0,0,0,Handball by Stefan Posch (Austria).
+760431,2026-06-17,Austria,Jordan,69.6,70',2,VAR - Referee decision cancelled,unknown,0,0,0,0,VAR Decision: No Goal Austria 1-1 Jordan.
+760431,2026-06-17,Austria,Jordan,71.2,72',2,Substitution,Jordan,0,0,0,0,"Substitution, Jordan. Saleem Obaid replaces Mohammad Abu Al Nadi."
+760431,2026-06-17,Austria,Jordan,71.3,72',2,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760431,2026-06-17,Austria,Jordan,74.6,75',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760431,2026-06-17,Austria,Jordan,75.5,76',2,Corner Awarded,Austria,0,0,0,1,"Corner, Austria. Conceded by Ehsan Haddad."
+760431,2026-06-17,Austria,Jordan,75.9,76',2,Own Goal,Jordan,0,1,0,0,"Own Goal by Yazan Al Arab, Jordan. Austria 2, Jordan 1."
+760431,2026-06-17,Austria,Jordan,76.6,77',2,Yellow Card,Austria,0,0,1,0,Marcel Sabitzer (Austria) is shown the yellow card.
+760431,2026-06-17,Austria,Jordan,77.2,78',2,Start Delay,Jordan,0,0,0,0,Delay in match because of an injury Abdallah Nasib (Jordan).
+760431,2026-06-17,Austria,Jordan,77.6,78',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760431,2026-06-17,Austria,Jordan,79.7,80',2,Offside,Austria,0,0,0,0,"Offside, Austria. Marko Arnautovic is caught offside."
+760431,2026-06-17,Austria,Jordan,80.7,81',2,Substitution,Jordan,0,0,0,0,"Substitution, Jordan. Saed Al Rosan replaces Abdallah Nasib because of an injury."
+760431,2026-06-17,Austria,Jordan,81.0,81',2,Substitution,Jordan,0,0,0,0,"Substitution, Jordan. Mahmoud Al Mardi replaces Ehsan Haddad."
+760431,2026-06-17,Austria,Jordan,82.3,83',2,Substitution,Austria,0,0,0,0,"Substitution, Austria. Patrick Wimmer replaces Romano Schmid."
+760431,2026-06-17,Austria,Jordan,84.4,85',2,Foul,Jordan,0,0,1,0,Nizar Al Rashdan (Jordan) wins a free kick in the defensive half.
+760431,2026-06-17,Austria,Jordan,84.4,85',2,Foul,Austria,0,0,1,0,Foul by Carney Chukwuemeka (Austria).
+760431,2026-06-17,Austria,Jordan,86.5,87',2,Start Delay,Austria,0,0,0,0,Delay in match because of an injury Stefan Posch (Austria).
+760431,2026-06-17,Austria,Jordan,86.5,87',2,Start Delay,Jordan,0,0,0,0,Delay in match because of an injury Odeh Fakhoury (Jordan).
+760431,2026-06-17,Austria,Jordan,87.1,88',2,Substitution,Jordan,0,0,0,0,"Substitution, Jordan. Mohammad Al Daoud replaces Mousa Al Tamari."
+760431,2026-06-17,Austria,Jordan,88.1,89',2,Substitution,Jordan,0,0,0,0,"Substitution, Jordan. Ali Azaizeh replaces Odeh Fakhoury."
+760431,2026-06-17,Austria,Jordan,88.6,89',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760431,2026-06-17,Austria,Jordan,90.0,90'+2',2,Shot On Target,Austria,0,0,0,0,Attempt saved. Marko Arnautovic (Austria) left footed shot from the centre of the box is saved in the centre of the goal by Yazeed Abulaila (Jordan).
+760431,2026-06-17,Austria,Jordan,90.0,90'+2',2,Foul,Jordan,0,0,1,0,Mohannad Abu Taha (Jordan) wins a free kick on the left wing.
+760431,2026-06-17,Austria,Jordan,90.0,90'+2',2,Foul,Austria,0,0,1,0,Foul by Stefan Posch (Austria).
+760431,2026-06-17,Austria,Jordan,90.0,90'+3',2,Shot Off Target,Jordan,0,0,0,0,"Attempt missed. Ali Azaizeh (Jordan) left footed shot from outside the box is close, but misses to the right following a set piece situation."
+760431,2026-06-17,Austria,Jordan,90.0,90'+4',2,Corner Awarded,Austria,0,0,0,1,"Corner, Austria. Conceded by Yazeed Abulaila."
+760431,2026-06-17,Austria,Jordan,90.0,90'+4',2,Shot Off Target,Austria,0,0,0,0,Attempt missed. Konrad Laimer (Austria) right footed shot from outside the box is high and wide to the right following a corner.
+760431,2026-06-17,Austria,Jordan,90.0,90'+5',2,Handball,Austria,0,0,0,0,Handball by Nicolas Seiwald (Austria).
+760431,2026-06-17,Austria,Jordan,90.0,90'+9',2,Interception,Jordan,0,0,0,0,Penalty conceded by Saleem Obaid (Jordan) with a handball in the penalty area.
+760431,2026-06-17,Austria,Jordan,90.0,90'+10',2,VAR - Referee decision cancelled,unknown,0,0,0,0,VAR Decision: Penalty Austria.
+760431,2026-06-17,Austria,Jordan,90.0,90'+12',2,Penalty - Scored,Jordan,0,0,0,0,"Goal! Austria 3, Jordan 1. Marko Arnautovic (Austria) converts the penalty with a right footed shot to the bottom left corner."
+760431,2026-06-17,Austria,Jordan,90.0,90'+14',2,End Regular Time,Austria,0,0,0,0,"Second Half ends, Austria 3, Jordan 1."
+760435,2026-06-17,Portugal,Congo DR,3.0,3',1,Foul,Portugal,0,0,1,0,Foul by João Cancelo (Portugal).
+760435,2026-06-17,Portugal,Congo DR,3.0,3',1,Foul,Congo DR,0,0,1,0,Samuel Moutoussamy (Congo DR) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,5.5,6',1,Goal - Header,Congo DR,1,1,0,0,"Goal! Portugal 1, Congo DR 0. João Neves (Portugal) header from the centre of the box to the bottom right corner. Assisted by Pedro Neto with a cross."
+760435,2026-06-17,Portugal,Congo DR,9.2,10',1,Offside,Portugal,0,0,0,0,"Offside, Portugal. Nuno Mendes is caught offside."
+760435,2026-06-17,Portugal,Congo DR,10.3,11',1,Shot Off Target,Congo DR,0,0,0,0,"Attempt missed. Yoane Wissa (Congo DR) left footed shot from outside the box is close, but misses to the left."
+760435,2026-06-17,Portugal,Congo DR,12.1,13',1,Foul,Portugal,0,0,1,0,Foul by Bernardo Silva (Portugal).
+760435,2026-06-17,Portugal,Congo DR,12.1,13',1,Foul,Congo DR,0,0,1,0,Edo Kayembe (Congo DR) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,12.2,13',1,Yellow Card,Portugal,0,0,1,0,Bernardo Silva (Portugal) is shown the yellow card for a bad foul.
+760435,2026-06-17,Portugal,Congo DR,13.1,14',1,Shot Blocked,Congo DR,1,0,0,0,Attempt blocked. Cédric Bakambu (Congo DR) right footed shot from outside the box is blocked. Assisted by Edo Kayembe.
+760435,2026-06-17,Portugal,Congo DR,13.2,14',1,Corner Awarded,Congo DR,0,0,0,1,"Corner, Congo DR. Conceded by Tomás Araújo."
+760435,2026-06-17,Portugal,Congo DR,14.3,15',1,Offside,Congo DR,0,0,0,0,"Offside, Congo DR. Cédric Bakambu is caught offside."
+760435,2026-06-17,Portugal,Congo DR,23.1,24',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760435,2026-06-17,Portugal,Congo DR,26.1,27',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760435,2026-06-17,Portugal,Congo DR,27.6,28',1,Corner Awarded,Portugal,0,0,0,1,"Corner, Portugal. Conceded by Chancel Mbemba."
+760435,2026-06-17,Portugal,Congo DR,30.9,31',1,Foul,Portugal,0,0,1,0,Renato Veiga (Portugal) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,30.9,31',1,Foul,Congo DR,0,0,1,0,Foul by Yoane Wissa (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,31.4,32',1,Foul,Portugal,0,0,1,0,Pedro Neto (Portugal) wins a free kick on the left wing.
+760435,2026-06-17,Portugal,Congo DR,31.4,32',1,Foul,Congo DR,0,0,1,0,Foul by Chancel Mbemba (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,31.6,32',1,Yellow Card,Congo DR,0,0,1,0,Chancel Mbemba (Congo DR) is shown the yellow card for a bad foul.
+760435,2026-06-17,Portugal,Congo DR,32.9,33',1,Shot On Target,Congo DR,0,0,0,0,Attempt saved. Edo Kayembe (Congo DR) left footed shot from outside the box is saved in the top right corner by Diogo Costa (Portugal). Assisted by St
+760435,2026-06-17,Portugal,Congo DR,36.6,37',1,Foul,Portugal,0,0,1,0,João Neves (Portugal) wins a free kick on the right wing.
+760435,2026-06-17,Portugal,Congo DR,36.6,37',1,Foul,Congo DR,0,0,1,0,Foul by Edo Kayembe (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,38.1,39',1,Shot Blocked,Portugal,1,0,0,0,Attempt blocked. Bruno Fernandes (Portugal) right footed shot from outside the box is blocked. Assisted by João Neves.
+760435,2026-06-17,Portugal,Congo DR,40.6,41',1,Foul,Portugal,0,0,1,0,Foul by João Cancelo (Portugal).
+760435,2026-06-17,Portugal,Congo DR,40.6,41',1,Foul,Congo DR,0,0,1,0,Arthur Masuaku (Congo DR) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,42.3,43',1,Handball,Congo DR,0,0,0,0,Handball by Yoane Wissa (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+1',1,Shot Blocked,Congo DR,1,0,0,0,Attempt blocked. Samuel Moutoussamy (Congo DR) left footed shot from outside the box is blocked. Assisted by Chancel Mbemba.
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+1',1,Foul,Portugal,0,0,1,0,João Cancelo (Portugal) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+1',1,Foul,Congo DR,0,0,1,0,Foul by Yoane Wissa (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+3',1,Shot Blocked,Congo DR,1,0,0,0,Attempt blocked. Samuel Moutoussamy (Congo DR) left footed shot from outside the box is blocked. Assisted by Arthur Masuaku.
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+3',1,Corner Awarded,Congo DR,0,0,0,1,"Corner, Congo DR. Conceded by Vitinha."
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+4',1,Corner Awarded,Congo DR,0,0,0,1,"Corner, Congo DR. Conceded by Bruno Fernandes."
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+5',1,Goal - Header,Congo DR,1,1,0,0,"Goal! Portugal 1, Congo DR 1. Yoane Wissa (Congo DR) header from very close range to the top left corner. Assisted by Arthur Masuaku with a cross foll"
+760435,2026-06-17,Portugal,Congo DR,45.0,45'+6',1,Halftime,Portugal,0,0,0,0,"First Half ends, Portugal 1, Congo DR 1."
+760435,2026-06-17,Portugal,Congo DR,45.0,45',1,Substitution,Portugal,0,0,0,0,"Substitution, Portugal. Francisco Conceição replaces Bernardo Silva."
+760435,2026-06-17,Portugal,Congo DR,45.0,45',1,Start 2nd Half,Congo DR,0,0,0,0,"Second Half begins Portugal 1, Congo DR 1."
+760435,2026-06-17,Portugal,Congo DR,45.6,46',1,Foul,Portugal,0,0,1,0,Bruno Fernandes (Portugal) wins a free kick in the attacking half.
+760435,2026-06-17,Portugal,Congo DR,45.6,46',1,Foul,Congo DR,0,0,1,0,Foul by Samuel Moutoussamy (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,48.9,49',2,Foul,Congo DR,0,0,1,0,Yoane Wissa (Congo DR) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,48.9,49',2,Foul,Portugal,0,0,1,0,Foul by Vitinha (Portugal).
+760435,2026-06-17,Portugal,Congo DR,49.6,50',2,Offside,Congo DR,0,0,0,0,"Offside, Congo DR. Cédric Bakambu is caught offside."
+760435,2026-06-17,Portugal,Congo DR,51.1,52',2,Corner Awarded,Portugal,0,0,0,1,"Corner, Portugal. Conceded by Steve Kapuadi."
+760435,2026-06-17,Portugal,Congo DR,54.3,55',2,Offside,Portugal,0,0,0,0,"Offside, Portugal. João Cancelo is caught offside."
+760435,2026-06-17,Portugal,Congo DR,54.9,55',2,Corner Awarded,Congo DR,0,0,0,1,"Corner, Congo DR. Conceded by Renato Veiga."
+760435,2026-06-17,Portugal,Congo DR,56.1,57',2,Foul,Portugal,0,0,1,0,Bruno Fernandes (Portugal) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,56.1,57',2,Foul,Congo DR,0,0,1,0,Foul by Cédric Bakambu (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,56.7,57',2,Substitution,Congo DR,0,0,0,0,"Substitution, Congo DR. Noah Sadiki replaces Ngal'ayel Mukau."
+760435,2026-06-17,Portugal,Congo DR,57.4,58',2,Foul,Congo DR,0,0,1,0,Foul by Aaron Wan-Bissaka (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,57.4,58',2,Foul,Portugal,0,0,1,0,Nuno Mendes (Portugal) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,59.3,60',2,Corner Awarded,Portugal,0,0,0,1,"Corner, Portugal. Conceded by Steve Kapuadi."
+760435,2026-06-17,Portugal,Congo DR,62.1,63',2,Shot Off Target,Congo DR,0,0,0,0,"Attempt missed. Steve Kapuadi (Congo DR) header from the centre of the box is close, but misses to the right. Assisted by Cédric Bakambu with a headed"
+760435,2026-06-17,Portugal,Congo DR,63.1,64',2,Foul,Congo DR,0,0,1,0,Edo Kayembe (Congo DR) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,63.1,64',2,Foul,Portugal,0,0,1,0,Foul by Bruno Fernandes (Portugal).
+760435,2026-06-17,Portugal,Congo DR,65.2,66',2,Foul,Portugal,0,0,1,0,Nuno Mendes (Portugal) wins a free kick on the left wing.
+760435,2026-06-17,Portugal,Congo DR,65.2,66',2,Foul,Congo DR,0,0,1,0,Foul by Samuel Moutoussamy (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,66.5,67',2,Foul,Portugal,0,0,1,0,Nuno Mendes (Portugal) wins a free kick on the left wing.
+760435,2026-06-17,Portugal,Congo DR,66.5,67',2,Foul,Congo DR,0,0,1,0,Foul by Edo Kayembe (Congo DR).
+760435,2026-06-17,Portugal,Congo DR,67.9,68',2,Shot Off Target,Portugal,0,0,0,0,"Attempt missed. Cristiano Ronaldo (Portugal) right footed shot from the centre of the box is close, but misses to the right. Assisted by Francisco Con"
+760435,2026-06-17,Portugal,Congo DR,68.3,69',2,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760435,2026-06-17,Portugal,Congo DR,70.9,71',2,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760435,2026-06-17,Portugal,Congo DR,71.0,71',2,Substitution,Portugal,0,0,0,0,"Substitution, Portugal. Rafael Leão replaces Pedro Neto."
+760435,2026-06-17,Portugal,Congo DR,71.2,72',2,Substitution,Portugal,0,0,0,0,"Substitution, Portugal. Nélson Semedo replaces Nuno Mendes."
+760435,2026-06-17,Portugal,Congo DR,73.0,74',2,Shot Off Target,Portugal,0,0,0,0,"Attempt missed. Cristiano Ronaldo (Portugal) right footed shot from the centre of the box is close, but misses to the right. Assisted by Francisco Con"
+760435,2026-06-17,Portugal,Congo DR,74.0,74',2,Substitution,Congo DR,0,0,0,0,"Substitution, Congo DR. Charles Pickel replaces Edo Kayembe."
+760435,2026-06-17,Portugal,Congo DR,74.0,74',2,Substitution,Congo DR,0,0,0,0,"Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku."
+760435,2026-06-17,Portugal,Congo DR,76.1,77',2,Corner Awarded,Portugal,0,0,0,1,"Corner, Portugal. Conceded by Samuel Moutoussamy."
+760435,2026-06-17,Portugal,Congo DR,76.8,77',2,Shot Off Target,Congo DR,0,0,0,0,Attempt missed. Cédric Bakambu (Congo DR) right footed shot from outside the box is too high. Assisted by Noah Sadiki following a fast break.
+760435,2026-06-17,Portugal,Congo DR,77.8,78',2,Shot Blocked,Portugal,1,0,0,0,Attempt blocked. Francisco Conceição (Portugal) left footed shot from the right side of the box is blocked. Assisted by Rafael Leão with a cross.
+760435,2026-06-17,Portugal,Congo DR,78.0,78',2,Foul,Congo DR,0,0,1,0,Cédric Bakambu (Congo DR) wins a free kick in the defensive half.
+760435,2026-06-17,Portugal,Congo DR,78.0,78',2,Foul,Portugal,0,0,1,0,Foul by Renato Veiga (Portugal).
+760435,2026-06-17,Portugal,Congo DR,79.3,80',2,Offside,Portugal,0,0,0,0,"Offside, Portugal. Francisco Conceição is caught offside."

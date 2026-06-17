@@ -1,0 +1,40 @@
+{
+  "team": "Portugal",
+  "slug": "portugal",
+  "stats": {
+    "total_breaks": 2,
+    "gained": 2,
+    "lost": 0,
+    "mean_delta": 0.1,
+    "verdict": "helped",
+    "pressing_n": 1,
+    "pressing_mean": 0.1,
+    "pressing_kept": 1,
+    "nonpressing_n": 1,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.1,
+    "half2_mean": 0.1
+  },
+  "breaks": [
+    {
+      "opponent": "Congo DR",
+      "half": 1,
+      "match_label": "Portugal v Congo DR",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 2,
+      "match_label": "Portugal v Congo DR",
+      "pre_rate": 0.2,
+      "post_rate": 0.3,
+      "delta": 0.1,
+      "pressing": true
+    }
+  ],
+  "insight": "For Portugal, the hydration breaks in the 2026 World Cup have been a significant factor in their gameplay, as they managed to gain momentum in both of their breaks, with a mean change of +0.100 minutes per break. This momentum gain has been consistent regardless of whether they were pressing before the break or not, with an average change of +0.100 minutes per minute in both scenarios. In the one instance where they were pressing before the break, they successfully maintained their momentum after the break, which suggests that the hydration breaks have been beneficial for Portugal in terms of sustaining their energy and intensity levels. Overall, the statistics indicate that Portugal has been able to capitalize on the hydration breaks to their advantage, using them as an opportunity to recharge and come back stronger."
+}

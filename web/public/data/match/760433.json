@@ -120,7 +120,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Argentina and Algeria, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Argentina's attack remained steady with no change in actions per minute, while Algeria's attack slightly decreased, indicating a minor loss of momentum for the Algerian team. However, at the second break, Argentina's attack significantly slowed down, with a decrease of 0.40 actions per minute, whereas Algeria's attack only decreased slightly, suggesting that Algeria maintained their momentum better than Argentina in the latter part of the match. Overall, Algeria seemed to benefit more from the hydration breaks in terms of maintaining their attacking rhythm, as they experienced less disruption to their momentum compared to Argentina.",
+  "insight": "During the match between Argentina and Algeria, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Argentina's attack remained steady with no change in actions per minute, while Algeria's attack slightly decreased, indicating that Argentina maintained their momentum. However, at the second break, Argentina's attack significantly slowed down, with a decrease of 0.40 actions per minute, whereas Algeria's attack only slightly decreased, suggesting that Algeria was better able to adapt and maintain their rhythm after the break. Overall, Algeria seemed to benefit more from the hydration breaks, as they were able to limit the decline in their attacking momentum, while Argentina's attack was more severely impacted, particularly after the second break.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }
