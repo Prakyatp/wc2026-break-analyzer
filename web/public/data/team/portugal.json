@@ -2,18 +2,18 @@
   "team": "Portugal",
   "slug": "portugal",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.1,
-    "verdict": "helped",
-    "pressing_n": 1,
-    "pressing_mean": 0.1,
+    "total_breaks": 10,
+    "gained": 6,
+    "lost": 4,
+    "mean_delta": 0.02,
+    "verdict": "neutral",
+    "pressing_n": 2,
+    "pressing_mean": -0.05,
     "pressing_kept": 1,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.1,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.1,
+    "nonpressing_n": 8,
+    "nonpressing_mean": 0.0375,
+    "nonpressing_gained": 5,
+    "half1_mean": -0.06,
     "half2_mean": 0.1
   },
   "breaks": [
@@ -34,7 +34,79 @@
       "post_rate": 0.3,
       "delta": 0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Uzbekistan",
+      "half": 1,
+      "match_label": "Portugal v Uzbekistan",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Uzbekistan",
+      "half": 2,
+      "match_label": "Portugal v Uzbekistan",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Colombia",
+      "half": 1,
+      "match_label": "Colombia v Portugal",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Colombia",
+      "half": 2,
+      "match_label": "Colombia v Portugal",
+      "pre_rate": 0.0,
+      "post_rate": 0.3,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Croatia",
+      "half": 1,
+      "match_label": "Portugal v Croatia",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Croatia",
+      "half": 2,
+      "match_label": "Portugal v Croatia",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Spain",
+      "half": 1,
+      "match_label": "Portugal v Spain",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Spain",
+      "half": 2,
+      "match_label": "Portugal v Spain",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "For Portugal, the hydration breaks in the 2026 World Cup have been a significant factor in their gameplay, as they managed to gain momentum in both of their breaks, with a mean change of +0.100 minutes per break. This momentum gain has been consistent regardless of whether they were pressing before the break or not, with an average change of +0.100 minutes per minute in both scenarios. In the one instance where they were pressing before the break, they successfully maintained their momentum after the break, which suggests that the hydration breaks have been beneficial for Portugal in terms of sustaining their energy and intensity levels. Overall, the statistics indicate that Portugal has been able to capitalize on the hydration breaks to their advantage, using them as an opportunity to recharge and come back stronger."
+  "insight": ""
 }

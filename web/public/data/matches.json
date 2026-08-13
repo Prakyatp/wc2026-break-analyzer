@@ -124,5 +124,503 @@
     "home": "Portugal",
     "away": "Congo DR",
     "label": "Portugal vs Congo DR"
+  },
+  {
+    "event_id": 760437,
+    "home": "England",
+    "away": "Croatia",
+    "label": "England vs Croatia"
+  },
+  {
+    "event_id": 760434,
+    "home": "Ghana",
+    "away": "Panama",
+    "label": "Ghana vs Panama"
+  },
+  {
+    "event_id": 760436,
+    "home": "Uzbekistan",
+    "away": "Colombia",
+    "label": "Uzbekistan vs Colombia"
+  },
+  {
+    "event_id": 760438,
+    "home": "Czechia",
+    "away": "South Africa",
+    "label": "Czechia vs South Africa"
+  },
+  {
+    "event_id": 760439,
+    "home": "Switzerland",
+    "away": "Bosnia-Herzegovina",
+    "label": "Switzerland vs Bosnia-Herzegovina"
+  },
+  {
+    "event_id": 760440,
+    "home": "Canada",
+    "away": "Qatar",
+    "label": "Canada vs Qatar"
+  },
+  {
+    "event_id": 760441,
+    "home": "Mexico",
+    "away": "South Korea",
+    "label": "Mexico vs South Korea"
+  },
+  {
+    "event_id": 760442,
+    "home": "United States",
+    "away": "Australia",
+    "label": "United States vs Australia"
+  },
+  {
+    "event_id": 760445,
+    "home": "Scotland",
+    "away": "Morocco",
+    "label": "Scotland vs Morocco"
+  },
+  {
+    "event_id": 760444,
+    "home": "Brazil",
+    "away": "Haiti",
+    "label": "Brazil vs Haiti"
+  },
+  {
+    "event_id": 760443,
+    "home": "T\u00fcrkiye",
+    "away": "Paraguay",
+    "label": "T\u00fcrkiye vs Paraguay"
+  },
+  {
+    "event_id": 760447,
+    "home": "Netherlands",
+    "away": "Sweden",
+    "label": "Netherlands vs Sweden"
+  },
+  {
+    "event_id": 760448,
+    "home": "Germany",
+    "away": "Ivory Coast",
+    "label": "Germany vs Ivory Coast"
+  },
+  {
+    "event_id": 760446,
+    "home": "Ecuador",
+    "away": "Cura\u00e7ao",
+    "label": "Ecuador vs Cura\u00e7ao"
+  },
+  {
+    "event_id": 760449,
+    "home": "Tunisia",
+    "away": "Japan",
+    "label": "Tunisia vs Japan"
+  },
+  {
+    "event_id": 760453,
+    "home": "Spain",
+    "away": "Saudi Arabia",
+    "label": "Spain vs Saudi Arabia"
+  },
+  {
+    "event_id": 760451,
+    "home": "Belgium",
+    "away": "Iran",
+    "label": "Belgium vs Iran"
+  },
+  {
+    "event_id": 760450,
+    "home": "Uruguay",
+    "away": "Cape Verde",
+    "label": "Uruguay vs Cape Verde"
+  },
+  {
+    "event_id": 760452,
+    "home": "New Zealand",
+    "away": "Egypt",
+    "label": "New Zealand vs Egypt"
+  },
+  {
+    "event_id": 760456,
+    "home": "Argentina",
+    "away": "Austria",
+    "label": "Argentina vs Austria"
+  },
+  {
+    "event_id": 760457,
+    "home": "France",
+    "away": "Iraq",
+    "label": "France vs Iraq"
+  },
+  {
+    "event_id": 760454,
+    "home": "Norway",
+    "away": "Senegal",
+    "label": "Norway vs Senegal"
+  },
+  {
+    "event_id": 760455,
+    "home": "Jordan",
+    "away": "Algeria",
+    "label": "Jordan vs Algeria"
+  },
+  {
+    "event_id": 760461,
+    "home": "Portugal",
+    "away": "Uzbekistan",
+    "label": "Portugal vs Uzbekistan"
+  },
+  {
+    "event_id": 760458,
+    "home": "England",
+    "away": "Ghana",
+    "label": "England vs Ghana"
+  },
+  {
+    "event_id": 760460,
+    "home": "Panama",
+    "away": "Croatia",
+    "label": "Panama vs Croatia"
+  },
+  {
+    "event_id": 760459,
+    "home": "Colombia",
+    "away": "Congo DR",
+    "label": "Colombia vs Congo DR"
+  },
+  {
+    "event_id": 760462,
+    "home": "Bosnia-Herzegovina",
+    "away": "Qatar",
+    "label": "Bosnia-Herzegovina vs Qatar"
+  },
+  {
+    "event_id": 760463,
+    "home": "Switzerland",
+    "away": "Canada",
+    "label": "Switzerland vs Canada"
+  },
+  {
+    "event_id": 760464,
+    "home": "Morocco",
+    "away": "Haiti",
+    "label": "Morocco vs Haiti"
+  },
+  {
+    "event_id": 760465,
+    "home": "Scotland",
+    "away": "Brazil",
+    "label": "Scotland vs Brazil"
+  },
+  {
+    "event_id": 760467,
+    "home": "Czechia",
+    "away": "Mexico",
+    "label": "Czechia vs Mexico"
+  },
+  {
+    "event_id": 760466,
+    "home": "South Africa",
+    "away": "South Korea",
+    "label": "South Africa vs South Korea"
+  },
+  {
+    "event_id": 760473,
+    "home": "Cura\u00e7ao",
+    "away": "Ivory Coast",
+    "label": "Cura\u00e7ao vs Ivory Coast"
+  },
+  {
+    "event_id": 760468,
+    "home": "Ecuador",
+    "away": "Germany",
+    "label": "Ecuador vs Germany"
+  },
+  {
+    "event_id": 760471,
+    "home": "Japan",
+    "away": "Sweden",
+    "label": "Japan vs Sweden"
+  },
+  {
+    "event_id": 760472,
+    "home": "Tunisia",
+    "away": "Netherlands",
+    "label": "Tunisia vs Netherlands"
+  },
+  {
+    "event_id": 760469,
+    "home": "Paraguay",
+    "away": "Australia",
+    "label": "Paraguay vs Australia"
+  },
+  {
+    "event_id": 760470,
+    "home": "T\u00fcrkiye",
+    "away": "United States",
+    "label": "T\u00fcrkiye vs United States"
+  },
+  {
+    "event_id": 760475,
+    "home": "Norway",
+    "away": "France",
+    "label": "Norway vs France"
+  },
+  {
+    "event_id": 760474,
+    "home": "Senegal",
+    "away": "Iraq",
+    "label": "Senegal vs Iraq"
+  },
+  {
+    "event_id": 760478,
+    "home": "Cape Verde",
+    "away": "Saudi Arabia",
+    "label": "Cape Verde vs Saudi Arabia"
+  },
+  {
+    "event_id": 760479,
+    "home": "Uruguay",
+    "away": "Spain",
+    "label": "Uruguay vs Spain"
+  },
+  {
+    "event_id": 760476,
+    "home": "Egypt",
+    "away": "Iran",
+    "label": "Egypt vs Iran"
+  },
+  {
+    "event_id": 760477,
+    "home": "New Zealand",
+    "away": "Belgium",
+    "label": "New Zealand vs Belgium"
+  },
+  {
+    "event_id": 760480,
+    "home": "Croatia",
+    "away": "Ghana",
+    "label": "Croatia vs Ghana"
+  },
+  {
+    "event_id": 760485,
+    "home": "Panama",
+    "away": "England",
+    "label": "Panama vs England"
+  },
+  {
+    "event_id": 760481,
+    "home": "Colombia",
+    "away": "Portugal",
+    "label": "Colombia vs Portugal"
+  },
+  {
+    "event_id": 760482,
+    "home": "Congo DR",
+    "away": "Uzbekistan",
+    "label": "Congo DR vs Uzbekistan"
+  },
+  {
+    "event_id": 760484,
+    "home": "Algeria",
+    "away": "Austria",
+    "label": "Algeria vs Austria"
+  },
+  {
+    "event_id": 760483,
+    "home": "Jordan",
+    "away": "Argentina",
+    "label": "Jordan vs Argentina"
+  },
+  {
+    "event_id": 760486,
+    "home": "South Africa",
+    "away": "Canada",
+    "label": "South Africa vs Canada"
+  },
+  {
+    "event_id": 760487,
+    "home": "Brazil",
+    "away": "Japan",
+    "label": "Brazil vs Japan"
+  },
+  {
+    "event_id": 760489,
+    "home": "Germany",
+    "away": "Paraguay",
+    "label": "Germany vs Paraguay"
+  },
+  {
+    "event_id": 760488,
+    "home": "Netherlands",
+    "away": "Morocco",
+    "label": "Netherlands vs Morocco"
+  },
+  {
+    "event_id": 760490,
+    "home": "Ivory Coast",
+    "away": "Norway",
+    "label": "Ivory Coast vs Norway"
+  },
+  {
+    "event_id": 760492,
+    "home": "France",
+    "away": "Sweden",
+    "label": "France vs Sweden"
+  },
+  {
+    "event_id": 760491,
+    "home": "Mexico",
+    "away": "Ecuador",
+    "label": "Mexico vs Ecuador"
+  },
+  {
+    "event_id": 760495,
+    "home": "England",
+    "away": "Congo DR",
+    "label": "England vs Congo DR"
+  },
+  {
+    "event_id": 760493,
+    "home": "Belgium",
+    "away": "Senegal",
+    "label": "Belgium vs Senegal"
+  },
+  {
+    "event_id": 760494,
+    "home": "United States",
+    "away": "Bosnia-Herzegovina",
+    "label": "United States vs Bosnia-Herzegovina"
+  },
+  {
+    "event_id": 760497,
+    "home": "Spain",
+    "away": "Austria",
+    "label": "Spain vs Austria"
+  },
+  {
+    "event_id": 760496,
+    "home": "Portugal",
+    "away": "Croatia",
+    "label": "Portugal vs Croatia"
+  },
+  {
+    "event_id": 760498,
+    "home": "Switzerland",
+    "away": "Algeria",
+    "label": "Switzerland vs Algeria"
+  },
+  {
+    "event_id": 760499,
+    "home": "Australia",
+    "away": "Egypt",
+    "label": "Australia vs Egypt"
+  },
+  {
+    "event_id": 760500,
+    "home": "Argentina",
+    "away": "Cape Verde",
+    "label": "Argentina vs Cape Verde"
+  },
+  {
+    "event_id": 760501,
+    "home": "Colombia",
+    "away": "Ghana",
+    "label": "Colombia vs Ghana"
+  },
+  {
+    "event_id": 760502,
+    "home": "Canada",
+    "away": "Morocco",
+    "label": "Canada vs Morocco"
+  },
+  {
+    "event_id": 760503,
+    "home": "Paraguay",
+    "away": "France",
+    "label": "Paraguay vs France"
+  },
+  {
+    "event_id": 760504,
+    "home": "Brazil",
+    "away": "Norway",
+    "label": "Brazil vs Norway"
+  },
+  {
+    "event_id": 760505,
+    "home": "Mexico",
+    "away": "England",
+    "label": "Mexico vs England"
+  },
+  {
+    "event_id": 760506,
+    "home": "Portugal",
+    "away": "Spain",
+    "label": "Portugal vs Spain"
+  },
+  {
+    "event_id": 760507,
+    "home": "United States",
+    "away": "Belgium",
+    "label": "United States vs Belgium"
+  },
+  {
+    "event_id": 760509,
+    "home": "Argentina",
+    "away": "Egypt",
+    "label": "Argentina vs Egypt"
+  },
+  {
+    "event_id": 760508,
+    "home": "Switzerland",
+    "away": "Colombia",
+    "label": "Switzerland vs Colombia"
+  },
+  {
+    "event_id": 760510,
+    "home": "France",
+    "away": "Morocco",
+    "label": "France vs Morocco"
+  },
+  {
+    "event_id": 760511,
+    "home": "Spain",
+    "away": "Belgium",
+    "label": "Spain vs Belgium"
+  },
+  {
+    "event_id": 760512,
+    "home": "Norway",
+    "away": "England",
+    "label": "Norway vs England"
+  },
+  {
+    "event_id": 760513,
+    "home": "Argentina",
+    "away": "Switzerland",
+    "label": "Argentina vs Switzerland"
+  },
+  {
+    "event_id": 760514,
+    "home": "France",
+    "away": "Spain",
+    "label": "France vs Spain"
+  },
+  {
+    "event_id": 760515,
+    "home": "England",
+    "away": "Argentina",
+    "label": "England vs Argentina"
+  },
+  {
+    "event_id": 760516,
+    "home": "France",
+    "away": "England",
+    "label": "France vs England"
+  },
+  {
+    "event_id": 760517,
+    "home": "Spain",
+    "away": "Argentina",
+    "label": "Spain vs Argentina"
   }
 ]

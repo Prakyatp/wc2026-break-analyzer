@@ -2,19 +2,19 @@
   "team": "Morocco",
   "slug": "morocco",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.25,
-    "verdict": "helped",
-    "pressing_n": 0,
-    "pressing_mean": 0,
-    "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.25,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.5,
-    "half2_mean": 0.0
+    "total_breaks": 12,
+    "gained": 6,
+    "lost": 6,
+    "mean_delta": -0.0083,
+    "verdict": "neutral",
+    "pressing_n": 6,
+    "pressing_mean": -0.0833,
+    "pressing_kept": 2,
+    "nonpressing_n": 6,
+    "nonpressing_mean": 0.0667,
+    "nonpressing_gained": 4,
+    "half1_mean": 0.0,
+    "half2_mean": -0.0167
   },
   "breaks": [
     {
@@ -34,7 +34,97 @@
       "post_rate": 0.0,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Scotland",
+      "half": 1,
+      "match_label": "Scotland v Morocco",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Scotland",
+      "half": 2,
+      "match_label": "Scotland v Morocco",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Haiti",
+      "half": 1,
+      "match_label": "Morocco v Haiti",
+      "pre_rate": 0.3,
+      "post_rate": 0.4,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Haiti",
+      "half": 2,
+      "match_label": "Morocco v Haiti",
+      "pre_rate": 0.3,
+      "post_rate": 0.6,
+      "delta": 0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Netherlands",
+      "half": 1,
+      "match_label": "Netherlands v Morocco",
+      "pre_rate": 0.5,
+      "post_rate": 0.0,
+      "delta": -0.5,
+      "pressing": true
+    },
+    {
+      "opponent": "Netherlands",
+      "half": 2,
+      "match_label": "Netherlands v Morocco",
+      "pre_rate": 0.5,
+      "post_rate": 0.3,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Canada",
+      "half": 1,
+      "match_label": "Canada v Morocco",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Canada",
+      "half": 2,
+      "match_label": "Canada v Morocco",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "France v Morocco",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 2,
+      "match_label": "France v Morocco",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
     }
   ],
-  "insight": "Morocco's performance during hydration breaks in the 2026 World Cup has been notable, as they managed to gain momentum in both of their breaks, with a mean change of +0.250 minutes per break. This suggests that the team is able to use these breaks to their advantage, regroup, and come back stronger, which can be a significant factor in the outcome of a match. When Morocco was not pressing before a hydration break, they were still able to maintain a positive change, which indicates that the team is able to capitalize on the brief pause in play to refocus and push forward. Overall, the statistics imply that Morocco's strategy during hydration breaks is effective, allowing them to build momentum and potentially shift the balance of the game in their favor."
+  "insight": ""
 }

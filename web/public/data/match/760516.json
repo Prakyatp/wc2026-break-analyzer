@@ -1,0 +1,136 @@
+{
+  "event_id": 760516,
+  "home": "France",
+  "away": "England",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 10,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 20,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 5
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 60,
+      "home": 3,
+      "away": 1
+    },
+    {
+      "minute": 65,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 80,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 95,
+      "home": 0,
+      "away": 2
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.1,
+      "break_end": 24.8,
+      "display": "23'",
+      "home_pre": 0.2,
+      "home_post": 0.2,
+      "home_delta": 0.0,
+      "away_pre": 0.3,
+      "away_post": 0.1,
+      "away_delta": -0.2
+    },
+    {
+      "half": 2,
+      "break_start": 67.2,
+      "break_end": 71.2,
+      "display": "68'",
+      "home_pre": 0.4,
+      "home_post": 0.3,
+      "home_delta": -0.1,
+      "away_pre": 0.4,
+      "away_post": 0.2,
+      "away_delta": -0.2
+    }
+  ],
+  "insight": "During the match between France and England, the hydration breaks had varying effects on each team's attacking momentum. France's attacking actions remained steady at the first break, with no change in their rate of attack, but slightly decreased at the second break, indicating a minor loss of momentum. In contrast, England's attacking actions decreased at both breaks, with a more significant drop at the first break, suggesting they struggled to regain their rhythm after the hydration pauses. Overall, France seemed to benefit more from the hydration breaks, as they maintained a more consistent attacking pace throughout the match, while England's momentum was more disrupted, potentially giving France a slight edge in the game.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

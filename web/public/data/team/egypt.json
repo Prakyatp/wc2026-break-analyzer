@@ -2,19 +2,19 @@
   "team": "Egypt",
   "slug": "egypt",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
-    "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": -0.2,
+    "total_breaks": 10,
+    "gained": 4,
+    "lost": 6,
+    "mean_delta": -0.11,
+    "verdict": "hurt",
+    "pressing_n": 6,
+    "pressing_mean": -0.2833,
     "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.1,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.1,
-    "half2_mean": -0.2
+    "nonpressing_n": 4,
+    "nonpressing_mean": 0.15,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.2,
+    "half2_mean": -0.02
   },
   "breaks": [
     {
@@ -34,7 +34,79 @@
       "post_rate": 0.1,
       "delta": -0.2,
       "pressing": true
+    },
+    {
+      "opponent": "New Zealand",
+      "half": 1,
+      "match_label": "New Zealand v Egypt",
+      "pre_rate": 0.4,
+      "post_rate": 0.1,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "New Zealand",
+      "half": 2,
+      "match_label": "New Zealand v Egypt",
+      "pre_rate": 0.1,
+      "post_rate": 0.4,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Iran",
+      "half": 1,
+      "match_label": "Egypt v Iran",
+      "pre_rate": 0.5,
+      "post_rate": 0.1,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Iran",
+      "half": 2,
+      "match_label": "Egypt v Iran",
+      "pre_rate": 0.5,
+      "post_rate": 0.1,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Australia",
+      "half": 1,
+      "match_label": "Australia v Egypt",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Australia",
+      "half": 2,
+      "match_label": "Australia v Egypt",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 1,
+      "match_label": "Argentina v Egypt",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Argentina",
+      "half": 2,
+      "match_label": "Argentina v Egypt",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "For Egypt, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they tend to lose a bit of momentum after a break, with a mean change of -0.050 minutes, indicating a slight decline in their performance. However, when they're not pressing before a break, they've managed to gain some momentum afterwards, with an average change of +0.100 minutes, suggesting that taking a step back and regrouping can actually help them come back stronger. In contrast, when they are pressing before a break, they've struggled to maintain their momentum, losing an average of 0.200 minutes, which could indicate that their high-intensity approach leaves them more vulnerable to a drop-off after a pause in play."
+  "insight": "For Egypt, hydration breaks in the 2026 World Cup have had a notable impact on their gameplay momentum. When they were pressing before a break, which happened six times, they tended to lose momentum at an average rate of -0.283 per minute, and unfortunately, they were unable to regain it after the break in any of those instances. In contrast, when Egypt was not pressing before a break, which occurred four times, they actually gained momentum at an average rate of +0.150 per minute, suggesting that the breaks allowed them to regroup and refocus their efforts. Overall, these statistics suggest that Egypt's strategy and performance are significantly influenced by the timing and context of hydration breaks, with breaks potentially serving as a turning point in their favor when they are not pressing."
 }

@@ -1,0 +1,166 @@
+{
+  "team": "England",
+  "slug": "england",
+  "stats": {
+    "total_breaks": 16,
+    "gained": 9,
+    "lost": 7,
+    "mean_delta": -0.0688,
+    "verdict": "hurt",
+    "pressing_n": 8,
+    "pressing_mean": -0.225,
+    "pressing_kept": 1,
+    "nonpressing_n": 8,
+    "nonpressing_mean": 0.0875,
+    "nonpressing_gained": 8,
+    "half1_mean": -0.0,
+    "half2_mean": -0.1375
+  },
+  "breaks": [
+    {
+      "opponent": "Croatia",
+      "half": 1,
+      "match_label": "England v Croatia",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Croatia",
+      "half": 2,
+      "match_label": "England v Croatia",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Ghana",
+      "half": 1,
+      "match_label": "England v Ghana",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Ghana",
+      "half": 2,
+      "match_label": "England v Ghana",
+      "pre_rate": 0.7,
+      "post_rate": 0.1,
+      "delta": -0.6,
+      "pressing": true
+    },
+    {
+      "opponent": "Panama",
+      "half": 1,
+      "match_label": "Panama v England",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Panama",
+      "half": 2,
+      "match_label": "Panama v England",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 1,
+      "match_label": "England v Congo DR",
+      "pre_rate": 0.1,
+      "post_rate": 0.4,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 2,
+      "match_label": "England v Congo DR",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Mexico",
+      "half": 1,
+      "match_label": "Mexico v England",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Mexico",
+      "half": 2,
+      "match_label": "Mexico v England",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Norway",
+      "half": 1,
+      "match_label": "Norway v England",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Norway",
+      "half": 2,
+      "match_label": "Norway v England",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 1,
+      "match_label": "England v Argentina",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 2,
+      "match_label": "England v Argentina",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "France v England",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "France",
+      "half": 2,
+      "match_label": "France v England",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "For England, hydration breaks in the 2026 World Cup have been a mixed bag, but overall, they've managed to gain momentum in 9 out of 16 breaks, which is a positive sign. When England was pressing before a break, they tended to lose momentum, with a significant average decline of 0.225 minutes, and they only managed to keep their momentum once in those 8 instances. However, when they weren't pressing before a break, the opposite was true, and they actually gained momentum, with an average increase of 0.087 minutes. This suggests that England's strategy and performance can be influenced by the timing and context of hydration breaks, and they may need to adjust their approach to maximize their chances of success."
+}

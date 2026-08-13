@@ -2,19 +2,19 @@
   "team": "Japan",
   "slug": "japan",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.0,
+    "total_breaks": 8,
+    "gained": 5,
+    "lost": 3,
+    "mean_delta": -0.0375,
     "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": 0.0,
-    "pressing_kept": 1,
-    "nonpressing_n": 1,
+    "pressing_n": 4,
+    "pressing_mean": -0.075,
+    "pressing_kept": 2,
+    "nonpressing_n": 4,
     "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
+    "nonpressing_gained": 3,
     "half1_mean": 0.0,
-    "half2_mean": 0.0
+    "half2_mean": -0.075
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.3,
       "delta": 0.0,
       "pressing": true
+    },
+    {
+      "opponent": "Tunisia",
+      "half": 1,
+      "match_label": "Tunisia v Japan",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Tunisia",
+      "half": 2,
+      "match_label": "Tunisia v Japan",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Sweden",
+      "half": 1,
+      "match_label": "Japan v Sweden",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Sweden",
+      "half": 2,
+      "match_label": "Japan v Sweden",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Brazil",
+      "half": 1,
+      "match_label": "Brazil v Japan",
+      "pre_rate": 0.2,
+      "post_rate": 0.3,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Brazil",
+      "half": 2,
+      "match_label": "Brazil v Japan",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
     }
   ],
-  "insight": "Japan's performance in the 2026 FIFA World Cup shows that hydration breaks have a neutral impact on their momentum, with an average change of zero. In the two hydration breaks they had, Japan managed to gain momentum both times, suggesting that these breaks may actually help them regroup and come back stronger. When Japan was pressing before a hydration break, they were able to maintain their momentum afterwards, which could indicate that their strategy during these breaks is effective in keeping up their intensity. Overall, the statistics suggest that Japan is able to use hydration breaks to their advantage, without losing any steam or momentum in the process."
+  "insight": ""
 }

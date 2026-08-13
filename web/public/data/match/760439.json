@@ -1,0 +1,131 @@
+{
+  "event_id": 760439,
+  "home": "Switzerland",
+  "away": "Bosnia-Herzegovina",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 5,
+      "home": 5,
+      "away": 0
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 50,
+      "home": 4,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 2
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.6,
+      "break_end": 24.9,
+      "display": "23'",
+      "home_pre": 0.2,
+      "home_post": 0.0,
+      "home_delta": -0.2,
+      "away_pre": 0.0,
+      "away_post": 0.0,
+      "away_delta": 0.0
+    },
+    {
+      "half": 2,
+      "break_start": 68.2,
+      "break_end": 71.1,
+      "display": "69'",
+      "home_pre": 0.2,
+      "home_post": 0.2,
+      "home_delta": 0.0,
+      "away_pre": 0.1,
+      "away_post": 0.0,
+      "away_delta": -0.1
+    }
+  ],
+  "insight": "During the first hydration break, Switzerland's attacking momentum slightly decreased, as evidenced by a drop of 0.20 actions per minute, while Bosnia-Herzegovina's remained unchanged. In contrast, by the second hydration break, Switzerland had regained their footing, with no change in their attacking momentum, whereas Bosnia-Herzegovina's momentum had decreased, with 0.10 fewer actions per minute. Overall, Switzerland seemed to benefit more from the hydration breaks, as they were able to stabilize and then maintain their attacking pace, whereas Bosnia-Herzegovina's momentum stalled. This shift in momentum may have contributed to Switzerland's ability to control the match, as indicated by their 2-0 lead at the first break, which they were able to maintain.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

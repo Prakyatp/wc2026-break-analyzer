@@ -2,19 +2,19 @@
   "team": "United States",
   "slug": "united-states",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.15,
-    "verdict": "helped",
-    "pressing_n": 1,
-    "pressing_mean": 0.0,
-    "pressing_kept": 1,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.3,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.3,
-    "half2_mean": 0.0
+    "total_breaks": 10,
+    "gained": 6,
+    "lost": 4,
+    "mean_delta": -0.07,
+    "verdict": "hurt",
+    "pressing_n": 6,
+    "pressing_mean": -0.1833,
+    "pressing_kept": 2,
+    "nonpressing_n": 4,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.02,
+    "half2_mean": -0.12
   },
   "breaks": [
     {
@@ -34,7 +34,79 @@
       "post_rate": 0.2,
       "delta": 0.0,
       "pressing": true
+    },
+    {
+      "opponent": "Australia",
+      "half": 1,
+      "match_label": "United States v Australia",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Australia",
+      "half": 2,
+      "match_label": "United States v Australia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "T\u00fcrkiye",
+      "half": 1,
+      "match_label": "T\u00fcrkiye v United States",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "T\u00fcrkiye",
+      "half": 2,
+      "match_label": "T\u00fcrkiye v United States",
+      "pre_rate": 0.8,
+      "post_rate": 0.2,
+      "delta": -0.6,
+      "pressing": true
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 1,
+      "match_label": "United States v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 2,
+      "match_label": "United States v Bosnia-Herzegovina",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Belgium",
+      "half": 1,
+      "match_label": "United States v Belgium",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Belgium",
+      "half": 2,
+      "match_label": "United States v Belgium",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
     }
   ],
-  "insight": "The hydration breaks in the 2026 FIFA World Cup have had a notable impact on the United States team, with the team gaining momentum in both of their breaks so far. This momentum gain is reflected in the average change in momentum per minute, which is a positive 0.150 minutes, indicating that the team tends to come back stronger after a break. Interestingly, when the United States was pressing before a break, they maintained their momentum, but only had a negligible average change, whereas when they were not pressing, they experienced a more significant surge in momentum, with an average change of 0.300 minutes per minute, suggesting that breaks may be particularly beneficial for the team when they are not already applying intense pressure. Overall, these statistics suggest that hydration breaks have been a positive factor for the United States team in the World Cup."
+  "insight": ""
 }

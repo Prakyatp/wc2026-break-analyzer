@@ -2,19 +2,19 @@
   "team": "Senegal",
   "slug": "senegal",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
+    "total_breaks": 8,
+    "gained": 4,
+    "lost": 4,
+    "mean_delta": -0.0125,
     "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": -0.1,
-    "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
-    "half1_mean": -0.1,
-    "half2_mean": 0.0
+    "pressing_n": 5,
+    "pressing_mean": -0.04,
+    "pressing_kept": 1,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.0333,
+    "nonpressing_gained": 3,
+    "half1_mean": -0.125,
+    "half2_mean": 0.1
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.1,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Norway",
+      "half": 1,
+      "match_label": "Norway v Senegal",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Norway",
+      "half": 2,
+      "match_label": "Norway v Senegal",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Iraq",
+      "half": 1,
+      "match_label": "Senegal v Iraq",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Iraq",
+      "half": 2,
+      "match_label": "Senegal v Iraq",
+      "pre_rate": 0.4,
+      "post_rate": 0.7,
+      "delta": 0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Belgium",
+      "half": 1,
+      "match_label": "Belgium v Senegal",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Belgium",
+      "half": 2,
+      "match_label": "Belgium v Senegal",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "For Senegal, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, the team has seen a slight decline in momentum after these breaks, with a mean change of -0.050 per minute, indicating that they tend to lose a bit of steam after stopping play. However, the numbers also suggest that when Senegal is not pressing before a hydration break, they are able to maintain their momentum, with no change in average momentum after the break, whereas when they are pressing, they tend to lose momentum at a higher rate, which could be a strategic consideration for the team going forward. This could imply that Senegal may need to adjust their strategy when pressing before a hydration break to avoid losing their edge."
+  "insight": ""
 }

@@ -1,0 +1,136 @@
+{
+  "event_id": 760454,
+  "home": "Norway",
+  "away": "Senegal",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 6,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 35,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 45,
+      "home": 2,
+      "away": 2
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 55,
+      "home": 1,
+      "away": 2
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 85,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 95,
+      "home": 0,
+      "away": 4
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.0,
+      "break_end": 25.1,
+      "display": "23'",
+      "home_pre": 0.1,
+      "home_post": 0.0,
+      "home_delta": -0.1,
+      "away_pre": 0.2,
+      "away_post": 0.1,
+      "away_delta": -0.1
+    },
+    {
+      "half": 2,
+      "break_start": 67.8,
+      "break_end": 71.0,
+      "display": "68'",
+      "home_pre": 0.0,
+      "home_post": 0.0,
+      "home_delta": 0.0,
+      "away_pre": 0.1,
+      "away_post": 0.2,
+      "away_delta": 0.1
+    }
+  ],
+  "insight": "During the first hydration break, both Norway and Senegal experienced a slight decrease in attacking momentum, with Norway going from 1 to 0 actions per minute and Senegal from 2 to 1, each with a decrease of 0.10 actions per minute. However, by the second hydration break, the trend had reversed for Senegal, who increased their attacking momentum from 1 to 2 actions, while Norway's remained stagnant at 0 actions per minute. This shift in momentum suggests that Senegal benefited more overall from the hydration breaks, as they were able to regain and even increase their attacking intensity, potentially giving them an edge in the latter part of the match. Overall, Senegal's ability to adapt and increase their attacking momentum after the breaks may have given them an advantage over Norway in the match.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

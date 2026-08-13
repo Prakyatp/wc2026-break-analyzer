@@ -2,19 +2,19 @@
   "team": "Netherlands",
   "slug": "netherlands",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.3,
-    "verdict": "helped",
-    "pressing_n": 0,
-    "pressing_mean": 0,
-    "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.3,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.3,
-    "half2_mean": 0.3
+    "total_breaks": 8,
+    "gained": 4,
+    "lost": 4,
+    "mean_delta": 0.0375,
+    "verdict": "neutral",
+    "pressing_n": 2,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 6,
+    "nonpressing_mean": 0.05,
+    "nonpressing_gained": 3,
+    "half1_mean": 0.15,
+    "half2_mean": -0.075
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.4,
       "delta": 0.3,
       "pressing": false
+    },
+    {
+      "opponent": "Sweden",
+      "half": 1,
+      "match_label": "Netherlands v Sweden",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Sweden",
+      "half": 2,
+      "match_label": "Netherlands v Sweden",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Tunisia",
+      "half": 1,
+      "match_label": "Tunisia v Netherlands",
+      "pre_rate": 0.3,
+      "post_rate": 0.7,
+      "delta": 0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Tunisia",
+      "half": 2,
+      "match_label": "Tunisia v Netherlands",
+      "pre_rate": 0.6,
+      "post_rate": 0.2,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Morocco",
+      "half": 1,
+      "match_label": "Netherlands v Morocco",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Morocco",
+      "half": 2,
+      "match_label": "Netherlands v Morocco",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
     }
   ],
-  "insight": "The hydration breaks in the 2026 FIFA World Cup have had a notable impact on the Netherlands team, with the team gaining momentum in both of their breaks, resulting in a mean increase of 0.300 points per minute. This suggests that the breaks have provided the Netherlands with a significant boost, allowing them to come back stronger and more focused. Notably, the team has only been in situations where they were not pressing before the breaks, and in these instances, they have maintained their momentum, with an average increase of 0.300 points per minute, indicating that the breaks have been particularly beneficial when the team is not under intense pressure. Overall, the data indicates that the hydration breaks have been a positive factor for the Netherlands, enabling them to regain their footing and push forward with renewed energy."
+  "insight": ""
 }

@@ -2,19 +2,19 @@
   "team": "Bosnia-Herzegovina",
   "slug": "bosnia-herzegovina",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.1,
-    "verdict": "hurt",
-    "pressing_n": 1,
-    "pressing_mean": -0.2,
-    "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
-    "half1_mean": -0.2,
-    "half2_mean": 0.0
+    "total_breaks": 8,
+    "gained": 5,
+    "lost": 3,
+    "mean_delta": 0.025,
+    "verdict": "neutral",
+    "pressing_n": 3,
+    "pressing_mean": -0.0667,
+    "pressing_kept": 1,
+    "nonpressing_n": 5,
+    "nonpressing_mean": 0.08,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.075,
+    "half2_mean": 0.125
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.0,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 1,
+      "match_label": "Switzerland v Bosnia-Herzegovina",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 2,
+      "match_label": "Switzerland v Bosnia-Herzegovina",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Qatar",
+      "half": 1,
+      "match_label": "Bosnia-Herzegovina v Qatar",
+      "pre_rate": 0.4,
+      "post_rate": 0.3,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Qatar",
+      "half": 2,
+      "match_label": "Bosnia-Herzegovina v Qatar",
+      "pre_rate": 0.0,
+      "post_rate": 0.5,
+      "delta": 0.5,
+      "pressing": false
+    },
+    {
+      "opponent": "United States",
+      "half": 1,
+      "match_label": "United States v Bosnia-Herzegovina",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "United States",
+      "half": 2,
+      "match_label": "United States v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.3,
+      "delta": 0.1,
+      "pressing": true
     }
   ],
-  "insight": "Bosnia-Herzegovina's performance after hydration breaks in the 2026 World Cup shows a mixed trend, with the team gaining momentum in only half of the breaks, resulting in a slight decline in performance on average. When they were pressing before a break, they tended to lose momentum afterwards, with a significant decline in performance, which happened in the only instance where they were pressing. However, when they weren't pressing before a break, they were able to maintain their performance level, as seen in the one instance where their momentum remained steady. This suggests that Bosnia-Herzegovina may need to adjust their strategy when pressing before a hydration break to avoid losing momentum and instead use the break to regroup and maintain their performance."
+  "insight": "Bosnia-Herzegovina's performance after hydration breaks in the 2026 World Cup shows a notable trend, as they tend to gain momentum after most breaks, with a slight increase in their pace. However, when they were pressing before a break, their momentum actually decreased, suggesting that the brief pause may have disrupted their rhythm, and they were only able to maintain their momentum once out of three times. In contrast, when they weren't pressing before a break, they tended to come back stronger, with a more significant increase in their pace, indicating that the hydration break may have given them a chance to regroup and refocus. Overall, these statistics suggest that Bosnia-Herzegovina benefits from hydration breaks when they're not in an intense pressing phase, allowing them to recharge and potentially change the course of the match."
 }

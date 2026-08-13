@@ -2,19 +2,19 @@
   "team": "Algeria",
   "slug": "algeria",
   "stats": {
-    "total_breaks": 2,
-    "gained": 0,
-    "lost": 2,
-    "mean_delta": -0.1,
-    "verdict": "hurt",
-    "pressing_n": 1,
-    "pressing_mean": -0.1,
-    "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": -0.1,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.1,
-    "half2_mean": -0.1
+    "total_breaks": 8,
+    "gained": 4,
+    "lost": 4,
+    "mean_delta": 0.0625,
+    "verdict": "helped",
+    "pressing_n": 2,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 6,
+    "nonpressing_mean": 0.0833,
+    "nonpressing_gained": 3,
+    "half1_mean": 0.1,
+    "half2_mean": 0.025
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.1,
       "delta": -0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Jordan",
+      "half": 1,
+      "match_label": "Jordan v Algeria",
+      "pre_rate": 0.1,
+      "post_rate": 0.5,
+      "delta": 0.4,
+      "pressing": false
+    },
+    {
+      "opponent": "Jordan",
+      "half": 2,
+      "match_label": "Jordan v Algeria",
+      "pre_rate": 0.5,
+      "post_rate": 0.6,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Austria",
+      "half": 1,
+      "match_label": "Algeria v Austria",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Austria",
+      "half": 2,
+      "match_label": "Algeria v Austria",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 1,
+      "match_label": "Switzerland v Algeria",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 2,
+      "match_label": "Switzerland v Algeria",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
     }
   ],
-  "insight": "Algeria's hydration breaks in the 2026 World Cup have not provided the team with a significant boost, as they failed to gain momentum in both of their breaks, with a mean change of -0.100 minutes per minute, indicating a slight decline in performance. This decline is consistent whether Algeria was pressing before the break or not, suggesting that their strategy going into the break did not have a notable impact on their ability to regain momentum. In the one instance where Algeria was pressing before the break, they still saw a decline in performance, with an average change of -0.100 minutes per minute, and were unable to keep their momentum going after the break. Overall, Algeria's hydration breaks have not been a turning point in their matches, and the team may need to adjust their strategy to capitalize on these breaks and regain their footing."
+  "insight": "Algeria's performance in the 2026 World Cup has shown that hydration breaks can significantly impact their momentum on the field. On average, the team has managed to gain momentum in half of the breaks, with a slight increase in performance after the break, as indicated by the mean change of +0.062 minutes per minute. Notably, when Algeria was not pressing before a hydration break, they tended to perform better afterwards, with an average change of +0.083 minutes per minute, suggesting that the breaks allowed them to regroup and refocus, leading to improved performance. In contrast, when they were pressing before a break, their momentum was largely unchanged, highlighting the importance of strategic decision-making around hydration breaks to maximize the team's overall performance."
 }

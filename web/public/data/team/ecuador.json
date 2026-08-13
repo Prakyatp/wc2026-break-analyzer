@@ -2,19 +2,19 @@
   "team": "Ecuador",
   "slug": "ecuador",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.0,
-    "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": 0.0,
-    "pressing_kept": 1,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.0,
-    "half2_mean": 0.0
+    "total_breaks": 8,
+    "gained": 6,
+    "lost": 2,
+    "mean_delta": -0.0625,
+    "verdict": "hurt",
+    "pressing_n": 4,
+    "pressing_mean": -0.2,
+    "pressing_kept": 2,
+    "nonpressing_n": 4,
+    "nonpressing_mean": 0.075,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.075,
+    "half2_mean": -0.05
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.1,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Cura\u00e7ao",
+      "half": 1,
+      "match_label": "Ecuador v Cura\u00e7ao",
+      "pre_rate": 0.4,
+      "post_rate": 0.1,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Cura\u00e7ao",
+      "half": 2,
+      "match_label": "Ecuador v Cura\u00e7ao",
+      "pre_rate": 1.3,
+      "post_rate": 0.8,
+      "delta": -0.5,
+      "pressing": true
+    },
+    {
+      "opponent": "Germany",
+      "half": 1,
+      "match_label": "Ecuador v Germany",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Germany",
+      "half": 2,
+      "match_label": "Ecuador v Germany",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Mexico",
+      "half": 1,
+      "match_label": "Mexico v Ecuador",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Mexico",
+      "half": 2,
+      "match_label": "Mexico v Ecuador",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "Ecuador's performance during hydration breaks in the 2026 World Cup shows a notable trend, as they managed to gain momentum in both of their breaks, with no significant change in their pace. This suggests that the team is able to maintain their energy levels and intensity during these stops, which can be crucial in high-stakes matches. When Ecuador was pressing before a hydration break, they were able to keep their momentum going afterwards, which is a positive sign as it indicates they can sustain their aggressive play. Overall, the numbers indicate that hydration breaks have a neutral to slightly positive effect on Ecuador's performance, allowing them to regroup and continue playing at their previous level without losing steam."
+  "insight": "Ecuador's performance during hydration breaks in the 2026 World Cup shows that these brief pauses can be a turning point in their matches. On average, Ecuador tends to gain momentum after a hydration break, with a slight increase in their performance, as indicated by the mean change of -0.062 minutes per break. However, the team's approach before the break seems to influence the outcome, as they tend to struggle when pressing before a break, losing momentum in half of those instances and averaging a decline of 0.200 minutes per break. In contrast, when Ecuador is not pressing before a break, they are more likely to maintain or even gain momentum, averaging a small increase of 0.075 minutes per break, suggesting that a more cautious approach may serve them better in the long run."
 }

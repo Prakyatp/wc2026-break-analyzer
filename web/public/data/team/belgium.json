@@ -2,19 +2,19 @@
   "team": "Belgium",
   "slug": "belgium",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
-    "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": -0.2,
+    "total_breaks": 12,
+    "gained": 3,
+    "lost": 9,
+    "mean_delta": -0.1417,
+    "verdict": "hurt",
+    "pressing_n": 7,
+    "pressing_mean": -0.2286,
     "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.1,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.1,
-    "half2_mean": -0.2
+    "nonpressing_n": 5,
+    "nonpressing_mean": -0.02,
+    "nonpressing_gained": 3,
+    "half1_mean": -0.05,
+    "half2_mean": -0.2333
   },
   "breaks": [
     {
@@ -34,7 +34,97 @@
       "post_rate": 0.2,
       "delta": -0.2,
       "pressing": true
+    },
+    {
+      "opponent": "Iran",
+      "half": 1,
+      "match_label": "Belgium v Iran",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Iran",
+      "half": 2,
+      "match_label": "Belgium v Iran",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "New Zealand",
+      "half": 1,
+      "match_label": "New Zealand v Belgium",
+      "pre_rate": 0.4,
+      "post_rate": 0.3,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "New Zealand",
+      "half": 2,
+      "match_label": "New Zealand v Belgium",
+      "pre_rate": 1.0,
+      "post_rate": 0.4,
+      "delta": -0.6,
+      "pressing": true
+    },
+    {
+      "opponent": "Senegal",
+      "half": 1,
+      "match_label": "Belgium v Senegal",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Senegal",
+      "half": 2,
+      "match_label": "Belgium v Senegal",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "United States",
+      "half": 1,
+      "match_label": "United States v Belgium",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "United States",
+      "half": 2,
+      "match_label": "United States v Belgium",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Spain",
+      "half": 1,
+      "match_label": "Spain v Belgium",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Spain",
+      "half": 2,
+      "match_label": "Spain v Belgium",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
     }
   ],
-  "insight": "For Belgium, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. In half of their breaks, they managed to gain momentum, with an average change of -0.050 minutes per minute, indicating a slight loss of pace but not a significant one. When Belgium was pressing before a break, they struggled to maintain their momentum, losing pace at an average rate of -0.200 minutes per minute, and in the one instance this happened, they failed to regain their footing. However, when they weren't pressing before a break, they actually gained momentum at an average rate of +0.100 minutes per minute, suggesting that a more relaxed approach before a hydration break can help them come back stronger."
+  "insight": "For Belgium, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. When they were pressing before a break, they tended to lose momentum, with an average change of -0.229 minutes per break, and failed to regain it after the break. In contrast, when they weren't pressing before a break, they were able to maintain their momentum, with a much smaller average change of -0.020 minutes per break, suggesting that breaks can be a welcome pause for the team to regroup and refocus. Overall, the data suggests that Belgium's strategy and performance leading up to a hydration break can significantly influence their ability to maintain or regain momentum after the break."
 }

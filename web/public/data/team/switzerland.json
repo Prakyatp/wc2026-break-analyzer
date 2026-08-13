@@ -2,18 +2,18 @@
   "team": "Switzerland",
   "slug": "switzerland",
   "stats": {
-    "total_breaks": 2,
-    "gained": 0,
-    "lost": 2,
-    "mean_delta": -0.1,
+    "total_breaks": 12,
+    "gained": 4,
+    "lost": 8,
+    "mean_delta": -0.0917,
     "verdict": "hurt",
-    "pressing_n": 2,
-    "pressing_mean": -0.1,
-    "pressing_kept": 0,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.1,
+    "pressing_n": 7,
+    "pressing_mean": -0.1429,
+    "pressing_kept": 1,
+    "nonpressing_n": 5,
+    "nonpressing_mean": -0.02,
+    "nonpressing_gained": 3,
+    "half1_mean": -0.0833,
     "half2_mean": -0.1
   },
   "breaks": [
@@ -34,7 +34,97 @@
       "post_rate": 0.3,
       "delta": -0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 1,
+      "match_label": "Switzerland v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 2,
+      "match_label": "Switzerland v Bosnia-Herzegovina",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Canada",
+      "half": 1,
+      "match_label": "Switzerland v Canada",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Canada",
+      "half": 2,
+      "match_label": "Switzerland v Canada",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Algeria",
+      "half": 1,
+      "match_label": "Switzerland v Algeria",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Algeria",
+      "half": 2,
+      "match_label": "Switzerland v Algeria",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Colombia",
+      "half": 1,
+      "match_label": "Switzerland v Colombia",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Colombia",
+      "half": 2,
+      "match_label": "Switzerland v Colombia",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 1,
+      "match_label": "Argentina v Switzerland",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 2,
+      "match_label": "Argentina v Switzerland",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
     }
   ],
-  "insight": "The hydration breaks in the 2026 World Cup have not seemed to give Switzerland the boost they needed, as they failed to gain momentum after both breaks, with their performance actually declining slightly, as indicated by a mean change of -0.100 minutes per minute. This decline in performance was consistent with their strategy before the breaks, as when they were pressing, they still saw an average decline of 0.100 minutes per minute and were unable to maintain their momentum after the break. This suggests that the breaks may have disrupted their rhythm and flow, allowing their opponents to gain an advantage. Overall, the data implies that Switzerland struggled to adapt to the hydration breaks, and it had a negative impact on their gameplay."
+  "insight": ""
 }

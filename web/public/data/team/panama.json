@@ -1,0 +1,76 @@
+{
+  "team": "Panama",
+  "slug": "panama",
+  "stats": {
+    "total_breaks": 6,
+    "gained": 4,
+    "lost": 2,
+    "mean_delta": 0.0333,
+    "verdict": "neutral",
+    "pressing_n": 2,
+    "pressing_mean": -0.35,
+    "pressing_kept": 0,
+    "nonpressing_n": 4,
+    "nonpressing_mean": 0.225,
+    "nonpressing_gained": 4,
+    "half1_mean": 0.1,
+    "half2_mean": -0.0333
+  },
+  "breaks": [
+    {
+      "opponent": "Ghana",
+      "half": 1,
+      "match_label": "Ghana v Panama",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Ghana",
+      "half": 2,
+      "match_label": "Ghana v Panama",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Croatia",
+      "half": 1,
+      "match_label": "Panama v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Croatia",
+      "half": 2,
+      "match_label": "Panama v Croatia",
+      "pre_rate": 0.6,
+      "post_rate": 0.3,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "England",
+      "half": 1,
+      "match_label": "Panama v England",
+      "pre_rate": 0.0,
+      "post_rate": 0.3,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "England",
+      "half": 2,
+      "match_label": "Panama v England",
+      "pre_rate": 0.1,
+      "post_rate": 0.7,
+      "delta": 0.6,
+      "pressing": false
+    }
+  ],
+  "insight": ""
+}

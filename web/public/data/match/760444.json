@@ -1,0 +1,131 @@
+{
+  "event_id": 760444,
+  "home": "Brazil",
+  "away": "Haiti",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 3,
+      "away": 0
+    },
+    {
+      "minute": 20,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 25,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 90,
+      "home": 1,
+      "away": 2
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 25.1,
+      "break_end": 28.1,
+      "display": "26'",
+      "home_pre": 0.5,
+      "home_post": 0.1,
+      "home_delta": -0.4,
+      "away_pre": 0.1,
+      "away_post": 0.2,
+      "away_delta": 0.1
+    },
+    {
+      "half": 2,
+      "break_start": 68.1,
+      "break_end": 71.0,
+      "display": "69'",
+      "home_pre": 0.0,
+      "home_post": 0.1,
+      "home_delta": 0.1,
+      "away_pre": 0.4,
+      "away_post": 0.0,
+      "away_delta": -0.4
+    }
+  ],
+  "insight": "During the match between Brazil and Haiti, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Brazil's attacking actions decreased from 5 to 1, indicating a significant drop in momentum, while Haiti's actions increased from 1 to 2, showing a slight gain. However, at the second break, the trend reversed, with Brazil regaining some momentum and Haiti's attacking actions coming to a halt, suggesting that Brazil adapted better to the second half and benefited more overall from the hydration breaks, potentially due to their ability to adjust their strategy and regain their footing. Overall, Brazil's ability to bounce back from a slow start after the first break and capitalize on Haiti's second-break slump may have given them an edge in the match.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

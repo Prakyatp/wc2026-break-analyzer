@@ -2,19 +2,19 @@
   "team": "Qatar",
   "slug": "qatar",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.15,
-    "verdict": "helped",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "total_breaks": 6,
+    "gained": 5,
+    "lost": 1,
+    "mean_delta": 0.0333,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.2,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.15,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.2,
-    "half2_mean": 0.1
+    "nonpressing_n": 5,
+    "nonpressing_mean": 0.08,
+    "nonpressing_gained": 5,
+    "half1_mean": 0.1,
+    "half2_mean": -0.0333
   },
   "breaks": [
     {
@@ -34,7 +34,43 @@
       "post_rate": 0.1,
       "delta": 0.1,
       "pressing": false
+    },
+    {
+      "opponent": "Canada",
+      "half": 1,
+      "match_label": "Canada v Qatar",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Canada",
+      "half": 2,
+      "match_label": "Canada v Qatar",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 1,
+      "match_label": "Bosnia-Herzegovina v Qatar",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Bosnia-Herzegovina",
+      "half": 2,
+      "match_label": "Bosnia-Herzegovina v Qatar",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
     }
   ],
-  "insight": "Qatar's performance in the 2026 World Cup has shown a notable impact from hydration breaks, with the team gaining momentum in both of their breaks so far. This momentum gain is reflected in a mean increase of 0.150 points per minute, indicating a slight but significant improvement in their performance after the breaks. Notably, when Qatar wasn't pressing before a hydration break, they still managed to maintain a positive momentum gain, suggesting that the breaks themselves may be providing a boost to their gameplay. Overall, the statistics suggest that hydration breaks have been beneficial for Qatar, allowing them to regain energy and come back stronger in the match."
+  "insight": ""
 }

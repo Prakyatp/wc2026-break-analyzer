@@ -2,19 +2,19 @@
   "team": "South Korea",
   "slug": "south-korea",
   "stats": {
-    "total_breaks": 2,
-    "gained": 0,
+    "total_breaks": 6,
+    "gained": 4,
     "lost": 2,
-    "mean_delta": -0.2,
-    "verdict": "hurt",
+    "mean_delta": -0.0333,
+    "verdict": "neutral",
     "pressing_n": 1,
     "pressing_mean": -0.3,
     "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": -0.1,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.3,
-    "half2_mean": -0.1
+    "nonpressing_n": 5,
+    "nonpressing_mean": 0.02,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.0333,
+    "half2_mean": -0.0333
   },
   "breaks": [
     {
@@ -34,7 +34,43 @@
       "post_rate": 0.0,
       "delta": -0.1,
       "pressing": false
+    },
+    {
+      "opponent": "Mexico",
+      "half": 1,
+      "match_label": "Mexico v South Korea",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Mexico",
+      "half": 2,
+      "match_label": "Mexico v South Korea",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "South Africa",
+      "half": 1,
+      "match_label": "South Africa v South Korea",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "South Africa",
+      "half": 2,
+      "match_label": "South Africa v South Korea",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "For South Korea, hydration breaks in the 2026 World Cup have not provided the desired boost, with the team failing to gain momentum in either of their two breaks, resulting in a negative change in momentum of -0.200 per minute on average. When South Korea was pressing before a break, they tended to lose even more momentum, with an average change of -0.300 per minute, and they were unable to regain their footing after the break. In contrast, when they were not pressing before a break, the loss of momentum was less severe, with an average change of -0.100 per minute, suggesting that the team may be better off conserving energy before a break rather than trying to push forward. Overall, these statistics suggest that South Korea needs to rethink their strategy around hydration breaks to avoid losing momentum and gain a competitive edge."
+  "insight": ""
 }

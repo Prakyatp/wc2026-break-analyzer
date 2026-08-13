@@ -1,0 +1,112 @@
+{
+  "team": "Colombia",
+  "slug": "colombia",
+  "stats": {
+    "total_breaks": 10,
+    "gained": 1,
+    "lost": 9,
+    "mean_delta": -0.21,
+    "verdict": "hurt",
+    "pressing_n": 7,
+    "pressing_mean": -0.3286,
+    "pressing_kept": 0,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.0667,
+    "nonpressing_gained": 1,
+    "half1_mean": -0.24,
+    "half2_mean": -0.18
+  },
+  "breaks": [
+    {
+      "opponent": "Uzbekistan",
+      "half": 1,
+      "match_label": "Uzbekistan v Colombia",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Uzbekistan",
+      "half": 2,
+      "match_label": "Uzbekistan v Colombia",
+      "pre_rate": 0.6,
+      "post_rate": 0.0,
+      "delta": -0.6,
+      "pressing": true
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 1,
+      "match_label": "Colombia v Congo DR",
+      "pre_rate": 0.6,
+      "post_rate": 0.1,
+      "delta": -0.5,
+      "pressing": true
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 2,
+      "match_label": "Colombia v Congo DR",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Portugal",
+      "half": 1,
+      "match_label": "Colombia v Portugal",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Portugal",
+      "half": 2,
+      "match_label": "Colombia v Portugal",
+      "pre_rate": 0.7,
+      "post_rate": 0.3,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Ghana",
+      "half": 1,
+      "match_label": "Colombia v Ghana",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Ghana",
+      "half": 2,
+      "match_label": "Colombia v Ghana",
+      "pre_rate": 0.0,
+      "post_rate": 0.4,
+      "delta": 0.4,
+      "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 1,
+      "match_label": "Switzerland v Colombia",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 2,
+      "match_label": "Switzerland v Colombia",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    }
+  ],
+  "insight": "For Colombia, hydration breaks in the 2026 World Cup have generally been a momentum killer, with the team's performance declining by an average of 0.210 minutes per match during these breaks. This trend is even more pronounced when Colombia is pressing before the break, as they have failed to maintain momentum in all 7 instances, with their performance dropping by an average of 0.329 minutes per match. However, when Colombia is not pressing before the break, they have managed to slightly gain momentum, with a small average increase of 0.067 minutes per match, suggesting that the team may be able to use these breaks to regroup and refocus. Overall, Colombia's coaches may need to adjust their strategy during hydration breaks to minimize the loss of momentum and find ways to capitalize on the brief pauses in play."
+}

@@ -2,19 +2,19 @@
   "team": "Sweden",
   "slug": "sweden",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": 0.1,
+    "total_breaks": 8,
+    "gained": 6,
+    "lost": 2,
+    "mean_delta": 0.075,
     "verdict": "helped",
-    "pressing_n": 1,
-    "pressing_mean": -0.1,
-    "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.3,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.3,
-    "half2_mean": -0.1
+    "pressing_n": 2,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 6,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 5,
+    "half1_mean": 0.15,
+    "half2_mean": 0.0
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.1,
       "delta": -0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Netherlands",
+      "half": 1,
+      "match_label": "Netherlands v Sweden",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Netherlands",
+      "half": 2,
+      "match_label": "Netherlands v Sweden",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Japan",
+      "half": 1,
+      "match_label": "Japan v Sweden",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Japan",
+      "half": 2,
+      "match_label": "Japan v Sweden",
+      "pre_rate": 0.3,
+      "post_rate": 0.4,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "France v Sweden",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 2,
+      "match_label": "France v Sweden",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "In the 2026 World Cup, Sweden's performance has been impacted by hydration breaks, with the team gaining momentum in half of the breaks they've had, resulting in a slight increase in performance. However, when Sweden was pressing before a break, they actually lost momentum, with their performance decreasing by 0.100 minutes on average, and they were unable to regain it after the break. On the other hand, when Sweden was not pressing before a break, they experienced a significant increase in performance, gaining 0.300 minutes on average, suggesting that the break allowed them to recharge and come back stronger. This suggests that Sweden may benefit from adjusting their strategy to take advantage of hydration breaks, particularly when they're not pressing, to gain an edge over their opponents."
+  "insight": ""
 }

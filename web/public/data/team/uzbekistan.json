@@ -1,0 +1,76 @@
+{
+  "team": "Uzbekistan",
+  "slug": "uzbekistan",
+  "stats": {
+    "total_breaks": 6,
+    "gained": 3,
+    "lost": 3,
+    "mean_delta": -0.0333,
+    "verdict": "neutral",
+    "pressing_n": 1,
+    "pressing_mean": -0.1,
+    "pressing_kept": 0,
+    "nonpressing_n": 5,
+    "nonpressing_mean": -0.02,
+    "nonpressing_gained": 3,
+    "half1_mean": -0.0333,
+    "half2_mean": -0.0333
+  },
+  "breaks": [
+    {
+      "opponent": "Colombia",
+      "half": 1,
+      "match_label": "Uzbekistan v Colombia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Colombia",
+      "half": 2,
+      "match_label": "Uzbekistan v Colombia",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Portugal",
+      "half": 1,
+      "match_label": "Portugal v Uzbekistan",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Portugal",
+      "half": 2,
+      "match_label": "Portugal v Uzbekistan",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 1,
+      "match_label": "Congo DR v Uzbekistan",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Congo DR",
+      "half": 2,
+      "match_label": "Congo DR v Uzbekistan",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    }
+  ],
+  "insight": ""
+}

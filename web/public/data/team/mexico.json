@@ -2,19 +2,19 @@
   "team": "Mexico",
   "slug": "mexico",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
+    "total_breaks": 10,
+    "gained": 5,
+    "lost": 5,
+    "mean_delta": -0.03,
     "verdict": "neutral",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "pressing_n": 2,
+    "pressing_mean": -0.35,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": -0.05,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.0,
-    "half2_mean": -0.1
+    "nonpressing_n": 8,
+    "nonpressing_mean": 0.05,
+    "nonpressing_gained": 5,
+    "half1_mean": -0.1,
+    "half2_mean": 0.04
   },
   "breaks": [
     {
@@ -34,7 +34,79 @@
       "post_rate": 0.0,
       "delta": -0.1,
       "pressing": false
+    },
+    {
+      "opponent": "South Korea",
+      "half": 1,
+      "match_label": "Mexico v South Korea",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "South Korea",
+      "half": 2,
+      "match_label": "Mexico v South Korea",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Czechia",
+      "half": 1,
+      "match_label": "Czechia v Mexico",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Czechia",
+      "half": 2,
+      "match_label": "Czechia v Mexico",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 1,
+      "match_label": "Mexico v Ecuador",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 2,
+      "match_label": "Mexico v Ecuador",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "England",
+      "half": 1,
+      "match_label": "Mexico v England",
+      "pre_rate": 0.4,
+      "post_rate": 0.1,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "England",
+      "half": 2,
+      "match_label": "Mexico v England",
+      "pre_rate": 0.1,
+      "post_rate": 0.6,
+      "delta": 0.5,
+      "pressing": false
     }
   ],
-  "insight": "Mexico's performance in the 2026 World Cup hydration breaks shows a slight decline in momentum after these breaks, with an average change of -0.050 minutes per match. This means that, on average, Mexico tends to lose a bit of steam after taking a hydration break, which could impact their overall performance in a match. In the two hydration breaks they had, Mexico was not pressing before the break, and in both cases, they experienced a similar decline in momentum, suggesting that the breaks may disrupt their rhythm and intensity. Overall, these statistics suggest that Mexico may need to work on maintaining their momentum after hydration breaks to maximize their chances of success in the tournament."
+  "insight": ""
 }

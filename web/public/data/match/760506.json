@@ -1,0 +1,136 @@
+{
+  "event_id": 760506,
+  "home": "Portugal",
+  "away": "Spain",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 5,
+      "home": 3,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 25,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 5
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 75,
+      "home": 2,
+      "away": 4
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 95,
+      "home": 2,
+      "away": 0
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.5,
+      "break_end": 25.6,
+      "display": "23'",
+      "home_pre": 0.0,
+      "home_post": 0.0,
+      "home_delta": 0.0,
+      "away_pre": 0.5,
+      "away_post": 0.2,
+      "away_delta": -0.3
+    },
+    {
+      "half": 2,
+      "break_start": 67.6,
+      "break_end": 70.6,
+      "display": "68'",
+      "home_pre": 0.1,
+      "home_post": 0.2,
+      "home_delta": 0.1,
+      "away_pre": 0.5,
+      "away_post": 0.6,
+      "away_delta": 0.1
+    }
+  ],
+  "insight": "During the first hydration break, Spain's attacking momentum slowed down, as they went from 5 actions to 2, resulting in a decrease of 0.30 actions per minute, while Portugal's remained unchanged with no actions before or after the break. In contrast, during the second hydration break, both teams saw a slight increase in their attacking momentum, with Portugal going from 1 to 2 actions and Spain from 5 to 6 actions, both with an increase of 0.10 actions per minute. Overall, Portugal benefited more from the hydration breaks as they were able to maintain or slightly increase their attacking momentum, whereas Spain's initial slowdown at the first break put them at a disadvantage. This shift in momentum could have given Portugal a slight edge in the match, allowing them to potentially capitalize on Spain's early loss of momentum.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

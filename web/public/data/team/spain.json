@@ -2,19 +2,19 @@
   "team": "Spain",
   "slug": "spain",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": 0.0,
-    "verdict": "neutral",
-    "pressing_n": 2,
-    "pressing_mean": 0.0,
-    "pressing_kept": 1,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.1,
-    "half2_mean": 0.1
+    "total_breaks": 16,
+    "gained": 7,
+    "lost": 9,
+    "mean_delta": -0.0563,
+    "verdict": "hurt",
+    "pressing_n": 11,
+    "pressing_mean": -0.1545,
+    "pressing_kept": 3,
+    "nonpressing_n": 5,
+    "nonpressing_mean": 0.16,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.0125,
+    "half2_mean": -0.1
   },
   "breaks": [
     {
@@ -34,7 +34,133 @@
       "post_rate": 0.4,
       "delta": 0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Saudi Arabia",
+      "half": 1,
+      "match_label": "Spain v Saudi Arabia",
+      "pre_rate": 0.4,
+      "post_rate": 0.4,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Saudi Arabia",
+      "half": 2,
+      "match_label": "Spain v Saudi Arabia",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Uruguay",
+      "half": 1,
+      "match_label": "Uruguay v Spain",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Uruguay",
+      "half": 2,
+      "match_label": "Uruguay v Spain",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Austria",
+      "half": 1,
+      "match_label": "Spain v Austria",
+      "pre_rate": 0.0,
+      "post_rate": 0.4,
+      "delta": 0.4,
+      "pressing": false
+    },
+    {
+      "opponent": "Austria",
+      "half": 2,
+      "match_label": "Spain v Austria",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Portugal",
+      "half": 1,
+      "match_label": "Portugal v Spain",
+      "pre_rate": 0.5,
+      "post_rate": 0.2,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Portugal",
+      "half": 2,
+      "match_label": "Portugal v Spain",
+      "pre_rate": 0.5,
+      "post_rate": 0.6,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Belgium",
+      "half": 1,
+      "match_label": "Spain v Belgium",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Belgium",
+      "half": 2,
+      "match_label": "Spain v Belgium",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "France v Spain",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 2,
+      "match_label": "France v Spain",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 1,
+      "match_label": "Spain v Argentina",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 2,
+      "match_label": "Spain v Argentina",
+      "pre_rate": 0.7,
+      "post_rate": 0.3,
+      "delta": -0.4,
+      "pressing": true
     }
   ],
-  "insight": "For Spain, the hydration breaks in the 2026 World Cup have had a minimal impact on their momentum, with an average change of zero. When they were pressing before the break, which happened twice, they were able to maintain their momentum in one of those instances, but the overall average change was still zero, indicating that the breaks didn't significantly affect their performance. Since there were no instances where Spain was not pressing before a hydration break, it's difficult to draw conclusions about how the breaks affect them in those situations. Overall, the data suggests that the hydration breaks have been neutral for Spain, neither significantly helping nor hurting their momentum in the matches."
+  "insight": ""
 }

@@ -2,17 +2,17 @@
   "team": "Saudi Arabia",
   "slug": "saudi-arabia",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
+    "total_breaks": 6,
+    "gained": 3,
+    "lost": 3,
     "mean_delta": -0.05,
     "verdict": "neutral",
-    "pressing_n": 1,
+    "pressing_n": 2,
     "pressing_mean": -0.1,
     "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
+    "nonpressing_n": 4,
+    "nonpressing_mean": -0.025,
+    "nonpressing_gained": 3,
     "half1_mean": -0.1,
     "half2_mean": 0.0
   },
@@ -34,7 +34,43 @@
       "post_rate": 0.0,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Spain",
+      "half": 1,
+      "match_label": "Spain v Saudi Arabia",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Spain",
+      "half": 2,
+      "match_label": "Spain v Saudi Arabia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Cape Verde",
+      "half": 1,
+      "match_label": "Cape Verde v Saudi Arabia",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Cape Verde",
+      "half": 2,
+      "match_label": "Cape Verde v Saudi Arabia",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "For Saudi Arabia, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they tend to lose a bit of momentum after a break, with their performance declining by 0.050 minutes per minute of play. However, the effect of the break seems to depend on their strategy before the break, as when they were pressing their opponents, they lost more momentum, with their performance declining by 0.100 minutes per minute of play, and they were unable to regain their momentum after the break. In contrast, when they were not pressing before the break, they were able to maintain their momentum, with no change in their performance after the break."
+  "insight": ""
 }

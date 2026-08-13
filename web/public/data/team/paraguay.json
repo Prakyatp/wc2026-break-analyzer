@@ -2,19 +2,19 @@
   "team": "Paraguay",
   "slug": "paraguay",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.0,
+    "total_breaks": 11,
+    "gained": 8,
+    "lost": 3,
+    "mean_delta": -0.0091,
     "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": 0.0,
+    "pressing_n": 2,
+    "pressing_mean": -0.1,
     "pressing_kept": 1,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.0,
-    "half2_mean": 0.0
+    "nonpressing_n": 9,
+    "nonpressing_mean": 0.0111,
+    "nonpressing_gained": 7,
+    "half1_mean": 0.06,
+    "half2_mean": -0.0667
   },
   "breaks": [
     {
@@ -34,7 +34,88 @@
       "post_rate": 0.2,
       "delta": 0.0,
       "pressing": true
+    },
+    {
+      "opponent": "T\u00fcrkiye",
+      "half": 1,
+      "match_label": "T\u00fcrkiye v Paraguay",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "T\u00fcrkiye",
+      "half": 2,
+      "match_label": "T\u00fcrkiye v Paraguay",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "T\u00fcrkiye",
+      "half": 2,
+      "match_label": "T\u00fcrkiye v Paraguay",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Australia",
+      "half": 1,
+      "match_label": "Paraguay v Australia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Australia",
+      "half": 2,
+      "match_label": "Paraguay v Australia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Germany",
+      "half": 1,
+      "match_label": "Germany v Paraguay",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Germany",
+      "half": 2,
+      "match_label": "Germany v Paraguay",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "Paraguay v France",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 2,
+      "match_label": "Paraguay v France",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "The hydration break statistics for Paraguay in the 2026 World Cup show that the team has been able to maintain their momentum after both breaks, with no noticeable change in their performance. This suggests that the breaks have not disrupted their rhythm, and they have been able to pick up where they left off, which is a positive sign for the team. When Paraguay was pressing before a break, they were able to keep their momentum going after the break, which indicates that they were able to sustain their intensity and pressure on the opposing team. Overall, the numbers indicate that the hydration breaks have had a neutral effect on Paraguay's performance, neither hindering nor significantly helping their gameplay."
+  "insight": ""
 }

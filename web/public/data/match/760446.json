@@ -1,0 +1,131 @@
+{
+  "event_id": 760446,
+  "home": "Ecuador",
+  "away": "Cura\u00e7ao",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 20,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 25,
+      "home": 1,
+      "away": 1
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 40,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 45,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 50,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 55,
+      "home": 3,
+      "away": 4
+    },
+    {
+      "minute": 60,
+      "home": 6,
+      "away": 0
+    },
+    {
+      "minute": 65,
+      "home": 4,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 4,
+      "away": 1
+    },
+    {
+      "minute": 75,
+      "home": 4,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 1,
+      "away": 0
+    },
+    {
+      "minute": 90,
+      "home": 1,
+      "away": 0
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 23.3,
+      "break_end": 26.5,
+      "display": "24'",
+      "home_pre": 0.4,
+      "home_post": 0.1,
+      "home_delta": -0.3,
+      "away_pre": 0.1,
+      "away_post": 0.2,
+      "away_delta": 0.1
+    },
+    {
+      "half": 2,
+      "break_start": 67.2,
+      "break_end": 70.3,
+      "display": "68'",
+      "home_pre": 1.3,
+      "home_post": 0.8,
+      "home_delta": -0.5,
+      "away_pre": 0.3,
+      "away_post": 0.1,
+      "away_delta": -0.2
+    }
+  ],
+  "insight": "During the match between Ecuador and Cura\u00e7ao, Ecuador's attacking momentum slowed down significantly after both hydration breaks, with a decrease of 0.30 actions per minute after the first break and 0.50 actions per minute after the second break, indicating a substantial loss of intensity in their offense. In contrast, Cura\u00e7ao's attacking momentum was more stable, with a slight increase after the first break and a smaller decrease after the second break, suggesting they were better able to maintain their rhythm. Overall, Cura\u00e7ao appeared to benefit more from the hydration breaks in terms of preserving their attacking momentum, as their decreases in action rate were less severe than Ecuador's. This could be an important factor in the outcome of the match, as Cura\u00e7ao's ability to sustain their offense may have given them an edge over Ecuador.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

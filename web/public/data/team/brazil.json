@@ -2,19 +2,19 @@
   "team": "Brazil",
   "slug": "brazil",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.1,
+    "total_breaks": 10,
+    "gained": 5,
+    "lost": 5,
+    "mean_delta": -0.08,
     "verdict": "hurt",
-    "pressing_n": 1,
-    "pressing_mean": -0.3,
-    "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.1,
-    "nonpressing_gained": 1,
-    "half1_mean": -0.3,
-    "half2_mean": 0.1
+    "pressing_n": 7,
+    "pressing_mean": -0.1714,
+    "pressing_kept": 2,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.1333,
+    "nonpressing_gained": 3,
+    "half1_mean": -0.14,
+    "half2_mean": -0.02
   },
   "breaks": [
     {
@@ -34,7 +34,79 @@
       "post_rate": 0.1,
       "delta": 0.1,
       "pressing": false
+    },
+    {
+      "opponent": "Haiti",
+      "half": 1,
+      "match_label": "Brazil v Haiti",
+      "pre_rate": 0.5,
+      "post_rate": 0.1,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Haiti",
+      "half": 2,
+      "match_label": "Brazil v Haiti",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Scotland",
+      "half": 1,
+      "match_label": "Scotland v Brazil",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Scotland",
+      "half": 2,
+      "match_label": "Scotland v Brazil",
+      "pre_rate": 0.3,
+      "post_rate": 0.3,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Japan",
+      "half": 1,
+      "match_label": "Brazil v Japan",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Japan",
+      "half": 2,
+      "match_label": "Brazil v Japan",
+      "pre_rate": 0.2,
+      "post_rate": 0.3,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Norway",
+      "half": 1,
+      "match_label": "Brazil v Norway",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Norway",
+      "half": 2,
+      "match_label": "Brazil v Norway",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
     }
   ],
-  "insight": "For Brazil, the hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. On average, they tend to lose a bit of momentum after a break, with a mean change of -0.100 minutes per break, indicating a slight decline in their performance. However, the numbers also suggest that when Brazil is not pressing before a break, they are able to regain some momentum afterwards, as seen in the one instance where they had a positive change of +0.100 minutes per minute, whereas when they were pressing before a break, they lost more momentum, with a change of -0.300 minutes per minute, and were unable to recover it. This implies that Brazil may need to adjust their strategy when going into a hydration break, particularly if they are pressing, in order to maintain their momentum and performance."
+  "insight": "For Brazil, hydration breaks in the 2026 World Cup have had a mixed impact on their momentum. When they were pressing before a break, which happened 7 times, they tended to lose momentum, with their average change in momentum being -0.171 per minute, and they were only able to maintain their momentum twice. However, when they weren't pressing before a break, which occurred 3 times, they actually gained momentum, with an average change of +0.133 per minute, suggesting that breaks can provide a brief respite and allow them to regroup and refocus. Overall, Brazil's ability to gain momentum after a hydration break, which happened in 5 out of 10 instances, with a slight average decrease in momentum, indicates that they can use these breaks to their advantage, but it largely depends on their strategy and intensity leading up to the break."
 }

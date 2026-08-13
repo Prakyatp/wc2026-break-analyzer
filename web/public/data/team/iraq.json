@@ -2,19 +2,19 @@
   "team": "Iraq",
   "slug": "iraq",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
+    "total_breaks": 5,
+    "gained": 3,
+    "lost": 2,
     "mean_delta": 0.0,
     "verdict": "neutral",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.1,
-    "half2_mean": -0.1
+    "nonpressing_n": 4,
+    "nonpressing_mean": 0.075,
+    "nonpressing_gained": 3,
+    "half1_mean": 0.0,
+    "half2_mean": 0.0
   },
   "breaks": [
     {
@@ -34,7 +34,34 @@
       "post_rate": 0.0,
       "delta": -0.1,
       "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "France v Iraq",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Senegal",
+      "half": 1,
+      "match_label": "Senegal v Iraq",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Senegal",
+      "half": 2,
+      "match_label": "Senegal v Iraq",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "The hydration break statistics for Iraq in the 2026 World Cup show that the team was able to gain momentum in half of the breaks they had, with a mean change of zero in the other half, indicating no significant impact on their performance. This suggests that the breaks did not greatly affect Iraq's overall momentum, as they were able to maintain their pace in the matches. When Iraq was not pressing before a hydration break, they were still able to maintain their momentum, with an average change of zero, which indicates that the breaks did not hinder their ability to keep up their pace. Overall, the breaks seemed to have a neutral effect on Iraq's performance, neither significantly helping nor hurting their momentum in the matches."
+  "insight": ""
 }

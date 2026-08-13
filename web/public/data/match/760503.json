@@ -1,0 +1,136 @@
+{
+  "event_id": 760503,
+  "home": "Paraguay",
+  "away": "France",
+  "timeline": [
+    {
+      "minute": 0,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 5,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 10,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 15,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 20,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 25,
+      "home": 2,
+      "away": 0
+    },
+    {
+      "minute": 30,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 35,
+      "home": 0,
+      "away": 3
+    },
+    {
+      "minute": 40,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 45,
+      "home": 2,
+      "away": 2
+    },
+    {
+      "minute": 50,
+      "home": 0,
+      "away": 4
+    },
+    {
+      "minute": 55,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 60,
+      "home": 0,
+      "away": 1
+    },
+    {
+      "minute": 65,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 70,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 75,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 80,
+      "home": 0,
+      "away": 0
+    },
+    {
+      "minute": 85,
+      "home": 2,
+      "away": 1
+    },
+    {
+      "minute": 90,
+      "home": 0,
+      "away": 2
+    },
+    {
+      "minute": 95,
+      "home": 1,
+      "away": 3
+    }
+  ],
+  "breaks": [
+    {
+      "half": 1,
+      "break_start": 22.8,
+      "break_end": 26.0,
+      "display": "23'",
+      "home_pre": 0.0,
+      "home_post": 0.2,
+      "home_delta": 0.2,
+      "away_pre": 0.4,
+      "away_post": 0.2,
+      "away_delta": -0.2
+    },
+    {
+      "half": 2,
+      "break_start": 72.2,
+      "break_end": 75.2,
+      "display": "73'",
+      "home_pre": 0.0,
+      "home_post": 0.0,
+      "home_delta": 0.0,
+      "away_pre": 0.1,
+      "away_post": 0.0,
+      "away_delta": -0.1
+    }
+  ],
+  "insight": "During the match between Paraguay and France, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Paraguay's attack slightly increased, with an additional 0.20 actions per minute, while France's attack slowed down, with 0.20 fewer actions per minute, indicating a shift in momentum in favor of Paraguay. However, by the second break, Paraguay's attack had stalled, with no change in actions per minute, whereas France's attack continued to slow, albeit at a lesser rate, suggesting that France was unable to regain its initial attacking rhythm. Overall, Paraguay appears to have benefited more from the hydration breaks, as they were able to slightly increase their attacking momentum at the first break, which may have helped them stay competitive against the favored French team.",
+  "home_color": "#3b82f6",
+  "away_color": "#ef4444"
+}

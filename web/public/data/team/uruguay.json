@@ -2,18 +2,18 @@
   "team": "Uruguay",
   "slug": "uruguay",
   "stats": {
-    "total_breaks": 2,
-    "gained": 0,
-    "lost": 2,
-    "mean_delta": -0.1,
-    "verdict": "hurt",
-    "pressing_n": 1,
+    "total_breaks": 6,
+    "gained": 1,
+    "lost": 5,
+    "mean_delta": -0.05,
+    "verdict": "neutral",
+    "pressing_n": 3,
     "pressing_mean": -0.1,
     "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": -0.1,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.1,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.0,
+    "nonpressing_gained": 1,
+    "half1_mean": 0.0,
     "half2_mean": -0.1
   },
   "breaks": [
@@ -34,7 +34,43 @@
       "post_rate": 0.4,
       "delta": -0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Cape Verde",
+      "half": 1,
+      "match_label": "Uruguay v Cape Verde",
+      "pre_rate": 0.4,
+      "post_rate": 0.3,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Cape Verde",
+      "half": 2,
+      "match_label": "Uruguay v Cape Verde",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Spain",
+      "half": 1,
+      "match_label": "Uruguay v Spain",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Spain",
+      "half": 2,
+      "match_label": "Uruguay v Spain",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
     }
   ],
-  "insight": "Uruguay's performance after hydration breaks in the 2026 World Cup has been underwhelming, as they failed to gain momentum in both of their breaks, with a mean change of -0.100 minutes per game, indicating a slight decline in their performance after the breaks. This trend holds true regardless of whether they were pressing before the break or not, as their average change in momentum remains the same at -0.100 minutes per game. In the one instance where they were pressing before the break, they were unable to maintain their momentum, suggesting that the hydration breaks may be disrupting their rhythm and intensity. Overall, Uruguay's inability to capitalize on hydration breaks may be a concern for their team, as they are not only failing to gain an advantage but also losing momentum after these stops in play."
+  "insight": ""
 }

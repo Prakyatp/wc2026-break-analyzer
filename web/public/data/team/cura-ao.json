@@ -2,19 +2,19 @@
   "team": "Cura\u00e7ao",
   "slug": "cura-ao",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
+    "total_breaks": 6,
+    "gained": 4,
+    "lost": 2,
+    "mean_delta": 0.0167,
     "verdict": "neutral",
-    "pressing_n": 2,
-    "pressing_mean": -0.05,
+    "pressing_n": 3,
+    "pressing_mean": -0.1,
     "pressing_kept": 1,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.2,
-    "half2_mean": 0.1
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.1333,
+    "nonpressing_gained": 3,
+    "half1_mean": -0.0333,
+    "half2_mean": 0.0667
   },
   "breaks": [
     {
@@ -34,7 +34,43 @@
       "post_rate": 0.3,
       "delta": 0.1,
       "pressing": true
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 1,
+      "match_label": "Ecuador v Cura\u00e7ao",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 2,
+      "match_label": "Ecuador v Cura\u00e7ao",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Ivory Coast",
+      "half": 1,
+      "match_label": "Cura\u00e7ao v Ivory Coast",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Ivory Coast",
+      "half": 2,
+      "match_label": "Cura\u00e7ao v Ivory Coast",
+      "pre_rate": 0.0,
+      "post_rate": 0.3,
+      "delta": 0.3,
+      "pressing": false
     }
   ],
-  "insight": "Cura\u00e7ao's performance during hydration breaks in the 2026 World Cup shows that they tend to maintain or slightly lose momentum after these breaks. On average, their momentum changes by -0.050 minutes per minute, indicating a slight decline in performance after the breaks. When Cura\u00e7ao was pressing before a hydration break, they were able to maintain momentum only half of the time, with the same average change in momentum of -0.050 minutes per minute, suggesting that their high-intensity approach does not necessarily give them an edge after the breaks. Since there were no instances where Cura\u00e7ao was not pressing before a hydration break, it's unclear how they would perform in such a scenario, but overall, the breaks seem to have a neutral to slightly negative impact on their gameplay."
+  "insight": "Cura\u00e7ao's performance in the 2026 World Cup has shown that hydration breaks can be a crucial factor in their gameplay, with the team gaining momentum in 4 out of 6 breaks, resulting in a slight increase in their overall performance. However, when Cura\u00e7ao was pressing before a hydration break, they tended to lose momentum, with their performance declining by an average of 0.100 minutes, and they were only able to maintain their momentum once out of three times. In contrast, when they were not pressing before a break, they saw a significant improvement in their performance, with an average increase of 0.133 minutes, suggesting that the team is able to regroup and refocus during these breaks. This data suggests that Cura\u00e7ao's strategy and performance can be heavily influenced by how they approach hydration breaks, and that they may benefit from adjusting their tactics"
 }

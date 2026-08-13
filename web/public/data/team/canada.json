@@ -2,19 +2,19 @@
   "team": "Canada",
   "slug": "canada",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.15,
-    "verdict": "helped",
-    "pressing_n": 2,
-    "pressing_mean": 0.15,
-    "pressing_kept": 2,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
-    "half1_mean": 0.3,
-    "half2_mean": 0.0
+    "total_breaks": 10,
+    "gained": 5,
+    "lost": 5,
+    "mean_delta": 0.02,
+    "verdict": "neutral",
+    "pressing_n": 8,
+    "pressing_mean": 0.0,
+    "pressing_kept": 3,
+    "nonpressing_n": 2,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 2,
+    "half1_mean": -0.06,
+    "half2_mean": 0.1
   },
   "breaks": [
     {
@@ -34,7 +34,79 @@
       "post_rate": 0.2,
       "delta": 0.0,
       "pressing": true
+    },
+    {
+      "opponent": "Qatar",
+      "half": 1,
+      "match_label": "Canada v Qatar",
+      "pre_rate": 0.5,
+      "post_rate": 0.2,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Qatar",
+      "half": 2,
+      "match_label": "Canada v Qatar",
+      "pre_rate": 0.3,
+      "post_rate": 1.0,
+      "delta": 0.7,
+      "pressing": true
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 1,
+      "match_label": "Switzerland v Canada",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Switzerland",
+      "half": 2,
+      "match_label": "Switzerland v Canada",
+      "pre_rate": 0.5,
+      "post_rate": 0.2,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "South Africa",
+      "half": 1,
+      "match_label": "South Africa v Canada",
+      "pre_rate": 0.3,
+      "post_rate": 0.1,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "South Africa",
+      "half": 2,
+      "match_label": "South Africa v Canada",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Morocco",
+      "half": 1,
+      "match_label": "Canada v Morocco",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Morocco",
+      "half": 2,
+      "match_label": "Canada v Morocco",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
     }
   ],
-  "insight": "Canada seems to have benefited from hydration breaks in the 2026 World Cup, as they gained momentum in both of their breaks, with a mean increase of 0.150 points per minute. This suggests that the team is able to use the breaks to regroup and refocus, coming out stronger afterwards. Notably, when Canada was pressing before a hydration break, they were able to maintain their momentum after the break, which happened in both instances where they were pressing. Overall, the data indicates that hydration breaks have been a positive factor for Canada, allowing them to build on their existing momentum and potentially change the course of a match in their favor."
+  "insight": "For Canada, hydration breaks in the 2026 World Cup have been a mixed bag, with the team gaining momentum in half of the 10 breaks they've had, resulting in a slight increase in their overall pace. When Canada was pressing before a break, they tended to lose their momentum, with their pace remaining relatively unchanged, and they were only able to maintain their momentum three out of eight times. However, when they weren't pressing before a break, they seemed to regroup and refocus, as evidenced by a significant increase in their pace, with an average change of +0.100 minutes per minute. This suggests that Canada may benefit from taking a step back and reassessing their strategy during breaks, rather than trying to maintain a high-intensity press, in order to come out stronger after the pause in play."
 }

@@ -2,19 +2,19 @@
   "team": "South Africa",
   "slug": "south-africa",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
+    "total_breaks": 8,
+    "gained": 4,
+    "lost": 4,
+    "mean_delta": -0.0375,
     "verdict": "neutral",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "pressing_n": 2,
+    "pressing_mean": -0.2,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": -0.05,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.0,
-    "half2_mean": -0.1
+    "nonpressing_n": 6,
+    "nonpressing_mean": 0.0167,
+    "nonpressing_gained": 4,
+    "half1_mean": -0.075,
+    "half2_mean": 0.0
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.0,
       "delta": -0.1,
       "pressing": false
+    },
+    {
+      "opponent": "Czechia",
+      "half": 1,
+      "match_label": "Czechia v South Africa",
+      "pre_rate": 0.2,
+      "post_rate": 0.0,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Czechia",
+      "half": 2,
+      "match_label": "Czechia v South Africa",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "South Korea",
+      "half": 1,
+      "match_label": "South Africa v South Korea",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "South Korea",
+      "half": 2,
+      "match_label": "South Africa v South Korea",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Canada",
+      "half": 1,
+      "match_label": "South Africa v Canada",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Canada",
+      "half": 2,
+      "match_label": "South Africa v Canada",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "In the FIFA World Cup 2026, South Africa's performance during hydration breaks has been a mixed bag, with the team managing to gain momentum in only half of the breaks they've had, resulting in a slight decline in momentum at a rate of -0.050 per minute. This suggests that the breaks have not significantly boosted their performance, and instead, have led to a minor loss of steam. When South Africa wasn't pressing before the breaks, they had a similar decline in momentum, with an average change of -0.050 per minute, indicating that the breaks didn't provide the team with a significant advantage in terms of regaining their footing. Overall, the hydration breaks have had a neutral to slightly negative impact on South Africa's performance, failing to provide the team with a substantial boost in momentum."
+  "insight": ""
 }

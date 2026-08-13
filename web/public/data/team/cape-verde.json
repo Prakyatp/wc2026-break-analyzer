@@ -2,19 +2,19 @@
   "team": "Cape Verde",
   "slug": "cape-verde",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
+    "total_breaks": 8,
+    "gained": 7,
+    "lost": 1,
     "mean_delta": 0.1,
     "verdict": "helped",
-    "pressing_n": 0,
-    "pressing_mean": 0,
-    "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.1,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.2,
-    "half2_mean": 0.0
+    "pressing_n": 2,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 6,
+    "nonpressing_mean": 0.1333,
+    "nonpressing_gained": 6,
+    "half1_mean": 0.025,
+    "half2_mean": 0.175
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.0,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Uruguay",
+      "half": 1,
+      "match_label": "Uruguay v Cape Verde",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Uruguay",
+      "half": 2,
+      "match_label": "Uruguay v Cape Verde",
+      "pre_rate": 0.2,
+      "post_rate": 0.3,
+      "delta": 0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Saudi Arabia",
+      "half": 1,
+      "match_label": "Cape Verde v Saudi Arabia",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Saudi Arabia",
+      "half": 2,
+      "match_label": "Cape Verde v Saudi Arabia",
+      "pre_rate": 0.0,
+      "post_rate": 0.5,
+      "delta": 0.5,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 1,
+      "match_label": "Argentina v Cape Verde",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Argentina",
+      "half": 2,
+      "match_label": "Argentina v Cape Verde",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "Cape Verde seems to benefit from hydration breaks in the 2026 World Cup, as they gained momentum in both of their breaks, with a mean increase of 0.100 points per minute. This suggests that the team is able to regroup and refocus during these pauses, allowing them to come back stronger and more energized. The fact that they maintained this momentum in both instances when not pressing before the break indicates that Cape Verde is able to capitalize on the brief respite to adjust their strategy and push forward. Overall, the hydration breaks appear to be a positive factor for Cape Verde, providing them with a much-needed boost to drive their performance forward."
+  "insight": "For Cape Verde, hydration breaks in the 2026 World Cup have been a crucial factor in shifting the team's momentum, with 7 out of 8 breaks resulting in a gain of momentum, averaging an increase of 0.100 points per minute. This suggests that the team is able to regroup and refocus during these breaks, leading to improved performance on the field. Notably, when Cape Verde was not pressing before a hydration break, they tended to gain more momentum afterwards, with an average increase of 0.133 points per minute, indicating that the breaks allowed them to recharge and come back stronger. In contrast, when they were pressing before a break, the team's momentum remained relatively stagnant, highlighting the importance of strategic break timing for Cape Verde's overall success."
 }

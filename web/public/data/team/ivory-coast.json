@@ -2,19 +2,19 @@
   "team": "Ivory Coast",
   "slug": "ivory-coast",
   "stats": {
-    "total_breaks": 2,
-    "gained": 0,
-    "lost": 2,
-    "mean_delta": -0.15,
-    "verdict": "hurt",
-    "pressing_n": 2,
-    "pressing_mean": -0.15,
-    "pressing_kept": 0,
-    "nonpressing_n": 0,
-    "nonpressing_mean": 0,
-    "nonpressing_gained": 0,
-    "half1_mean": -0.1,
-    "half2_mean": -0.2
+    "total_breaks": 8,
+    "gained": 4,
+    "lost": 4,
+    "mean_delta": 0.025,
+    "verdict": "neutral",
+    "pressing_n": 5,
+    "pressing_mean": -0.04,
+    "pressing_kept": 1,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.1333,
+    "nonpressing_gained": 3,
+    "half1_mean": 0.125,
+    "half2_mean": -0.075
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.0,
       "delta": -0.2,
       "pressing": true
+    },
+    {
+      "opponent": "Germany",
+      "half": 1,
+      "match_label": "Germany v Ivory Coast",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Germany",
+      "half": 2,
+      "match_label": "Germany v Ivory Coast",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Cura\u00e7ao",
+      "half": 1,
+      "match_label": "Cura\u00e7ao v Ivory Coast",
+      "pre_rate": 0.2,
+      "post_rate": 0.1,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Cura\u00e7ao",
+      "half": 2,
+      "match_label": "Cura\u00e7ao v Ivory Coast",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Norway",
+      "half": 1,
+      "match_label": "Ivory Coast v Norway",
+      "pre_rate": 0.2,
+      "post_rate": 0.7,
+      "delta": 0.5,
+      "pressing": true
+    },
+    {
+      "opponent": "Norway",
+      "half": 2,
+      "match_label": "Ivory Coast v Norway",
+      "pre_rate": 0.4,
+      "post_rate": 0.1,
+      "delta": -0.3,
+      "pressing": true
     }
   ],
-  "insight": "Ivory Coast's performance during hydration breaks in the 2026 World Cup has been underwhelming, with the team failing to gain momentum in either of their two breaks, resulting in a negative average change of -0.150 minutes. This suggests that the breaks have actually hindered their progress, rather than providing an opportunity to regroup and refocus. Specifically, when Ivory Coast was pressing before a break, they still struggled to maintain their momentum afterwards, with an average change of -0.150 minutes, indicating that their aggressive play did not translate to success after the pause. Overall, the data implies that Ivory Coast needs to reassess their strategy during hydration breaks to turn these pauses into opportunities to regain their footing and push forward."
+  "insight": ""
 }

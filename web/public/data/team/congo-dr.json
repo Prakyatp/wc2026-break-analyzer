@@ -2,19 +2,19 @@
   "team": "Congo DR",
   "slug": "congo-dr",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.0,
+    "total_breaks": 8,
+    "gained": 7,
+    "lost": 1,
+    "mean_delta": 0.05,
     "verdict": "neutral",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "pressing_n": 1,
+    "pressing_mean": -0.3,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.0,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.0,
-    "half2_mean": 0.0
+    "nonpressing_n": 7,
+    "nonpressing_mean": 0.1,
+    "nonpressing_gained": 7,
+    "half1_mean": 0.075,
+    "half2_mean": 0.025
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.1,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Colombia",
+      "half": 1,
+      "match_label": "Colombia v Congo DR",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Colombia",
+      "half": 2,
+      "match_label": "Colombia v Congo DR",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Uzbekistan",
+      "half": 1,
+      "match_label": "Congo DR v Uzbekistan",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Uzbekistan",
+      "half": 2,
+      "match_label": "Congo DR v Uzbekistan",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "England",
+      "half": 1,
+      "match_label": "England v Congo DR",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "England",
+      "half": 2,
+      "match_label": "England v Congo DR",
+      "pre_rate": 0.4,
+      "post_rate": 0.1,
+      "delta": -0.3,
+      "pressing": true
     }
   ],
-  "insight": "The hydration breaks in the 2026 World Cup seem to have a neutral effect on Congo DR's momentum, as indicated by the mean change of +0.000 per minute across two breaks. This suggests that the team's performance remains relatively consistent before and after the breaks, with no significant gain or loss of momentum. When Congo DR is not pressing before a hydration break, they tend to maintain their momentum, as seen in the two instances where they did not press and still managed to keep their pace steady with an average change of +0.000 per minute. Overall, the statistics imply that Congo DR's strategy and performance are not heavily influenced by the hydration breaks, allowing them to sustain their energy levels throughout the match."
+  "insight": "The hydration break statistics for Congo DR in the 2026 World Cup reveal a notable trend, as the team tends to gain momentum after these breaks, with a positive change in momentum in 7 out of 8 instances. On average, Congo DR's momentum increases by 0.050 per minute after a hydration break, indicating that these pauses seem to have a rejuvenating effect on the team. However, when Congo DR is pressing before a hydration break, which only happened once, their momentum actually decreases, suggesting that the team may struggle to maintain their intensity during these periods. In contrast, when they are not pressing before a break, they tend to maintain or slightly increase their momentum, with an average increase of 0.100 per minute, highlighting the importance of strategic breaks in their overall performance."
 }

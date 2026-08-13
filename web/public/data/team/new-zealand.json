@@ -2,19 +2,19 @@
   "team": "New Zealand",
   "slug": "new-zealand",
   "stats": {
-    "total_breaks": 2,
-    "gained": 1,
-    "lost": 1,
-    "mean_delta": -0.05,
+    "total_breaks": 6,
+    "gained": 3,
+    "lost": 3,
+    "mean_delta": -0.0333,
     "verdict": "neutral",
-    "pressing_n": 1,
-    "pressing_mean": -0.2,
-    "pressing_kept": 0,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.1,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.1,
-    "half2_mean": -0.2
+    "pressing_n": 3,
+    "pressing_mean": -0.1,
+    "pressing_kept": 1,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.0333,
+    "nonpressing_gained": 2,
+    "half1_mean": 0.0,
+    "half2_mean": -0.0667
   },
   "breaks": [
     {
@@ -34,7 +34,43 @@
       "post_rate": 0.0,
       "delta": -0.2,
       "pressing": true
+    },
+    {
+      "opponent": "Egypt",
+      "half": 1,
+      "match_label": "New Zealand v Egypt",
+      "pre_rate": 0.4,
+      "post_rate": 0.2,
+      "delta": -0.2,
+      "pressing": true
+    },
+    {
+      "opponent": "Egypt",
+      "half": 2,
+      "match_label": "New Zealand v Egypt",
+      "pre_rate": 0.1,
+      "post_rate": 0.0,
+      "delta": -0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Belgium",
+      "half": 1,
+      "match_label": "New Zealand v Belgium",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Belgium",
+      "half": 2,
+      "match_label": "New Zealand v Belgium",
+      "pre_rate": 0.2,
+      "post_rate": 0.3,
+      "delta": 0.1,
+      "pressing": true
     }
   ],
-  "insight": "For New Zealand in the 2026 World Cup, hydration breaks have had a mixed impact on their game momentum. On average, they tend to lose a bit of momentum after a break, with their performance declining by 0.050 minutes. However, the numbers suggest that when they're not pressing before a break, they're able to regain some momentum afterwards, with their performance actually improving by 0.100 minutes on average. In contrast, when they are pressing before a break, they tend to lose more momentum, with their performance declining by 0.200 minutes, indicating that breaks can disrupt their attacking rhythm and hinder their ability to maintain pressure on their opponents."
+  "insight": ""
 }

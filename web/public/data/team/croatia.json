@@ -1,0 +1,94 @@
+{
+  "team": "Croatia",
+  "slug": "croatia",
+  "stats": {
+    "total_breaks": 8,
+    "gained": 8,
+    "lost": 0,
+    "mean_delta": 0.125,
+    "verdict": "helped",
+    "pressing_n": 1,
+    "pressing_mean": 0.0,
+    "pressing_kept": 1,
+    "nonpressing_n": 7,
+    "nonpressing_mean": 0.1429,
+    "nonpressing_gained": 7,
+    "half1_mean": 0.025,
+    "half2_mean": 0.225
+  },
+  "breaks": [
+    {
+      "opponent": "England",
+      "half": 1,
+      "match_label": "England v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "England",
+      "half": 2,
+      "match_label": "England v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.3,
+      "delta": 0.3,
+      "pressing": false
+    },
+    {
+      "opponent": "Panama",
+      "half": 1,
+      "match_label": "Panama v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Panama",
+      "half": 2,
+      "match_label": "Panama v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Ghana",
+      "half": 1,
+      "match_label": "Croatia v Ghana",
+      "pre_rate": 0.2,
+      "post_rate": 0.2,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Ghana",
+      "half": 2,
+      "match_label": "Croatia v Ghana",
+      "pre_rate": 0.0,
+      "post_rate": 0.0,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Portugal",
+      "half": 1,
+      "match_label": "Portugal v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Portugal",
+      "half": 2,
+      "match_label": "Portugal v Croatia",
+      "pre_rate": 0.0,
+      "post_rate": 0.6,
+      "delta": 0.6,
+      "pressing": false
+    }
+  ],
+  "insight": "Croatia's performance during hydration breaks in the 2026 World Cup has been notable, as they managed to gain momentum in all 8 breaks, with a mean increase of 0.125 minutes per break. This suggests that the team is able to use these breaks to regroup and refocus, ultimately coming out stronger after the pause in play. Interestingly, when Croatia was pressing before a hydration break, they neither gained nor lost momentum, but when they were not pressing, they tended to gain more momentum, with an average increase of 0.143 minutes per break, indicating that the breaks may be particularly beneficial for the team when they are not already dominating possession. Overall, the data implies that hydration breaks have a positive impact on Croatia's performance, allowing them to recharge and potentially shift the momentum of the match in their favor."
+}

@@ -2,19 +2,19 @@
   "team": "T\u00fcrkiye",
   "slug": "t-rkiye",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
+    "total_breaks": 7,
+    "gained": 6,
+    "lost": 1,
     "mean_delta": 0.1,
     "verdict": "helped",
-    "pressing_n": 1,
-    "pressing_mean": 0.0,
-    "pressing_kept": 1,
-    "nonpressing_n": 1,
-    "nonpressing_mean": 0.2,
-    "nonpressing_gained": 1,
-    "half1_mean": 0.2,
-    "half2_mean": 0.0
+    "pressing_n": 4,
+    "pressing_mean": 0.05,
+    "pressing_kept": 3,
+    "nonpressing_n": 3,
+    "nonpressing_mean": 0.1667,
+    "nonpressing_gained": 3,
+    "half1_mean": 0.1,
+    "half2_mean": 0.1
   },
   "breaks": [
     {
@@ -34,7 +34,52 @@
       "post_rate": 0.5,
       "delta": 0.0,
       "pressing": true
+    },
+    {
+      "opponent": "Paraguay",
+      "half": 1,
+      "match_label": "T\u00fcrkiye v Paraguay",
+      "pre_rate": 0.5,
+      "post_rate": 0.4,
+      "delta": -0.1,
+      "pressing": true
+    },
+    {
+      "opponent": "Paraguay",
+      "half": 2,
+      "match_label": "T\u00fcrkiye v Paraguay",
+      "pre_rate": 0.6,
+      "post_rate": 0.6,
+      "delta": 0.0,
+      "pressing": true
+    },
+    {
+      "opponent": "Paraguay",
+      "half": 2,
+      "match_label": "T\u00fcrkiye v Paraguay",
+      "pre_rate": 0.5,
+      "post_rate": 0.8,
+      "delta": 0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "United States",
+      "half": 1,
+      "match_label": "T\u00fcrkiye v United States",
+      "pre_rate": 0.0,
+      "post_rate": 0.2,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "United States",
+      "half": 2,
+      "match_label": "T\u00fcrkiye v United States",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
     }
   ],
-  "insight": "T\u00fcrkiye seems to benefit from hydration breaks in the 2026 World Cup, as they gained momentum in both of their breaks, with a mean increase of 0.100 points per minute. This suggests that the team is able to regroup and refocus during these stops, leading to improved performance on the field. Notably, when T\u00fcrkiye was not pressing before a break, they saw a significant increase in momentum, with an average change of +0.200 points per minute, indicating that the break allowed them to recharge and come out stronger. Overall, the data implies that hydration breaks are a strategic advantage for T\u00fcrkiye, enabling them to shift the pace of the game in their favor."
+  "insight": ""
 }

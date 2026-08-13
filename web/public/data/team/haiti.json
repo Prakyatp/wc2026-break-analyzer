@@ -2,19 +2,19 @@
   "team": "Haiti",
   "slug": "haiti",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.5,
+    "total_breaks": 6,
+    "gained": 5,
+    "lost": 1,
+    "mean_delta": 0.1333,
     "verdict": "helped",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "pressing_n": 1,
+    "pressing_mean": -0.4,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.5,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.4,
-    "half2_mean": 0.6
+    "nonpressing_n": 5,
+    "nonpressing_mean": 0.24,
+    "nonpressing_gained": 5,
+    "half1_mean": 0.2,
+    "half2_mean": 0.0667
   },
   "breaks": [
     {
@@ -34,7 +34,43 @@
       "post_rate": 0.6,
       "delta": 0.6,
       "pressing": false
+    },
+    {
+      "opponent": "Brazil",
+      "half": 1,
+      "match_label": "Brazil v Haiti",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Brazil",
+      "half": 2,
+      "match_label": "Brazil v Haiti",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Morocco",
+      "half": 1,
+      "match_label": "Morocco v Haiti",
+      "pre_rate": 0.0,
+      "post_rate": 0.1,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Morocco",
+      "half": 2,
+      "match_label": "Morocco v Haiti",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
     }
   ],
-  "insight": "In the FIFA World Cup 2026, Haiti's performance has shown a notable trend during hydration breaks, with the team gaining momentum in both of their breaks, resulting in a mean increase of 0.500 minutes per break. This suggests that the breaks have had a positive impact on Haiti's gameplay, allowing them to regain energy and come back stronger. The data also indicates that when Haiti was not pressing before a hydration break, they were able to maintain their momentum after the break, with an average increase of 0.500 minutes per break, which could be a strategic advantage for the team. Overall, the hydration breaks seem to be giving Haiti a boost, helping them to stay competitive in their matches."
+  "insight": "For Haiti, hydration breaks in the 2026 World Cup have been a welcome opportunity to regain momentum, with the team managing to gain momentum in 5 out of 6 breaks, resulting in a positive change of +0.133 minutes on average. This suggests that the breaks have allowed Haiti to recharge and come back stronger, which is particularly notable when they are not pressing before the break, as they have been able to maintain a positive momentum in these situations. In contrast, when Haiti was pressing before a break, they lost momentum, with a significant average decline of -0.400 minutes, indicating that they may have been exhausting themselves before the break. Overall, the data suggests that Haiti benefits from hydration breaks, especially when they are not expending extra energy before the break."
 }

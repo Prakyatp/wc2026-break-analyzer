@@ -2,50 +2,50 @@
   {
     "team": "Algeria",
     "slug": "algeria",
-    "verdict": "hurt",
-    "mean_delta": -0.1
+    "verdict": "helped",
+    "mean_delta": 0.0625
   },
   {
     "team": "Argentina",
     "slug": "argentina",
-    "verdict": "hurt",
-    "mean_delta": -0.15
+    "verdict": "neutral",
+    "mean_delta": -0.0313
   },
   {
     "team": "Australia",
     "slug": "australia",
-    "verdict": "neutral",
-    "mean_delta": 0.05
+    "verdict": "hurt",
+    "mean_delta": -0.1
   },
   {
     "team": "Austria",
     "slug": "austria",
-    "verdict": "neutral",
-    "mean_delta": -0.05
+    "verdict": "hurt",
+    "mean_delta": -0.0625
   },
   {
     "team": "Belgium",
     "slug": "belgium",
-    "verdict": "neutral",
-    "mean_delta": -0.05
+    "verdict": "hurt",
+    "mean_delta": -0.1417
   },
   {
     "team": "Bosnia-Herzegovina",
     "slug": "bosnia-herzegovina",
-    "verdict": "hurt",
-    "mean_delta": -0.1
+    "verdict": "neutral",
+    "mean_delta": 0.025
   },
   {
     "team": "Brazil",
     "slug": "brazil",
     "verdict": "hurt",
-    "mean_delta": -0.1
+    "mean_delta": -0.08
   },
   {
     "team": "Canada",
     "slug": "canada",
-    "verdict": "helped",
-    "mean_delta": 0.15
+    "verdict": "neutral",
+    "mean_delta": 0.02
   },
   {
     "team": "Cape Verde",
@@ -54,58 +54,82 @@
     "mean_delta": 0.1
   },
   {
+    "team": "Colombia",
+    "slug": "colombia",
+    "verdict": "hurt",
+    "mean_delta": -0.21
+  },
+  {
     "team": "Congo DR",
     "slug": "congo-dr",
     "verdict": "neutral",
-    "mean_delta": 0.0
+    "mean_delta": 0.05
+  },
+  {
+    "team": "Croatia",
+    "slug": "croatia",
+    "verdict": "helped",
+    "mean_delta": 0.125
   },
   {
     "team": "Cura\u00e7ao",
     "slug": "cura-ao",
     "verdict": "neutral",
-    "mean_delta": -0.05
+    "mean_delta": 0.0167
   },
   {
     "team": "Czechia",
     "slug": "czechia",
     "verdict": "hurt",
-    "mean_delta": -0.15
+    "mean_delta": -0.1333
   },
   {
     "team": "Ecuador",
     "slug": "ecuador",
-    "verdict": "neutral",
-    "mean_delta": 0.0
+    "verdict": "hurt",
+    "mean_delta": -0.0625
   },
   {
     "team": "Egypt",
     "slug": "egypt",
-    "verdict": "neutral",
-    "mean_delta": -0.05
+    "verdict": "hurt",
+    "mean_delta": -0.11
+  },
+  {
+    "team": "England",
+    "slug": "england",
+    "verdict": "hurt",
+    "mean_delta": -0.0688
   },
   {
     "team": "France",
     "slug": "france",
-    "verdict": "neutral",
-    "mean_delta": -0.05
+    "verdict": "hurt",
+    "mean_delta": -0.0867
   },
   {
     "team": "Germany",
     "slug": "germany",
-    "verdict": "helped",
-    "mean_delta": 0.25
+    "verdict": "neutral",
+    "mean_delta": 0.0
+  },
+  {
+    "team": "Ghana",
+    "slug": "ghana",
+    "verdict": "neutral",
+    "mean_delta": -0.0125
   },
   {
     "team": "Haiti",
     "slug": "haiti",
     "verdict": "helped",
-    "mean_delta": 0.5
+    "mean_delta": 0.1333
   },
   {
     "team": "Iran",
     "slug": "iran",
-    "verdict": "helped",
-    "mean_delta": 0.2
+    "verdict": "neutral",
+    "mean_delta": 0.05
   },
   {
     "team": "Iraq",
@@ -116,68 +140,74 @@
   {
     "team": "Ivory Coast",
     "slug": "ivory-coast",
-    "verdict": "hurt",
-    "mean_delta": -0.15
+    "verdict": "neutral",
+    "mean_delta": 0.025
   },
   {
     "team": "Japan",
     "slug": "japan",
     "verdict": "neutral",
-    "mean_delta": 0.0
+    "mean_delta": -0.0375
   },
   {
     "team": "Jordan",
     "slug": "jordan",
-    "verdict": "hurt",
-    "mean_delta": -0.15
+    "verdict": "neutral",
+    "mean_delta": -0.0167
   },
   {
     "team": "Mexico",
     "slug": "mexico",
     "verdict": "neutral",
-    "mean_delta": -0.05
+    "mean_delta": -0.03
   },
   {
     "team": "Morocco",
     "slug": "morocco",
-    "verdict": "helped",
-    "mean_delta": 0.25
+    "verdict": "neutral",
+    "mean_delta": -0.0083
   },
   {
     "team": "Netherlands",
     "slug": "netherlands",
-    "verdict": "helped",
-    "mean_delta": 0.3
+    "verdict": "neutral",
+    "mean_delta": 0.0375
   },
   {
     "team": "New Zealand",
     "slug": "new-zealand",
     "verdict": "neutral",
-    "mean_delta": -0.05
+    "mean_delta": -0.0333
   },
   {
     "team": "Norway",
     "slug": "norway",
-    "verdict": "helped",
-    "mean_delta": 0.15
+    "verdict": "neutral",
+    "mean_delta": 0.05
+  },
+  {
+    "team": "Panama",
+    "slug": "panama",
+    "verdict": "neutral",
+    "mean_delta": 0.0333
   },
   {
     "team": "Paraguay",
     "slug": "paraguay",
     "verdict": "neutral",
-    "mean_delta": 0.0
+    "mean_delta": -0.0091
   },
   {
     "team": "Portugal",
     "slug": "portugal",
-    "verdict": "helped",
-    "mean_delta": 0.1
+    "verdict": "neutral",
+    "mean_delta": 0.02
   },
   {
     "team": "Qatar",
     "slug": "qatar",
-    "verdict": "helped",
-    "mean_delta": 0.15
+    "verdict": "neutral",
+    "mean_delta": 0.0333
   },
   {
     "team": "Saudi Arabia",
@@ -189,49 +219,49 @@
     "team": "Scotland",
     "slug": "scotland",
     "verdict": "helped",
-    "mean_delta": 0.1
+    "mean_delta": 0.1333
   },
   {
     "team": "Senegal",
     "slug": "senegal",
     "verdict": "neutral",
-    "mean_delta": -0.05
+    "mean_delta": -0.0125
   },
   {
     "team": "South Africa",
     "slug": "south-africa",
     "verdict": "neutral",
-    "mean_delta": -0.05
+    "mean_delta": -0.0375
   },
   {
     "team": "South Korea",
     "slug": "south-korea",
-    "verdict": "hurt",
-    "mean_delta": -0.2
+    "verdict": "neutral",
+    "mean_delta": -0.0333
   },
   {
     "team": "Spain",
     "slug": "spain",
-    "verdict": "neutral",
-    "mean_delta": 0.0
+    "verdict": "hurt",
+    "mean_delta": -0.0563
   },
   {
     "team": "Sweden",
     "slug": "sweden",
     "verdict": "helped",
-    "mean_delta": 0.1
+    "mean_delta": 0.075
   },
   {
     "team": "Switzerland",
     "slug": "switzerland",
     "verdict": "hurt",
-    "mean_delta": -0.1
+    "mean_delta": -0.0917
   },
   {
     "team": "Tunisia",
     "slug": "tunisia",
-    "verdict": "neutral",
-    "mean_delta": -0.05
+    "verdict": "helped",
+    "mean_delta": 0.0667
   },
   {
     "team": "T\u00fcrkiye",
@@ -242,13 +272,19 @@
   {
     "team": "United States",
     "slug": "united-states",
-    "verdict": "helped",
-    "mean_delta": 0.15
+    "verdict": "hurt",
+    "mean_delta": -0.07
   },
   {
     "team": "Uruguay",
     "slug": "uruguay",
-    "verdict": "hurt",
-    "mean_delta": -0.1
+    "verdict": "neutral",
+    "mean_delta": -0.05
+  },
+  {
+    "team": "Uzbekistan",
+    "slug": "uzbekistan",
+    "verdict": "neutral",
+    "mean_delta": -0.0333
   }
 ]

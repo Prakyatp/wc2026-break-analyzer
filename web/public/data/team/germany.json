@@ -2,19 +2,19 @@
   "team": "Germany",
   "slug": "germany",
   "stats": {
-    "total_breaks": 2,
-    "gained": 2,
-    "lost": 0,
-    "mean_delta": 0.25,
-    "verdict": "helped",
-    "pressing_n": 0,
-    "pressing_mean": 0,
+    "total_breaks": 8,
+    "gained": 5,
+    "lost": 3,
+    "mean_delta": 0.0,
+    "verdict": "neutral",
+    "pressing_n": 3,
+    "pressing_mean": -0.2667,
     "pressing_kept": 0,
-    "nonpressing_n": 2,
-    "nonpressing_mean": 0.25,
-    "nonpressing_gained": 2,
-    "half1_mean": 0.5,
-    "half2_mean": 0.0
+    "nonpressing_n": 5,
+    "nonpressing_mean": 0.16,
+    "nonpressing_gained": 5,
+    "half1_mean": 0.1,
+    "half2_mean": -0.1
   },
   "breaks": [
     {
@@ -34,7 +34,61 @@
       "post_rate": 0.1,
       "delta": 0.0,
       "pressing": false
+    },
+    {
+      "opponent": "Ivory Coast",
+      "half": 1,
+      "match_label": "Germany v Ivory Coast",
+      "pre_rate": 0.3,
+      "post_rate": 0.0,
+      "delta": -0.3,
+      "pressing": true
+    },
+    {
+      "opponent": "Ivory Coast",
+      "half": 2,
+      "match_label": "Germany v Ivory Coast",
+      "pre_rate": 0.4,
+      "post_rate": 0.0,
+      "delta": -0.4,
+      "pressing": true
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 1,
+      "match_label": "Ecuador v Germany",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
+    },
+    {
+      "opponent": "Ecuador",
+      "half": 2,
+      "match_label": "Ecuador v Germany",
+      "pre_rate": 0.1,
+      "post_rate": 0.2,
+      "delta": 0.1,
+      "pressing": false
+    },
+    {
+      "opponent": "Paraguay",
+      "half": 1,
+      "match_label": "Germany v Paraguay",
+      "pre_rate": 0.1,
+      "post_rate": 0.1,
+      "delta": 0.0,
+      "pressing": false
+    },
+    {
+      "opponent": "Paraguay",
+      "half": 2,
+      "match_label": "Germany v Paraguay",
+      "pre_rate": 0.3,
+      "post_rate": 0.2,
+      "delta": -0.1,
+      "pressing": true
     }
   ],
-  "insight": "Germany's performance in the 2026 World Cup has shown a notable trend when it comes to hydration breaks, with the team gaining momentum in both of their breaks so far. This momentum gain is reflected in a mean change of +0.250 minutes per break, indicating that the team is able to capitalize on the brief pause in play to refocus and come out stronger. Notably, in the instances where Germany was not pressing before the break, they were still able to maintain a positive change in momentum, suggesting that the breaks are providing a valuable opportunity for the team to regroup and adjust their strategy. Overall, the data suggests that hydration breaks are having a positive impact on Germany's performance, allowing them to recharge and come out with renewed energy and intensity."
+  "insight": "Germany's performance in the 2026 World Cup shows that hydration breaks have a notable impact on their gameplay. When they're not pressing before a break, they tend to gain momentum afterwards, with an average increase of 0.160 minutes per break, which can be a significant advantage in a tightly contested match. In contrast, when Germany is pressing before a break, they tend to lose momentum, with an average decrease of 0.267 minutes per break, which can be a crucial loss of intensity. Overall, these statistics suggest that Germany benefits from taking a more relaxed approach before hydration breaks, as it allows them to refocus and come back stronger, whereas intense pressing before a break can disrupt their rhythm."
 }
