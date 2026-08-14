@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the first hydration break, Ivory Coast's attacking momentum increased significantly, with a 50% rise in actions per minute, indicating they were able to regain their footing and push forward more aggressively after the pause. In contrast, Norway's attacking momentum slightly decreased, suggesting they struggled to regain their rhythm after the break. At the second hydration break, Ivory Coast's momentum slowed down, but they still maintained a higher level of activity than Norway, who again experienced a slight decrease. Overall, Ivory Coast seemed to benefit more from the hydration breaks, as they were able to capitalize on the pauses to boost their attacking momentum, particularly in the first half.",
+  "insight": "During the first hydration break, Ivory Coast's attacking momentum increased significantly, with their actions per minute rising by 0.50, indicating a surge in their offensive pressure. In contrast, Norway's attacking momentum slightly decreased, with their actions per minute dropping by 0.10, suggesting they struggled to regain their footing after the break. At the second hydration break, both teams experienced a decline in attacking momentum, but Ivory Coast's drop was more pronounced, with their actions per minute decreasing by 0.30, while Norway's decrease was relatively consistent at 0.10. Overall, Ivory Coast benefited more from the first hydration break, but Norway's more consistent momentum after the breaks may have helped them stay in the game.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

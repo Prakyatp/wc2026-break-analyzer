@@ -246,12 +246,6 @@
     "label": "Argentina vs Austria"
   },
   {
-    "event_id": 760457,
-    "home": "France",
-    "away": "Iraq",
-    "label": "France vs Iraq"
-  },
-  {
     "event_id": 760454,
     "home": "Norway",
     "away": "Senegal",
@@ -622,5 +616,11 @@
     "home": "Spain",
     "away": "Argentina",
     "label": "Spain vs Argentina"
+  },
+  {
+    "event_id": 760457,
+    "home": "France",
+    "away": "Iraq",
+    "label": "France vs Iraq"
   }
 ]

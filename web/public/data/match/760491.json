@@ -125,7 +125,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the match between Mexico and Ecuador, the hydration breaks seemed to have different effects on each team's attacking momentum. For Mexico, the first break didn't significantly impact their attack, but the second break led to a noticeable decline, with their actions per minute decreasing by 0.40, indicating a loss of momentum. In contrast, Ecuador's attacking momentum remained relatively stable at the first break, and they even experienced a slight increase after the second break, with their actions per minute rising by 0.10. Overall, Ecuador appeared to benefit more from the hydration breaks, as they were able to maintain or slightly increase their attacking pace, while Mexico's momentum was disrupted, particularly after the second break.",
+  "insight": "During the match between Mexico and Ecuador, Mexico's attacking momentum slowed down significantly after both hydration breaks, with a decrease of 0.10 actions per minute after the first break and a more substantial decrease of 0.40 actions per minute after the second break. In contrast, Ecuador's attacking momentum remained relatively stable after the first break, but they actually gained momentum after the second break, with an increase of 0.10 actions per minute. Overall, Ecuador seemed to benefit more from the hydration breaks in terms of maintaining and even gaining attacking momentum, which could have given them an edge in the match. This shift in momentum may have allowed Ecuador to stay competitive and potentially capitalize on Mexico's decreased attacking output after the breaks.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -125,7 +125,7 @@
       "away_delta": -0.4
     }
   ],
-  "insight": "During the match between Tunisia and Netherlands, the hydration breaks had a noticeable impact on the teams' attacking momentum. For Tunisia, the first hydration break seemed to have little effect, with their attacking actions increasing only slightly, while the second break led to a more significant increase in their attacking pace. In contrast, the Netherlands experienced a substantial surge in attacking actions after the first hydration break, but their momentum was halted after the second break, with their attacking actions actually decreasing. Overall, the Netherlands benefited more from the hydration breaks in terms of initial attacking momentum, but Tunisia's more consistent increase in pace after the breaks may have helped them maintain a stronger challenge throughout the match.",
+  "insight": "During the match between Tunisia and Netherlands, the hydration breaks had a notable impact on the teams' attacking momentum. For Tunisia, the first hydration break seemed to have little effect, with their actions per minute increasing by only 0.10, but the second break appeared to give them a slight boost, with an increase of 0.20 actions per minute. In contrast, the Netherlands experienced a significant surge in attacking momentum after the first hydration break, with a 0.40 increase in actions per minute, but their momentum dropped sharply after the second break, with a decrease of 0.40 actions per minute. Overall, the Netherlands benefited more from the hydration breaks in terms of initial momentum gain, but Tunisia's more consistent improvement after the second break may have helped them stay competitive in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

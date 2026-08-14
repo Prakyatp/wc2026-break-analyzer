@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between France and Senegal, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, France's attacking actions decreased from 3 to 0, indicating a loss of momentum with a drop of 0.30 actions per minute, while Senegal's decrease from 2 to 1 was less severe with a drop of 0.10 actions per minute. In contrast, at the second break, France regained their attacking momentum, increasing from 1 to 3 actions, with a notable increase of 0.20 actions per minute, whereas Senegal's actions remained steady with no change. Overall, France benefited more from the hydration breaks, as they were able to recover and increase their attacking momentum in the second half, potentially giving them an edge in the match.",
+  "insight": "During the France vs Senegal match, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, France's attack slowed down, going from 3 to 0 actions per minute with a decrease of 0.30 actions per minute, while Senegal's attack also decreased but to a lesser extent, going from 2 to 1 action with a decrease of 0.10 actions per minute. However, at the second break, France's attack picked up, going from 1 to 3 actions per minute with an increase of 0.20 actions per minute, whereas Senegal's attack remained stagnant, which suggests that France benefited more overall from the hydration breaks in terms of regaining their attacking momentum. Overall, France's ability to rebound from the first break and increase their attacking actions after the second break may have given them an edge in the match",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

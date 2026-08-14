@@ -125,7 +125,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between England and Argentina, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, England's attacking actions remained steady with a slight increase in rate, while Argentina's decreased, indicating a shift in momentum in England's favor. However, by the second break, the trend had reversed, with England's attacking rate slowing down and Argentina's maintaining a high level of intensity, albeit slightly decreased. Overall, Argentina seemed to benefit more from the hydration breaks, as they were able to sustain a higher level of attacking pressure throughout the match, despite a slight decrease in rate, and ultimately took the lead early on.",
+  "insight": "During the match between England and Argentina, the hydration breaks seemed to have a notable impact on the teams' attacking momentum. At the first break, England's attacking actions remained steady with a slight increase in rate, while Argentina's decreased, indicating that England may have gained a slight advantage in terms of momentum. However, at the second break, both teams experienced a decrease in their attacking action rates, suggesting a possible shift in strategy or fatigue. Overall, England may have benefited more from the hydration breaks, as they were able to maintain or slightly increase their attacking momentum at the first break, whereas Argentina's momentum decreased at both breaks.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

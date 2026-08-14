@@ -135,7 +135,7 @@
       "away_delta": 0.6
     }
   ],
-  "insight": "During the match between Portugal and Croatia, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Portugal's attacking actions decreased slightly, going from 4 to 2, indicating a minor loss of momentum, while Croatia gained some momentum, increasing from 0 to 1 action. The second break had a more pronounced effect, with Croatia experiencing a significant surge in attacking actions, going from 0 to 6, which suggests they benefited more overall from the hydration breaks, whereas Portugal's attacking momentum continued to wane, going from 1 to 0 actions. Overall, Croatia seemed to capitalize on the breaks to regain energy and launch more attacks, potentially giving them an edge in the match.",
+  "insight": "During the match between Portugal and Croatia, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Portugal's attacking actions decreased slightly, with a drop of 0.20 actions per minute, while Croatia saw a minor increase of 0.10 actions per minute, indicating a slight shift in momentum in favor of Croatia. However, at the second break, the trend reversed, with Portugal's attacking actions remaining steady, but Croatia experiencing a significant surge, increasing their actions by 0.60 per minute, which suggests that Croatia benefited more overall from the hydration breaks, particularly in the latter part of the match. Overall, Croatia's ability to capitalize on the second hydration break gave them an edge, potentially influencing the outcome of the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -125,7 +125,7 @@
       "away_delta": -0.3
     }
   ],
-  "insight": "During the match between Paraguay and Australia, the hydration breaks had differing effects on each team's attacking momentum. For Paraguay, there was no change in actions per minute at either break, indicating that their attacking rhythm remained consistent. In contrast, Australia's attacking momentum decreased at both breaks, with a more significant drop at the second break, suggesting that the hydration stops disrupted their flow and created scoring opportunities for Paraguay. Overall, Paraguay likely benefited more from the hydration breaks, as they were able to maintain their attacking pace while Australia's momentum was hindered, potentially giving Paraguay an edge in the match.",
+  "insight": "During the match between Paraguay and Australia, the hydration breaks had different effects on each team's attacking momentum. For Paraguay, there was no change in the number of actions taken after each break, indicating that their attacking rhythm remained consistent. In contrast, Australia's attacking momentum slowed down after each break, with a slight decrease after the first break and a more significant decrease after the second break, suggesting that the hydration breaks disrupted their flow. Overall, Paraguay benefited more from the hydration breaks as they were able to maintain their attacking pace, while Australia's momentum was hindered, potentially giving Paraguay a slight advantage in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

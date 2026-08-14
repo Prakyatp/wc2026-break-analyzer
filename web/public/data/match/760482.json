@@ -130,7 +130,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the match between Congo DR and Uzbekistan, the hydration breaks had distinct impacts on each team's attacking momentum. Congo DR's attacking actions increased slightly after the first break, but significantly after the second break, indicating a surge in their offensive efforts, with their actions per minute rising by 0.20. In contrast, Uzbekistan's attacking momentum remained relatively stagnant after the first break and only saw a minor increase after the second break, with their actions per minute rising by just 0.10. Overall, Congo DR appeared to benefit more from the hydration breaks, as they were able to increase their attacking intensity, particularly after the second break, potentially gaining an advantage in the match.",
+  "insight": "During the match between Congo DR and Uzbekistan, the hydration breaks had distinct effects on each team's attacking momentum. For Congo DR, the first hydration break saw no change in their attacking actions, but after the second break, they significantly increased their attacking efforts, taking two more actions than before the break, indicating a surge in momentum. In contrast, Uzbekistan's attacking momentum remained relatively stagnant, with no change after the first break and only a slight increase after the second, suggesting they struggled to regain their footing after the pauses in play. Overall, Congo DR benefited more from the hydration breaks, as they were able to boost their attacking momentum, particularly after the second break, which could have potentially shifted the balance of the match in their favor.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

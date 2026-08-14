@@ -125,7 +125,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between the United States and Belgium, the hydration breaks had varying effects on each team's attacking momentum. At the first break, neither team saw a significant change in their attacking actions per minute, with both maintaining a steady pace. However, at the second break, the United States slightly decreased their attacking actions per minute, while Belgium's decrease was more pronounced, suggesting that the United States may have benefited more from the second hydration break in terms of maintaining their attacking momentum. Overall, the United States appears to have been less affected by the breaks, potentially giving them a slight advantage in the match.",
+  "insight": "During the match between the United States and Belgium, the hydration breaks had different effects on each team's attacking momentum. At the first break, neither team saw a change in their attacking actions per minute, indicating that the pause in play did not significantly impact their momentum. However, at the second break, the United States experienced a slight decrease in their attacking actions per minute, while Belgium saw a more significant drop, suggesting that the United States may have benefited more from the break in terms of maintaining their attacking momentum, albeit slightly. Overall, the United States seemed to adapt better to the hydration breaks, as their decrease in attacking actions per minute was less pronounced than Belgium's, potentially giving them a slight edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

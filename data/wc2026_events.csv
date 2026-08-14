@@ -4213,74 +4213,6 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760456,2026-06-22,Argentina,Austria,96.4,90'+7',2,Foul,Austria,0,0,1,0,Foul by Patrick Wimmer (Austria).
 760456,2026-06-22,Argentina,Austria,96.4,90'+7',2,Foul,Argentina,0,0,1,0,Lionel Messi (Argentina) wins a free kick in the attacking half.
 760456,2026-06-22,Argentina,Austria,97.4,90'+8',2,Shot Off Target,Argentina,0,0,0,0,"Attempt missed. Lionel Messi (Argentina) left footed shot from outside the box is close, but misses to the left from a direct free kick."
-760457,2026-06-22,France,Iraq,0.9,1',1,Shot Off Target,France,0,0,0,0,Attempt missed. Manu Koné (France) left footed shot from outside the box misses to the right.
-760457,2026-06-22,France,Iraq,2.4,3',1,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,2.4,3',1,Foul,France,0,0,1,0,Foul by Manu Koné (France).
-760457,2026-06-22,France,Iraq,5.7,6',1,Foul,Iraq,0,0,1,0,Foul by Amir Al Ammari (Iraq).
-760457,2026-06-22,France,Iraq,5.7,6',1,Foul,France,0,0,1,0,Kylian Mbappé (France) wins a free kick in the attacking half.
-760457,2026-06-22,France,Iraq,5.7,6',1,Yellow Card,Iraq,0,0,1,0,Amir Al Ammari (Iraq) is shown the yellow card for a bad foul.
-760457,2026-06-22,France,Iraq,6.7,7',1,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Zaid Tahseen."
-760457,2026-06-22,France,Iraq,7.7,8',1,Shot Blocked,France,1,0,0,0,Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked.
-760457,2026-06-22,France,Iraq,7.8,8',1,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) right footed shot from the right side of the box misses to the right.
-760457,2026-06-22,France,Iraq,13.2,14',1,Shot Blocked,France,1,0,0,0,Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked. Assisted by Kylian Mbappé.
-760457,2026-06-22,France,Iraq,13.5,14',1,Goal,Iraq,1,1,0,0,"Goal! France 1, Iraq 0. Kylian Mbappé (France) left footed shot from outside the box to the bottom left corner. Assisted by Michael Olise."
-760457,2026-06-22,France,Iraq,17.8,18',1,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,17.8,18',1,Foul,France,0,0,1,0,Foul by Adrien Rabiot (France).
-760457,2026-06-22,France,Iraq,22.1,23',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
-760457,2026-06-22,France,Iraq,24.9,25',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
-760457,2026-06-22,France,Iraq,25.4,26',1,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Ali Al Hamadi replaces Aymen Hussein because of an injury."
-760457,2026-06-22,France,Iraq,26.2,27',1,Shot Blocked,Iraq,1,0,0,0,Attempt blocked. Ali Al Hamadi (Iraq) left footed shot from outside the box is blocked. Assisted by Ahmed Qasem.
-760457,2026-06-22,France,Iraq,26.9,27',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Ali Al Hamadi (Iraq) header from the right side of the six yard box misses to the right. Assisted by Merchas Doski with a cross.
-760457,2026-06-22,France,Iraq,27.1,28',1,VAR - Referee decision cancelled,unknown,0,0,0,0,VAR Decision: Other Decision Cancelled.
-760457,2026-06-22,France,Iraq,29.4,30',1,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by Lucas Digne."
-760457,2026-06-22,France,Iraq,31.6,32',1,Shot Blocked,France,1,0,0,0,Attempt blocked. Kylian Mbappé (France) right footed shot from outside the box is blocked. Assisted by Ousmane Dembélé.
-760457,2026-06-22,France,Iraq,39.4,40',1,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) right footed shot from more than 35 yards is too high.
-760457,2026-06-22,France,Iraq,40.2,41',1,Foul,Iraq,0,0,1,0,Foul by Zidane Iqbal (Iraq).
-760457,2026-06-22,France,Iraq,40.2,41',1,Foul,France,0,0,1,0,Manu Koné (France) wins a free kick in the attacking half.
-760457,2026-06-22,France,Iraq,41.0,42',1,Foul,Iraq,0,0,1,0,Ahmed Qasem (Iraq) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,41.0,42',1,Foul,France,0,0,1,0,Foul by Lucas Digne (France).
-760457,2026-06-22,France,Iraq,41.7,42',1,Foul,Iraq,0,0,1,0,Ali Al Hamadi (Iraq) wins a free kick in the attacking half.
-760457,2026-06-22,France,Iraq,41.7,42',1,Foul,France,0,0,1,0,Foul by Adrien Rabiot (France).
-760457,2026-06-22,France,Iraq,44.1,45',1,Foul,Iraq,0,0,1,0,Ali Al Hamadi (Iraq) wins a free kick in the attacking half.
-760457,2026-06-22,France,Iraq,44.1,45',1,Foul,France,0,0,1,0,Foul by Manu Koné (France).
-760457,2026-06-22,France,Iraq,52.6,53',2,Shot Off Target,France,0,0,0,0,Attempt missed. Bradley Barcola (France) header from the centre of the box misses to the left. Assisted by Ousmane Dembélé with a cross.
-760457,2026-06-22,France,Iraq,53.7,54',2,Goal,Iraq,1,1,0,0,"Goal! France 2, Iraq 0. Kylian Mbappé (France) right footed shot from the centre of the box to the bottom right corner. Assisted by Ousmane Dembélé."
-760457,2026-06-22,France,Iraq,56.8,57',2,Foul,Iraq,0,0,1,0,Foul by Ibrahim Bayesh (Iraq).
-760457,2026-06-22,France,Iraq,56.8,57',2,Foul,France,0,0,1,0,Jules Koundé (France) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,57.5,58',2,Shot Hit Woodwork,France,1,0,0,0,Michael Olise (France) hits the bar with a left footed shot from the right side of the box. Assisted by Kylian Mbappé.
-760457,2026-06-22,France,Iraq,58.7,59',2,Shot On Target,France,0,0,0,0,Attempt saved. Ousmane Dembélé (France) right footed shot from the right side of the box is saved in the top left corner by Ahmed Basil (Iraq). Assist
-760457,2026-06-22,France,Iraq,58.7,59',2,Shot Off Target,France,0,0,0,0,"Attempt missed. Adrien Rabiot (France) header from the left side of the six yard box is close, but misses to the left."
-760457,2026-06-22,France,Iraq,59.2,60',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Rebin Sulaka replaces Zaid Tahseen."
-760457,2026-06-22,France,Iraq,59.3,60',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Youssef Amyn replaces Zaid Ismael."
-760457,2026-06-22,France,Iraq,61.1,62',2,Foul,Iraq,0,0,1,0,Zidane Iqbal (Iraq) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,61.1,62',2,Foul,France,0,0,1,0,Foul by Kylian Mbappé (France).
-760457,2026-06-22,France,Iraq,61.6,62',2,Foul,Iraq,0,0,1,0,Foul by Merchas Doski (Iraq).
-760457,2026-06-22,France,Iraq,61.6,62',2,Foul,France,0,0,1,0,Michael Olise (France) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,62.2,63',2,Foul,Iraq,0,0,1,0,Ali Al Hamadi (Iraq) wins a free kick in the defensive half.
-760457,2026-06-22,France,Iraq,62.2,63',2,Foul,France,0,0,1,0,Foul by Dayot Upamecano (France).
-760457,2026-06-22,France,Iraq,64.7,65',2,Shot Blocked,France,1,0,0,0,Attempt blocked. Ousmane Dembélé (France) left footed shot from outside the box is blocked. Assisted by Jules Koundé.
-760457,2026-06-22,France,Iraq,64.7,65',2,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Amir Al Ammari."
-760457,2026-06-22,France,Iraq,65.1,66',2,Shot Off Target,France,0,0,0,0,"Attempt missed. William Saliba (France) header from the centre of the box is close, but misses to the right. Assisted by Lucas Digne with a cross foll"
-760457,2026-06-22,France,Iraq,65.2,66',2,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Ibrahim Bayesh."
-760457,2026-06-22,France,Iraq,65.3,66',2,Shot Off Target,France,0,0,0,0,"Attempt missed. Ousmane Dembélé (France) right footed shot from the centre of the box is close, but misses to the right following a corner."
-760457,2026-06-22,France,Iraq,65.8,66',2,Goal,Iraq,1,1,0,0,"Goal! France 3, Iraq 0. Ousmane Dembélé (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Michael Olise wit"
-760457,2026-06-22,France,Iraq,67.0,68',2,Substitution,France,0,0,0,0,"Substitution, France. Désiré Doué replaces Ousmane Dembélé."
-760457,2026-06-22,France,Iraq,67.2,68',2,Substitution,France,0,0,0,0,"Substitution, France. Rayan Cherki replaces Michael Olise."
-760457,2026-06-22,France,Iraq,67.6,68',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Aimar Sher replaces Amir Al Ammari."
-760457,2026-06-22,France,Iraq,68.1,69',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Marko Farji replaces Ibrahim Bayesh."
-760457,2026-06-22,France,Iraq,72.7,73',2,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by Bradley Barcola."
-760457,2026-06-22,France,Iraq,73.4,74',2,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Rebin Sulaka (Iraq) right footed shot from the centre of the box is too high. Assisted by Zidane Iqbal with a cross following a corner
-760457,2026-06-22,France,Iraq,75.0,75',2,Shot Off Target,Iraq,0,0,0,0,"Attempt missed. Ali Al Hamadi (Iraq) right footed shot from very close range is close, but misses to the right. Assisted by Marko Farji with a cross."
-760457,2026-06-22,France,Iraq,79.7,80',2,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) right footed shot from the left side of the box misses to the left. Assisted by Rayan Cherki with a through bal
-760457,2026-06-22,France,Iraq,81.3,82',2,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Akam Hashim."
-760457,2026-06-22,France,Iraq,81.7,82',2,Offside,France,0,0,0,0,"Offside, France. Kylian Mbappé is caught offside."
-760457,2026-06-22,France,Iraq,82.2,83',2,Substitution,France,0,0,0,0,"Substitution, France. Maghnes Akliouche replaces Bradley Barcola."
-760457,2026-06-22,France,Iraq,82.3,83',2,Substitution,France,0,0,0,0,"Substitution, France. Malo Gusto replaces Jules Koundé."
-760457,2026-06-22,France,Iraq,84.6,85',2,Foul,Iraq,0,0,1,0,Marko Farji (Iraq) wins a free kick on the left wing.
-760457,2026-06-22,France,Iraq,84.6,85',2,Foul,France,0,0,1,0,Foul by Malo Gusto (France).
-760457,2026-06-22,France,Iraq,87.5,88',2,Shot On Target,France,0,0,0,0,Attempt saved. Kylian Mbappé (France) right footed shot from the centre of the box is saved in the centre of the goal by Ahmed Basil (Iraq). Assisted 
-760457,2026-06-22,France,Iraq,89.5,90',2,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) left footed shot from the left side of the box is high and wide to the left.
-760457,2026-06-22,France,Iraq,90.0,90'+1',2,Substitution,France,0,0,0,0,"Substitution, France. Marcus Thuram replaces Kylian Mbappé."
 760454,2026-06-22,Norway,Senegal,0.7,1',1,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Moussa Niakhaté."
 760454,2026-06-22,Norway,Senegal,1.4,2',1,Shot Off Target,Norway,0,0,0,0,Attempt missed. Antonio Nusa (Norway) right footed shot from outside the box misses to the right following a corner.
 760454,2026-06-22,Norway,Senegal,1.4,2',1,Corner Awarded,Norway,0,0,0,1,"Corner, Norway. Conceded by Kalidou Koulibaly."
@@ -11064,3 +10996,71 @@ event_id,date,home_team,away_team,minute,display,half,event_type,team,is_shot,is
 760517,2026-07-19,Spain,Argentina,123.5,120'+4',2,Foul,Spain,0,0,1,0,Foul by Eric García (Spain).
 760517,2026-07-19,Spain,Argentina,124.5,120'+5',2,Foul,Argentina,0,0,1,0,Nicolás Otamendi (Argentina) wins a free kick in the defensive half.
 760517,2026-07-19,Spain,Argentina,124.5,120'+5',2,Foul,Spain,0,0,1,0,Foul by Marc Cucurella (Spain).
+760457,2026-06-22,France,Iraq,0.9,1',1,Shot Off Target,France,0,0,0,0,Attempt missed. Manu Koné (France) left footed shot from outside the box misses to the right.
+760457,2026-06-22,France,Iraq,2.4,3',1,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,2.4,3',1,Foul,France,0,0,1,0,Foul by Manu Koné (France).
+760457,2026-06-22,France,Iraq,5.7,6',1,Foul,Iraq,0,0,1,0,Foul by Amir Al Ammari (Iraq).
+760457,2026-06-22,France,Iraq,5.7,6',1,Foul,France,0,0,1,0,Kylian Mbappé (France) wins a free kick in the attacking half.
+760457,2026-06-22,France,Iraq,5.7,6',1,Yellow Card,Iraq,0,0,1,0,Amir Al Ammari (Iraq) is shown the yellow card for a bad foul.
+760457,2026-06-22,France,Iraq,6.7,7',1,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Zaid Tahseen."
+760457,2026-06-22,France,Iraq,7.7,8',1,Shot Blocked,France,1,0,0,0,Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked.
+760457,2026-06-22,France,Iraq,7.8,8',1,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) right footed shot from the right side of the box misses to the right.
+760457,2026-06-22,France,Iraq,13.2,14',1,Shot Blocked,France,1,0,0,0,Attempt blocked. Michael Olise (France) left footed shot from outside the box is blocked. Assisted by Kylian Mbappé.
+760457,2026-06-22,France,Iraq,13.5,14',1,Goal,Iraq,1,1,0,0,"Goal! France 1, Iraq 0. Kylian Mbappé (France) left footed shot from outside the box to the bottom left corner. Assisted by Michael Olise."
+760457,2026-06-22,France,Iraq,17.8,18',1,Foul,Iraq,0,0,1,0,Merchas Doski (Iraq) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,17.8,18',1,Foul,France,0,0,1,0,Foul by Adrien Rabiot (France).
+760457,2026-06-22,France,Iraq,22.1,23',1,Start Delay,unknown,0,0,0,0,Delay in match for a drinks break.
+760457,2026-06-22,France,Iraq,24.9,25',1,End Delay,unknown,0,0,0,0,Delay over. They are ready to continue.
+760457,2026-06-22,France,Iraq,25.4,26',1,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Ali Al Hamadi replaces Aymen Hussein because of an injury."
+760457,2026-06-22,France,Iraq,26.2,27',1,Shot Blocked,Iraq,1,0,0,0,Attempt blocked. Ali Al Hamadi (Iraq) left footed shot from outside the box is blocked. Assisted by Ahmed Qasem.
+760457,2026-06-22,France,Iraq,26.9,27',1,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Ali Al Hamadi (Iraq) header from the right side of the six yard box misses to the right. Assisted by Merchas Doski with a cross.
+760457,2026-06-22,France,Iraq,27.1,28',1,VAR - Referee decision cancelled,unknown,0,0,0,0,VAR Decision: Other Decision Cancelled.
+760457,2026-06-22,France,Iraq,29.4,30',1,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by Lucas Digne."
+760457,2026-06-22,France,Iraq,31.6,32',1,Shot Blocked,France,1,0,0,0,Attempt blocked. Kylian Mbappé (France) right footed shot from outside the box is blocked. Assisted by Ousmane Dembélé.
+760457,2026-06-22,France,Iraq,39.4,40',1,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) right footed shot from more than 35 yards is too high.
+760457,2026-06-22,France,Iraq,40.2,41',1,Foul,Iraq,0,0,1,0,Foul by Zidane Iqbal (Iraq).
+760457,2026-06-22,France,Iraq,40.2,41',1,Foul,France,0,0,1,0,Manu Koné (France) wins a free kick in the attacking half.
+760457,2026-06-22,France,Iraq,41.0,42',1,Foul,Iraq,0,0,1,0,Ahmed Qasem (Iraq) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,41.0,42',1,Foul,France,0,0,1,0,Foul by Lucas Digne (France).
+760457,2026-06-22,France,Iraq,41.7,42',1,Foul,Iraq,0,0,1,0,Ali Al Hamadi (Iraq) wins a free kick in the attacking half.
+760457,2026-06-22,France,Iraq,41.7,42',1,Foul,France,0,0,1,0,Foul by Adrien Rabiot (France).
+760457,2026-06-22,France,Iraq,44.1,45',1,Foul,Iraq,0,0,1,0,Ali Al Hamadi (Iraq) wins a free kick in the attacking half.
+760457,2026-06-22,France,Iraq,44.1,45',1,Foul,France,0,0,1,0,Foul by Manu Koné (France).
+760457,2026-06-22,France,Iraq,52.6,53',2,Shot Off Target,France,0,0,0,0,Attempt missed. Bradley Barcola (France) header from the centre of the box misses to the left. Assisted by Ousmane Dembélé with a cross.
+760457,2026-06-22,France,Iraq,53.7,54',2,Goal,Iraq,1,1,0,0,"Goal! France 2, Iraq 0. Kylian Mbappé (France) right footed shot from the centre of the box to the bottom right corner. Assisted by Ousmane Dembélé."
+760457,2026-06-22,France,Iraq,56.8,57',2,Foul,Iraq,0,0,1,0,Foul by Ibrahim Bayesh (Iraq).
+760457,2026-06-22,France,Iraq,56.8,57',2,Foul,France,0,0,1,0,Jules Koundé (France) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,57.5,58',2,Shot Hit Woodwork,France,1,0,0,0,Michael Olise (France) hits the bar with a left footed shot from the right side of the box. Assisted by Kylian Mbappé.
+760457,2026-06-22,France,Iraq,58.7,59',2,Shot On Target,France,0,0,0,0,Attempt saved. Ousmane Dembélé (France) right footed shot from the right side of the box is saved in the top left corner by Ahmed Basil (Iraq). Assist
+760457,2026-06-22,France,Iraq,58.7,59',2,Shot Off Target,France,0,0,0,0,"Attempt missed. Adrien Rabiot (France) header from the left side of the six yard box is close, but misses to the left."
+760457,2026-06-22,France,Iraq,59.2,60',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Rebin Sulaka replaces Zaid Tahseen."
+760457,2026-06-22,France,Iraq,59.3,60',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Youssef Amyn replaces Zaid Ismael."
+760457,2026-06-22,France,Iraq,61.1,62',2,Foul,Iraq,0,0,1,0,Zidane Iqbal (Iraq) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,61.1,62',2,Foul,France,0,0,1,0,Foul by Kylian Mbappé (France).
+760457,2026-06-22,France,Iraq,61.6,62',2,Foul,Iraq,0,0,1,0,Foul by Merchas Doski (Iraq).
+760457,2026-06-22,France,Iraq,61.6,62',2,Foul,France,0,0,1,0,Michael Olise (France) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,62.2,63',2,Foul,Iraq,0,0,1,0,Ali Al Hamadi (Iraq) wins a free kick in the defensive half.
+760457,2026-06-22,France,Iraq,62.2,63',2,Foul,France,0,0,1,0,Foul by Dayot Upamecano (France).
+760457,2026-06-22,France,Iraq,64.7,65',2,Shot Blocked,France,1,0,0,0,Attempt blocked. Ousmane Dembélé (France) left footed shot from outside the box is blocked. Assisted by Jules Koundé.
+760457,2026-06-22,France,Iraq,64.7,65',2,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Amir Al Ammari."
+760457,2026-06-22,France,Iraq,65.1,66',2,Shot Off Target,France,0,0,0,0,"Attempt missed. William Saliba (France) header from the centre of the box is close, but misses to the right. Assisted by Lucas Digne with a cross foll"
+760457,2026-06-22,France,Iraq,65.2,66',2,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Ibrahim Bayesh."
+760457,2026-06-22,France,Iraq,65.3,66',2,Shot Off Target,France,0,0,0,0,"Attempt missed. Ousmane Dembélé (France) right footed shot from the centre of the box is close, but misses to the right following a corner."
+760457,2026-06-22,France,Iraq,65.8,66',2,Goal,Iraq,1,1,0,0,"Goal! France 3, Iraq 0. Ousmane Dembélé (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Michael Olise wit"
+760457,2026-06-22,France,Iraq,67.0,68',2,Substitution,France,0,0,0,0,"Substitution, France. Désiré Doué replaces Ousmane Dembélé."
+760457,2026-06-22,France,Iraq,67.2,68',2,Substitution,France,0,0,0,0,"Substitution, France. Rayan Cherki replaces Michael Olise."
+760457,2026-06-22,France,Iraq,67.6,68',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Aimar Sher replaces Amir Al Ammari."
+760457,2026-06-22,France,Iraq,68.1,69',2,Substitution,Iraq,0,0,0,0,"Substitution, Iraq. Marko Farji replaces Ibrahim Bayesh."
+760457,2026-06-22,France,Iraq,72.7,73',2,Corner Awarded,Iraq,0,0,0,1,"Corner, Iraq. Conceded by Bradley Barcola."
+760457,2026-06-22,France,Iraq,73.4,74',2,Shot Off Target,Iraq,0,0,0,0,Attempt missed. Rebin Sulaka (Iraq) right footed shot from the centre of the box is too high. Assisted by Zidane Iqbal with a cross following a corner
+760457,2026-06-22,France,Iraq,75.0,75',2,Shot Off Target,Iraq,0,0,0,0,"Attempt missed. Ali Al Hamadi (Iraq) right footed shot from very close range is close, but misses to the right. Assisted by Marko Farji with a cross."
+760457,2026-06-22,France,Iraq,79.7,80',2,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) right footed shot from the left side of the box misses to the left. Assisted by Rayan Cherki with a through bal
+760457,2026-06-22,France,Iraq,81.3,82',2,Corner Awarded,France,0,0,0,1,"Corner, France. Conceded by Akam Hashim."
+760457,2026-06-22,France,Iraq,81.7,82',2,Offside,France,0,0,0,0,"Offside, France. Kylian Mbappé is caught offside."
+760457,2026-06-22,France,Iraq,82.2,83',2,Substitution,France,0,0,0,0,"Substitution, France. Maghnes Akliouche replaces Bradley Barcola."
+760457,2026-06-22,France,Iraq,82.3,83',2,Substitution,France,0,0,0,0,"Substitution, France. Malo Gusto replaces Jules Koundé."
+760457,2026-06-22,France,Iraq,84.6,85',2,Foul,Iraq,0,0,1,0,Marko Farji (Iraq) wins a free kick on the left wing.
+760457,2026-06-22,France,Iraq,84.6,85',2,Foul,France,0,0,1,0,Foul by Malo Gusto (France).
+760457,2026-06-22,France,Iraq,87.5,88',2,Shot On Target,France,0,0,0,0,Attempt saved. Kylian Mbappé (France) right footed shot from the centre of the box is saved in the centre of the goal by Ahmed Basil (Iraq). Assisted 
+760457,2026-06-22,France,Iraq,89.5,90',2,Shot Off Target,France,0,0,0,0,Attempt missed. Kylian Mbappé (France) left footed shot from the left side of the box is high and wide to the left.
+760457,2026-06-22,France,Iraq,90.0,90'+1',2,Substitution,France,0,0,0,0,"Substitution, France. Marcus Thuram replaces Kylian Mbappé."

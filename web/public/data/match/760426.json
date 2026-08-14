@@ -125,7 +125,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between Belgium and Egypt, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, both teams saw a slight increase in actions per minute, with a +0.10/min change for both, indicating a minor boost in their attacking pace. However, at the second break, the momentum shifted in opposite directions, with Belgium's attacking actions decreasing by 0.20/min and Egypt's also decreasing by 0.20/min, suggesting that Egypt's defense may have been more effective in the latter part of the match. Overall, Egypt may have benefited more from the breaks, as they were able to maintain a stronger defensive stance and limit Belgium's attacking opportunities, particularly in the second half of the match.",
+  "insight": "During the match between Belgium and Egypt, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, both teams saw a slight increase in actions per minute, with Belgium going from 0 to 1 and Egypt from 1 to 2, indicating a minor boost in their attacking pace. However, at the second break, the trend reversed, with both teams experiencing a decrease in actions per minute, Belgium dropping from 4 to 2 and Egypt from 3 to 1, suggesting a loss of momentum for both sides. Overall, Egypt seemed to benefit more from the breaks, as their initial increase was more significant and their subsequent decrease was less drastic than Belgium's, potentially giving them a slight edge in terms of overall attacking rhythm.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

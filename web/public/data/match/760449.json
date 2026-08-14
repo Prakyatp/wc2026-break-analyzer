@@ -115,7 +115,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between Tunisia and Japan, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Tunisia's attacking actions decreased slightly, while Japan's increased, indicating a shift in momentum in favor of Japan. However, at the second break, Tunisia's attacking actions surged, while Japan's decreased, suggesting that Tunisia was able to regain and even surpass their initial momentum, ultimately benefiting more overall from the hydration breaks. Overall, Tunisia's ability to adapt and increase their attacking actions after the second break may have given them a crucial edge in the match, potentially influencing the final outcome.",
+  "insight": "During the match between Tunisia and Japan, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Tunisia's attack slowed down slightly, with 0.10 fewer actions per minute, while Japan's picked up, with 0.10 more actions per minute, indicating a shift in momentum in Japan's favor. However, at the second break, the trend reversed, with Tunisia's attack surging forward with 0.30 more actions per minute, while Japan's slowed down with 0.20 fewer actions per minute, suggesting that Tunisia adapted better to the second hydration break and regained their attacking momentum. Overall, Tunisia seemed to benefit more from the hydration breaks, as they were able to regain and even increase their attacking intensity after the second break, potentially giving them an edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

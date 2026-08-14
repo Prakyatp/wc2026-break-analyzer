@@ -125,7 +125,7 @@
       "away_delta": 0.2
     }
   ],
-  "insight": "During the match between Germany and Ivory Coast, the hydration breaks had a noticeable impact on the teams' attacking momentum. For Germany, the breaks seemed to disrupt their rhythm, as they had fewer attacking actions after each break, with a decrease of 0.30 and 0.40 actions per minute, respectively. In contrast, Ivory Coast appeared to gain momentum after the breaks, increasing their attacking actions by 0.20 actions per minute on both occasions, although they still had fewer overall actions than Germany. Overall, Ivory Coast seemed to benefit more from the hydration breaks in terms of regaining their attacking momentum, but Germany's initial dominance still gave them an edge in the match.",
+  "insight": "During the match between Germany and Ivory Coast, Germany's attacking momentum decreased significantly after both hydration breaks, with a drop of 0.30 and 0.40 actions per minute respectively, indicating that the breaks disrupted their flow and intensity. In contrast, Ivory Coast maintained a consistent increase in attacking actions after each break, with a gain of 0.20 actions per minute on both occasions, suggesting that they were able to regroup and refocus during the pauses. Overall, Ivory Coast seemed to benefit more from the hydration breaks in terms of maintaining their attacking momentum, although Germany's initial lead may have still given them an advantage in the match. The statistics suggest that Ivory Coast's ability to adapt and respond to the breaks may have helped them stay competitive against their opponents.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

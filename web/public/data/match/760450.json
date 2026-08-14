@@ -130,7 +130,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the match between Uruguay and Cape Verde, Uruguay's attacking momentum slightly decreased at both hydration breaks, with a small drop in actions per minute, indicating they lost a bit of steam after each break. In contrast, Cape Verde's attacking momentum remained unchanged after the first break, but increased after the second break, suggesting they were able to regroup and refocus. Overall, Cape Verde seemed to benefit more from the hydration breaks, as they were able to maintain or increase their attacking pace, while Uruguay struggled to regain their initial intensity. This shift in momentum could have given Cape Verde an edge in the latter part of the match, potentially influencing the final outcome.",
+  "insight": "During the match between Uruguay and Cape Verde, the hydration breaks had distinct effects on each team's attacking momentum. For Uruguay, their attacking actions decreased slightly after both breaks, indicating a minor disruption to their rhythm, with a decrease of 0.10 actions per minute after each break. In contrast, Cape Verde's attacking momentum remained unchanged after the first break but increased after the second, suggesting they were able to regain and even build momentum after the later hydration break. Overall, Cape Verde appears to have benefited more from the hydration breaks, as they were able to maintain or increase their attacking actions, while Uruguay's momentum was slightly hindered.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

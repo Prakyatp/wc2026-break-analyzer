@@ -125,7 +125,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Spain and Austria, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Spain's attack gained significant momentum, increasing their actions by 0.40 per minute, while Austria's attack also picked up, but at a slower rate of 0.20 per minute. However, at the second break, both teams' attacking momentum slowed down, with Spain's rate decreasing by 0.10 per minute and Austria's by the same amount, suggesting that the second break had a neutralizing effect on both teams. Overall, Spain benefited more from the hydration breaks, as their initial surge in attacking momentum was greater, giving them an edge in the match.",
+  "insight": "During the first hydration break, Spain's attacking momentum increased significantly, with their actions per minute rising by 0.40, indicating a substantial surge in their offensive pressure, while Austria's increase was more modest at 0.20 actions per minute. In contrast, after the second hydration break, both teams experienced a slight decline in their attacking momentum, with Spain's actions per minute decreasing by 0.10 and Austria's by the same amount, suggesting a more cautious approach from both teams. Overall, Spain benefited more from the hydration breaks, as their initial surge in momentum helped them establish a strong attacking presence, which they were able to maintain despite the later decline. This shift in momentum likely contributed to Spain's overall performance in the match, giving them an edge over Austria.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

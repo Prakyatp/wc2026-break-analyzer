@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the first hydration break, both Brazil and Norway increased their attacking actions by 2, with a rate change of +0.20 actions per minute, indicating a slight boost in momentum for both teams. However, at the second hydration break, Brazil's attacking momentum shifted significantly, decreasing from 4 to 0 actions with a rate change of -0.40 actions per minute, suggesting they lost their attacking rhythm. In contrast, Norway maintained a steady pace, with no change in their rate of attacking actions, which could be seen as a relative gain in momentum compared to Brazil. Overall, Norway appears to have benefited more from the hydration breaks in terms of maintaining their attacking momentum, while Brazil's loss of rhythm may have hindered their performance.",
+  "insight": "During the first hydration break, both Brazil and Norway saw a slight increase in attacking actions per minute, with each team going from 0 to 2 actions, indicating a modest boost in momentum. However, by the second hydration break, Brazil's attacking momentum had significantly decreased, with 4 actions being reduced to 0, suggesting a substantial loss of pace. In contrast, Norway maintained a steady pace, with no change in their rate of attacking actions, which could indicate better endurance and strategy. Overall, Norway appears to have benefited more from the hydration breaks, as they were able to sustain their attacking momentum, while Brazil's decline may have given Norway an advantage in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

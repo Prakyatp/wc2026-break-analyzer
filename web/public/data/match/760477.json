@@ -125,7 +125,7 @@
       "away_delta": -0.6
     }
   ],
-  "insight": "During the match between New Zealand and Belgium, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, New Zealand's attack remained steady with no change in actions per minute, while Belgium's attack slightly decreased, indicating a minor loss of momentum. However, at the second break, New Zealand's attack picked up with an increase in actions per minute, whereas Belgium's attack significantly slowed down, suggesting a substantial loss of momentum. Overall, New Zealand seemed to benefit more from the hydration breaks, as they were able to maintain or increase their attacking pace, while Belgium's attacking momentum was hindered, particularly after the second break.",
+  "insight": "During the match between New Zealand and Belgium, the hydration breaks had notable effects on the teams' attacking momentum. At the first break, New Zealand's attack remained steady with a slight increase, while Belgium's attack slowed down, indicating a loss of momentum for the Belgian team. By the second break, New Zealand's attack had picked up, with an increase in actions per minute, whereas Belgium's attack had significantly dropped off, suggesting that New Zealand benefited more overall from the hydration breaks in terms of maintaining and building their attacking momentum. Overall, the statistics suggest that New Zealand was able to capitalize on the breaks to gain an advantage, while Belgium struggled to regain their footing after the pauses in play.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

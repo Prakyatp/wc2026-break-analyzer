@@ -125,7 +125,7 @@
       "away_delta": -0.4
     }
   ],
-  "insight": "During the match between Brazil and Haiti, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Brazil's attacking actions decreased from 5 to 1, indicating a significant drop in momentum, while Haiti's actions increased from 1 to 2, showing a slight gain. However, at the second break, the trend reversed, with Brazil regaining some momentum and Haiti's attacking actions coming to a halt, suggesting that Brazil adapted better to the second half and benefited more overall from the hydration breaks, potentially due to their ability to adjust their strategy and regain their footing. Overall, Brazil's ability to bounce back from a slow start after the first break and capitalize on Haiti's second-break slump may have given them an edge in the match.",
+  "insight": "During the match between Brazil and Haiti, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Brazil's attacking actions decreased, with 5 actions before the break and only 1 after, indicating a loss of momentum, while Haiti slightly increased their actions, going from 1 to 2, showing a minor gain in momentum. At the second break, the trend reversed, with Brazil regaining some momentum and Haiti losing theirs, as Brazil went from 0 to 1 action and Haiti went from 4 to 0 actions. Overall, Haiti's minor gain in momentum at the first break was overshadowed by their significant loss at the second break, suggesting that Brazil benefited more overall from the hydration breaks in terms of maintaining and regaining attacking momentum.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -36,15 +36,6 @@
       "pressing": false
     },
     {
-      "opponent": "France",
-      "half": 1,
-      "match_label": "France v Iraq",
-      "pre_rate": 0.1,
-      "post_rate": 0.3,
-      "delta": 0.2,
-      "pressing": false
-    },
-    {
       "opponent": "Senegal",
       "half": 1,
       "match_label": "Senegal v Iraq",
@@ -61,7 +52,16 @@
       "post_rate": 0.2,
       "delta": 0.1,
       "pressing": false
+    },
+    {
+      "opponent": "France",
+      "half": 1,
+      "match_label": "France v Iraq",
+      "pre_rate": 0.1,
+      "post_rate": 0.3,
+      "delta": 0.2,
+      "pressing": false
     }
   ],
-  "insight": ""
+  "insight": "The hydration break statistics for Iraq in the 2026 World Cup reveal some interesting trends in how the team performs after these brief pauses in play. Overall, Iraq tends to gain momentum after a hydration break, doing so in 3 out of 5 instances, which suggests that these breaks can be a positive turning point for the team. However, when Iraq is pressing before a hydration break, they tend to struggle, losing momentum at an average rate of 0.300 minutes, which indicates that the team may be expending too much energy before the break and unable to recover afterwards. In contrast, when Iraq is not pressing before a break, they are able to maintain a slight positive momentum, averaging a gain of 0.075 minutes, which suggests that the team is better able to regroup and refocus during these breaks when they are not already exerting themselves."
 }
