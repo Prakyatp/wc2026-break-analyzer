@@ -125,7 +125,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Norway and France, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Norway's attack slowed down slightly, with a decrease of 0.20 actions per minute, while France's attack dropped off more significantly, with a decrease of 0.60 actions per minute, indicating a substantial loss of momentum. In contrast, at the second break, Norway's attack picked up, with an increase of 0.20 actions per minute, whereas France's attack continued to slow down, albeit at a much slower rate, with a decrease of 0.10 actions per minute. Overall, Norway seemed to benefit more from the hydration breaks, as they were able to maintain or even regain some of their attacking momentum, while France struggled to regain their footing after the breaks.",
+  "insight": "During the first hydration break, Norway's attacking momentum remained relatively stable with a slight decrease of 0.20 actions per minute, while France's attacking pace slowed down significantly with a decrease of 0.60 actions per minute. In contrast, after the second hydration break, Norway's attacking momentum picked up with an increase of 0.20 actions per minute, whereas France's pace continued to slow down, albeit at a much slower rate of 0.10 actions per minute. Overall, Norway seemed to benefit more from the hydration breaks, as they were able to maintain and then increase their attacking momentum, while France struggled to regain their initial pace. This shift in momentum could have given Norway an edge in the match, allowing them to potentially capitalize on France's decreased attacking intensity.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

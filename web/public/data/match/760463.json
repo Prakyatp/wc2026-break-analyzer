@@ -130,7 +130,7 @@
       "away_delta": -0.3
     }
   ],
-  "insight": "During the first hydration break, Switzerland's attacking momentum slightly decreased, with 0.10 fewer actions per minute, while Canada's remained steady, indicating that the break had little impact on their offense. In contrast, by the second hydration break, Canada's attacking momentum had decreased significantly, with 0.30 fewer actions per minute, suggesting they struggled to regain their rhythm after the pause, whereas Switzerland's momentum remained unchanged. Overall, Switzerland appears to have benefited more from the hydration breaks, as they were able to maintain their offensive pace while Canada's slowed. This shift in momentum could have contributed to the overall outcome of the match, potentially giving Switzerland an edge over their opponents.",
+  "insight": "During the first hydration break, Switzerland's attacking momentum slightly decreased, with 0.10 fewer actions per minute, while Canada's momentum remained steady, with no change in actions per minute. In contrast, at the second hydration break, Switzerland maintained their pace with no change, but Canada's attacking momentum dropped significantly, with 0.30 fewer actions per minute, and they were outperformed by Switzerland in terms of actions. Overall, Switzerland seemed to benefit more from the hydration breaks, as they were able to maintain or slightly regain their momentum, whereas Canada's momentum stalled, particularly after the second break. This shift in momentum could have contributed to Switzerland's overall performance in the match, potentially giving them an edge over Canada.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

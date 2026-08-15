@@ -125,7 +125,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between Iran and New Zealand, the hydration breaks had a noticeable impact on the teams' attacking momentum. Iran's attacking actions increased by 0.20 actions per minute after both breaks, indicating a significant boost in their offensive efforts, whereas New Zealand's increase was more modest after the first break and actually decreased after the second. This suggests that Iran was able to capitalize on the breaks to regain energy and refocus, leading to more aggressive play, while New Zealand struggled to maintain their momentum after the second break. Overall, Iran appears to have benefited more from the hydration breaks, as their increased attacking actions could have potentially led to more scoring opportunities.",
+  "insight": "During the hydration breaks, Iran's attacking momentum increased, as evidenced by the rise in actions per minute, with a change of +0.20/min at both breaks, indicating they were able to regain energy and come out stronger after the pauses. In contrast, New Zealand's momentum was more inconsistent, with a smaller increase at the first break and actually decreasing at the second break, with a change of -0.20/min, suggesting they may have struggled to regain their rhythm after the stoppage. Overall, Iran appears to have benefited more from the hydration breaks, as their increased attacking momentum could have contributed to their overall performance. This discrepancy in momentum shifts may have given Iran an edge in the match, potentially influencing the final outcome.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

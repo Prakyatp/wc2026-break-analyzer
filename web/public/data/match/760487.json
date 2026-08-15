@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Brazil and Japan, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Japan gained momentum, increasing their actions per minute by 0.10, while Brazil's rate decreased by 0.10, indicating a slight shift in favor of Japan. However, at the second break, the trend reversed, with Brazil regaining their attacking rhythm, increasing their actions per minute by 0.10, and Japan's rate dropping to zero, suggesting that Brazil benefited more overall from the hydration breaks, as they were able to adjust and regain their attacking momentum. This shift in momentum could have been a crucial factor in the outcome of the match, potentially giving Brazil an edge over their opponents.",
+  "insight": "During the match between Brazil and Japan, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Japan gained momentum, increasing their actions from 2 to 3 per minute, while Brazil's decreased slightly from 3 to 2, indicating a minor loss of intensity. However, at the second break, the trend reversed, with Brazil regaining their attacking pace, increasing from 2 to 3 actions per minute, and Japan's momentum stalled, dropping from 1 to 0 actions per minute. Overall, Brazil seemed to benefit more from the hydration breaks, as they were able to regain their attacking momentum in the second half, potentially giving them an edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

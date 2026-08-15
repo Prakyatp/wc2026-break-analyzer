@@ -125,7 +125,7 @@
       "away_delta": -0.4
     }
   ],
-  "insight": "During the match between Panama and England, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Panama's attack slowed down slightly, taking 0.30 fewer actions per minute, while England's attack also decreased, taking 0.20 fewer actions per minute, indicating a minor loss of momentum for both teams. However, at the second break, Panama's attack surged, taking 0.60 more actions per minute, whereas England's attack stalled, taking 0.40 fewer actions per minute, suggesting that Panama benefited more from the second hydration break in terms of regaining their attacking momentum. Overall, Panama seemed to have gained an advantage in the latter part of the match, potentially due to their ability to recharge and refocus during the second hydration break.",
+  "insight": "During the match between Panama and England, the hydration breaks had distinct effects on each team's attacking momentum. For Panama, the first hydration break seemed to have little impact, but the second break sparked a significant increase in their attacking actions, with a notable rise in intensity. In contrast, England's attacking momentum slowed down after both breaks, with a particularly sharp decline after the second hydration break. Overall, Panama appeared to benefit more from the hydration breaks, as they were able to regain and even increase their attacking intensity, whereas England struggled to maintain their pace, potentially giving Panama an advantage in terms of momentum and scoring opportunities.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

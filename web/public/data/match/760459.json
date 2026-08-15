@@ -130,7 +130,7 @@
       "away_delta": 0.2
     }
   ],
-  "insight": "During the first hydration break, Colombia's attacking momentum slowed down, with a decrease of 0.50 actions per minute, indicating they created fewer scoring opportunities after the break. In contrast, Congo DR's attacking momentum slightly increased, with an increase of 0.10 actions per minute, showing they were able to create more chances after the break. By the second hydration break, the trend had reversed, with Colombia's momentum decreasing further and Congo DR's increasing more significantly, suggesting that Congo DR benefited more overall from the hydration breaks in terms of regaining and building attacking momentum. Overall, Congo DR's ability to capitalize on the breaks and increase their attacking output gave them an advantage, potentially shifting the balance of the match in their favor.",
+  "insight": "During the first hydration break, Colombia's attacking momentum slowed down, with a decrease of 0.50 actions per minute, indicating they were creating fewer scoring opportunities after the break. In contrast, Congo DR's attacking momentum slightly increased, with an increase of 0.10 actions per minute, showing they were able to gain some ground after the break. By the second hydration break, the trend had reversed, with Colombia's attacking momentum decreasing further and Congo DR's increasing more significantly, suggesting that Congo DR benefited more overall from the hydration breaks in terms of regaining and building attacking momentum. Overall, Congo DR's ability to increase their attacking actions after both breaks allowed them to gain an advantage over Colombia in terms of creating scoring opportunities.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

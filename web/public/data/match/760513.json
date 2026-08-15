@@ -155,7 +155,7 @@
       "away_delta": -0.3
     }
   ],
-  "insight": "During the match between Argentina and Switzerland, the hydration breaks had varying effects on each team's attacking momentum. At the first break, neither team gained or lost momentum, as both Argentina and Switzerland had no change in actions per minute, indicating a neutral impact on their attacking pace. However, at the second break, Switzerland's momentum took a hit, as they went from 3 actions to 0, resulting in a decrease of 0.30 actions per minute, while Argentina maintained their steady pace, suggesting that Argentina may have benefited more overall from the hydration breaks in terms of maintaining their attacking rhythm. This could be crucial in a tightly contested match, as Argentina's ability to sustain their momentum may have given them an edge over Switzerland in the latter stages of the game.",
+  "insight": "During the match between Argentina and Switzerland, the hydration breaks had varying effects on each team's attacking momentum. At the first break, neither team saw a change in their attacking actions per minute, indicating a stable pace for both teams. However, at the second break, Switzerland's attacking momentum slowed down, with their actions per minute decreasing by 0.30, suggesting they lost some steam in the final stretch of the game. Overall, Argentina benefited more from the hydration breaks, as they maintained their pace, while Switzerland's decline in attacking momentum may have given Argentina an edge in the latter part of the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

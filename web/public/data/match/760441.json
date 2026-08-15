@@ -130,7 +130,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Mexico and South Korea, Mexico's attacking momentum decreased slightly at the first hydration break, with their actions per minute dropping by 0.10, but they regained their footing at the second break, increasing their actions per minute by 0.10. In contrast, South Korea's attacking momentum remained relatively stable at both breaks, with no change in their actions per minute. Overall, Mexico benefited more from the hydration breaks, as they were able to reverse their initial decline and end the match with increased attacking momentum. This shift in momentum may have contributed to Mexico's overall performance, potentially giving them an edge in the match.",
+  "insight": "During the first hydration break, Mexico's attacking momentum slightly decreased, with 0.10 fewer actions per minute, indicating they lost some steam in creating scoring opportunities. In contrast, South Korea's momentum remained unchanged, suggesting they maintained their level of attack. However, by the second hydration break, the tables turned, with Mexico regaining their attacking rhythm, increasing their actions by 0.10 per minute, while South Korea's momentum again remained steady, resulting in Mexico benefiting more overall from the hydration breaks in terms of regaining their attacking momentum. This shift in momentum may have contributed to Mexico's overall performance, potentially giving them an edge in the match against South Korea.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -155,7 +155,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Spain and Argentina, Spain's attacking momentum decreased at both hydration breaks, with a slight drop in actions per minute at the first break and a more significant decline at the second break, indicating that the breaks disrupted their flow. In contrast, Argentina's attacking momentum remained unchanged at both breaks, suggesting that they were able to maintain their rhythm and composure. Overall, Argentina likely benefited more from the hydration breaks, as they were able to conserve energy and maintain their defensive solidity, while Spain's attacking momentum was hindered. This could have contributed to Argentina's ability to stay in the game, despite Spain's initial lead, and potentially influenced the final outcome of the match.",
+  "insight": "During the first hydration break, Spain's attacking momentum slightly decreased, with a drop of 0.10 actions per minute, while Argentina's remained unchanged, indicating that the break had little impact on their offense. In contrast, the second hydration break had a more significant effect on Spain, whose attacking momentum decreased more substantially, with a drop of 0.40 actions per minute, suggesting that they struggled to regain their rhythm after the break. Argentina, on the other hand, maintained their offensive pace, neither gaining nor losing momentum, which could be seen as a relative advantage. Overall, Argentina likely benefited more from the hydration breaks, as they were able to maintain their offensive stability while Spain's momentum was disrupted, particularly in the second half.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

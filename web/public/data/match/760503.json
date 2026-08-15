@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Paraguay and France, the hydration breaks had varying effects on each team's attacking momentum. At the first break, Paraguay's attack slightly increased, with an additional 0.20 actions per minute, while France's attack slowed down, losing 0.20 actions per minute, indicating a shift in momentum in favor of Paraguay. However, at the second break, Paraguay's attack remained stagnant, with no change in actions per minute, whereas France's attack continued to slow down, albeit at a lesser rate, losing 0.10 actions per minute. Overall, Paraguay benefited more from the hydration breaks, as they were able to slightly increase their attacking momentum at the first break, which may have helped them try to close the gap against France.",
+  "insight": "During the match between Paraguay and France, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Paraguay's attacking actions increased slightly, gaining 0.20 actions per minute, while France's decreased by the same amount, indicating a shift in momentum in favor of Paraguay. However, by the second break, Paraguay's attacking momentum remained stagnant, with no change in actions per minute, whereas France's decreased slightly, losing 0.10 actions per minute, suggesting that Paraguay benefited more overall from the hydration breaks in terms of maintaining their attacking rhythm. Overall, Paraguay seemed to capitalize more on the breaks, as they were able to either gain or maintain momentum, while France's attacking pace slowed down after both breaks.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

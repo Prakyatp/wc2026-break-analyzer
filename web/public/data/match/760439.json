@@ -125,7 +125,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the first hydration break, Switzerland's attacking momentum slightly decreased, as evidenced by a drop of 0.20 actions per minute, while Bosnia-Herzegovina's remained unchanged, indicating no significant impact from the break on their offense. In contrast, by the second hydration break, Switzerland had regained their footing, with no change in their attacking momentum, whereas Bosnia-Herzegovina experienced a slight decline, suggesting they may have struggled to regain their rhythm after the pause. Overall, Switzerland seemed to benefit more from the hydration breaks, as they were able to maintain or regain their attacking momentum, while Bosnia-Herzegovina's offense was more affected. This could be a key factor in Switzerland's ability to control the pace of the match and ultimately secure a 2-0 lead.",
+  "insight": "During the first hydration break, Switzerland's attacking momentum slightly decreased, as evidenced by a drop of 0.20 actions per minute, whereas Bosnia-Herzegovina's remained unchanged. In contrast, by the second hydration break, Switzerland had regained their footing, with no change in their attacking momentum, while Bosnia-Herzegovina's momentum decreased, with 0.10 fewer actions per minute. Overall, Switzerland appears to have benefited more from the hydration breaks, as they were able to stabilize and then maintain their attacking pace, whereas Bosnia-Herzegovina's momentum stalled. This shift in momentum may have contributed to Switzerland's ability to maintain their lead throughout the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

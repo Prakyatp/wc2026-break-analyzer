@@ -125,7 +125,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the match between Czechia and Mexico, the hydration breaks had varying effects on each team's attacking momentum. At the first break, neither team gained or lost momentum, with no change in actions per minute for either side, indicating a steady pace. However, at the second break, Czechia's attacking momentum slowed down, with a decrease of 0.30 actions per minute, while Mexico's pace slightly increased, with a gain of 0.10 actions per minute, suggesting that Mexico benefited more from the second hydration break in terms of regaining their attacking rhythm. Overall, Mexico seemed to have a slight advantage in maintaining their attacking momentum, particularly after the second hydration break, which could have given them an edge in the latter part of the match.",
+  "insight": "During the match between Czechia and Mexico, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, neither team saw a change in their attacking actions per minute, indicating a neutral impact on their momentum. However, at the second break, Czechia's attacking momentum slowed down, with a decrease of 0.30 actions per minute, while Mexico's slightly increased by 0.10 actions per minute, suggesting that Mexico benefited more from the second hydration break in terms of regaining their attacking rhythm. Overall, Mexico seemed to capitalize more on the breaks, as they were able to maintain or slightly increase their attacking pace, whereas Czechia's momentum was hindered, potentially giving Mexico an edge in the latter part of the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }
