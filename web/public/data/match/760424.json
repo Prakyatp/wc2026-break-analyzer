@@ -125,7 +125,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between Sweden and Tunisia, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Sweden's attack gained momentum, increasing their actions by 0.30 per minute, while Tunisia's attack also picked up, but at a slower rate of 0.10 per minute. However, at the second break, the trend reversed, with Sweden's attack slowing down by 0.10 per minute and Tunisia's attack coming to a near halt, decreasing by 0.20 per minute, suggesting that Sweden benefited more overall from the hydration breaks in terms of maintaining their attacking momentum. Overall, Sweden's ability to initially increase and then maintain a relatively higher level of attacking intensity after the breaks may have given them an edge in the match.",
+  "insight": "During the match between Sweden and Tunisia, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Sweden's attack gained momentum, increasing their actions by 0.30 per minute, while Tunisia's attack also picked up, but at a slower rate of 0.10 per minute. However, at the second break, the trend reversed, with Sweden's attack slowing down by 0.10 per minute and Tunisia's attack coming to a near halt, decreasing by 0.20 per minute, indicating that Sweden benefited more overall from the hydration breaks in terms of maintaining their attacking momentum. Overall, Sweden's ability to initially increase and then maintain a higher level of attacking activity after the breaks may have given them a slight edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

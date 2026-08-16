@@ -135,7 +135,7 @@
       "away_delta": 0.3
     }
   ],
-  "insight": "During the first hydration break, New Zealand's attacking momentum slightly decreased, with a drop of 0.20 actions per minute, while Egypt's attacking momentum decreased more significantly, with a drop of 0.30 actions per minute. At the second hydration break, New Zealand's attacking momentum decreased further, although only slightly, whereas Egypt's momentum increased substantially, with an addition of 0.30 actions per minute. This suggests that Egypt was able to regroup and refocus during the second break, ultimately benefiting more from the hydration breaks overall. As a result, Egypt was able to gain an advantage in terms of attacking momentum, potentially giving them an edge in the latter part of the match against New Zealand.",
+  "insight": "During the match between New Zealand and Egypt, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, New Zealand's attacking actions decreased from 4 to 2, with a slight drop in rate, while Egypt's attacking actions dropped more significantly from 4 to 1, indicating a greater loss of momentum. However, at the second break, the trends reversed, with Egypt's attacking actions increasing from 1 to 4, showing a strong resurgence, whereas New Zealand's actions decreased from 1 to 0, suggesting a complete loss of attacking momentum. Overall, Egypt seemed to benefit more from the hydration breaks, as they were able to regain and even increase their attacking momentum by the second break, potentially giving them an edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

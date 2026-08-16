@@ -130,7 +130,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the first hydration break, Senegal's attacking momentum slightly decreased, with a small drop of 0.10 actions per minute, while Iraq's attacking momentum significantly decreased, with a drop of 0.30 actions per minute, indicating that Iraq struggled to regain their rhythm after the break. In contrast, after the second hydration break, Senegal's attacking momentum increased substantially, with a gain of 0.30 actions per minute, while Iraq's increase was relatively modest, with a gain of 0.10 actions per minute. This suggests that Senegal was able to capitalize on the break to refocus and intensify their attack, while Iraq was unable to regain their footing. Overall, Senegal appears to have benefited more from the hydration breaks, particularly the second one, which may have given them an edge in the match.",
+  "insight": "During the first hydration break, Senegal's attacking momentum slightly decreased, with a drop of 0.10 actions per minute, while Iraq's attacking momentum significantly decreased, with a drop of 0.30 actions per minute, indicating that Iraq struggled more to regain their rhythm after the break. However, during the second hydration break, the trend reversed, with Senegal's attacking momentum increasing by 0.30 actions per minute, and Iraq's increasing by a smaller margin of 0.10 actions per minute. This suggests that Senegal was able to better adapt and regain their energy after the second break, ultimately benefiting more from the hydration breaks overall. As a result, Senegal was likely able to apply more pressure on Iraq in the later stages of the match, potentially gaining an advantage in the game.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -125,7 +125,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the England vs Ghana match, the hydration breaks had varying effects on each team's attacking momentum. At the first break, neither team gained or lost momentum, with England's rate of actions remaining steady and Ghana having no actions to begin with. However, at the second break, England's attacking momentum significantly decreased, with their rate of actions dropping by 0.60 per minute, while Ghana's rate slightly increased, indicating a minor gain in momentum. Overall, Ghana benefited more from the hydration breaks, as they were able to maintain a steady pace and even gain some momentum, whereas England's attacking pace slowed down considerably after the second break.",
+  "insight": "During the England vs Ghana match, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, neither team gained or lost momentum, with England's rate of actions remaining steady and Ghana having no actions to speak of, indicating a neutral impact on the game. However, at the second break, England's attacking momentum slowed significantly, with their rate of actions decreasing by 0.60 per minute, while Ghana's increased slightly, suggesting that Ghana benefited more from the second hydration break in terms of regaining some footing in the match. Overall, Ghana seemed to benefit more from the hydration breaks, as they were able to slightly increase their momentum and potentially capitalize on England's decreased attacking pace.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

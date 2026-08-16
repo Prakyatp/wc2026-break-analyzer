@@ -165,7 +165,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Belgium and Senegal, the hydration breaks had different effects on each team's attacking momentum. For Belgium, the first hydration break seemed to slightly hinder their attack, as their actions decreased by 0.10 per minute, but they regained some momentum by the second break, still decreasing slightly. In contrast, Senegal's attack was more significantly impacted by the first break, with a decrease of 0.20 actions per minute, and they failed to create any new opportunities by the second break, indicating no change in their attacking pace. Overall, Belgium appears to have benefited more from the hydration breaks, as they were able to maintain a relatively consistent attacking pace throughout the match, while Senegal's attack was more disrupted, particularly after the first break.",
+  "insight": "During the first hydration break, Belgium's attacking momentum slightly decreased, with 0.10 fewer actions per minute, while Senegal's decreased more significantly, with 0.20 fewer actions per minute, indicating a greater loss of momentum for the Senegalese team. In the second hydration break, Belgium's attacking momentum again decreased slightly, but Senegal's remained unchanged, suggesting they were able to better maintain their rhythm. Overall, Senegal was more affected by the hydration breaks in terms of losing attacking momentum, which could have given Belgium a slight advantage in the match. This difference in momentum shift may have contributed to Belgium's ability to control the pace of the game and ultimately influence the outcome.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -125,7 +125,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Portugal and Uzbekistan, the hydration breaks seemed to have a notable impact on the teams' attacking momentum. At the first break, both teams saw a slight decrease in their attacking actions per minute, with a delta of -0.10/min, indicating a minor loss of momentum. However, at the second break, Portugal's attacking momentum increased, with a delta of +0.10/min, as they went from 1 to 2 actions, while Uzbekistan's decreased, going from 2 to 1 actions with a delta of -0.10/min, suggesting that Portugal benefited more from the break and regained their attacking rhythm. Overall, Portugal appears to have been the team that benefited more from the hydration breaks, as they were able to regain and even increase their attacking momentum, potentially giving them an edge in the match.",
+  "insight": "During the first hydration break, both Portugal and Uzbekistan saw a slight decrease in their attacking momentum, with a 0.10 minute decrease in actions per minute, indicating a brief lull in their offense. However, after the second hydration break, Portugal's attacking momentum picked up, with an increase of 0.10 actions per minute, while Uzbekistan's continued to decline, suggesting that Portugal was able to regain their footing and push forward more effectively. This shift in momentum seemed to benefit Portugal more, as they were able to capitalize on their increased offense and take the lead. Overall, Portugal's ability to rebound from the initial break and increase their attacking pace after the second break appeared to give them an edge over Uzbekistan.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

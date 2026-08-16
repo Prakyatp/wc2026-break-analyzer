@@ -125,7 +125,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the Japan vs Sweden match, Japan's attacking momentum slowed down significantly after the first hydration break, with a decrease of 0.20 actions per minute, indicating they created fewer scoring opportunities. In contrast, Sweden's attacking momentum remained unchanged after the first break, but they gained some momentum after the second break, with an increase of 0.10 actions per minute, suggesting they started to create more scoring chances. Overall, Sweden benefited more from the hydration breaks, as they were able to maintain or increase their attacking momentum, while Japan's momentum decreased after the first break. This shift in momentum could have contributed to Sweden's ability to potentially get back into the game, despite Japan's early lead.",
+  "insight": "During the match between Japan and Sweden, Japan's attacking momentum slowed down significantly after the first hydration break, with a decrease of 0.20 actions per minute, indicating they created fewer scoring opportunities. In contrast, Sweden's attacking momentum remained unchanged after the first break, but they gained some momentum after the second break, with a slight increase of 0.10 actions per minute, suggesting they started to create more scoring chances. Overall, Sweden benefited more from the hydration breaks, as they were able to maintain or increase their attacking momentum, while Japan's momentum decreased after the first break. This shift in momentum could have contributed to Sweden's ability to stay in the game or potentially mount a comeback against Japan.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

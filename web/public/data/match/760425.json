@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Netherlands and Japan, the hydration breaks seemed to have a significant impact on the Netherlands' attacking momentum, as they increased their actions per minute by 0.30 after both breaks, going from 0 to 3 actions after the first break and from 1 to 4 actions after the second break. In contrast, Japan's attacking momentum remained stagnant, with no change in actions per minute after either break, going from 1 to 1 after the first break and from 3 to 3 after the second break. This suggests that the Netherlands benefited more from the hydration breaks, as they were able to increase their intensity and create more scoring opportunities. Overall, the Netherlands' ability to boost their attacking momentum after the breaks may have given them an edge in the match, potentially influencing the final outcome.",
+  "insight": "During the match between Netherlands and Japan, the hydration breaks had a notable impact on the teams' attacking momentum. For the Netherlands, the breaks seemed to boost their attack, as they increased their actions from 0 to 3 after the first break and from 1 to 4 after the second break, with a consistent increase of 0.30 actions per minute. In contrast, Japan's attacking momentum remained stagnant, with no change in actions per minute after either break, indicating that the hydration breaks did not provide them with a similar spark. Overall, the Netherlands appeared to benefit more from the hydration breaks, as they were able to increase their attacking output, potentially giving them an edge in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

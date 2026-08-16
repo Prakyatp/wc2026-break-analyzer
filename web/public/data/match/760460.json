@@ -125,7 +125,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Panama and Croatia, the hydration breaks had varying effects on each team's attacking momentum. At the first break, neither team saw a change in their attacking actions per minute, indicating no significant impact on their momentum. However, at the second break, Panama's attacking momentum slowed down, with a decrease of 0.30 actions per minute, suggesting they lost some steam, while Croatia maintained their steady pace with no change. Overall, Croatia appears to have benefited more from the hydration breaks, as they were able to maintain their consistency, whereas Panama's attacking momentum was disrupted, potentially giving Croatia an advantage in the match.",
+  "insight": "At the first hydration break, neither Panama nor Croatia had any change in their attacking actions per minute, indicating that the break did not disrupt their momentum. However, at the second hydration break, Panama's attacking momentum slowed down, with a decrease of 0.30 actions per minute, suggesting that they struggled to regain their rhythm after the break. In contrast, Croatia maintained their steady pace, with no change in their attacking actions, which could have given them an advantage in terms of consistency and overall performance. Overall, Croatia likely benefited more from the hydration breaks, as they were able to maintain their momentum while Panama's attacking pace was disrupted.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Scotland and Morocco, the hydration breaks seemed to have a slight impact on the teams' attacking momentum. For Scotland, the first break didn't change their attacking pace, but the second break led to a slight decrease in actions per minute, indicating a minor loss of momentum. Morocco, on the other hand, experienced a small decline in attacking pace after the first break, but their momentum remained relatively stable after the second break, with a similar decrease in actions per minute as Scotland. Overall, neither team seemed to significantly benefit from the hydration breaks in terms of regaining or losing attacking momentum, with both teams experiencing a slight decrease in pace after the breaks, making it a relatively even outcome in this aspect.",
+  "insight": "At the first hydration break, Morocco's attacking momentum slightly decreased, as they had 3 actions before the break and 2 after, resulting in a decrease of 0.10 actions per minute, while Scotland's momentum remained unchanged. In contrast, at the second hydration break, both teams experienced a similar decrease in attacking momentum, with each team having one less action after the break. Overall, Scotland seemed to benefit more from the hydration breaks, as they were able to maintain their momentum at the first break and only experienced a slight decrease at the second, whereas Morocco's momentum was affected earlier in the match. This suggests that Scotland may have been better able to adapt to the breaks and manage their energy levels, potentially giving them a slight advantage in the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

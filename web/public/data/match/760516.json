@@ -130,7 +130,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between France and England, the hydration breaks seemed to have different effects on each team's attacking momentum. For France, the first hydration break didn't significantly impact their attack, as their actions per minute remained steady, but the second break saw a slight decrease in their attacking pace. In contrast, England's attacking momentum slowed down after both hydration breaks, with a more noticeable decline after the first break, suggesting they struggled to regain their rhythm after the pauses. Overall, France appeared to benefit more from the hydration breaks, as they maintained a relatively consistent attacking pace, while England's momentum was more disrupted, potentially giving France a slight advantage in the match.",
+  "insight": "During the match between France and England, the hydration breaks seemed to have different effects on each team's attacking momentum. For France, the first hydration break didn't change their attacking pace, but the second break slightly slowed them down, as they went from 4 to 3 actions per minute, a decrease of 0.10 actions per minute. In contrast, England's attacking momentum decreased after both breaks, with a more significant drop after the first break, going from 3 to 1 action per minute, a decrease of 0.20 actions per minute, and a similar decrease after the second break. Overall, France appeared to benefit more from the hydration breaks, as their attacking momentum was less affected, allowing them to maintain a relatively consistent pace throughout the match.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

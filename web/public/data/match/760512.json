@@ -145,7 +145,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Norway and England, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, both teams saw a slight increase in attacking actions per minute, with Norway going from 0 to 1 action and England from 1 to 2 actions, indicating a minimal but equal boost for both teams. However, at the second break, Norway's attacking momentum surged with 3 new actions, representing a significant increase, while England's remained stagnant with no new actions, suggesting that Norway benefited more from the second hydration break in terms of regaining attacking intensity. Overall, Norway's ability to capitalize on the second break gave them a greater advantage in terms of attacking momentum, potentially shifting the match's dynamics in their favor.",
+  "insight": "During the match between Norway and England, the hydration breaks seemed to have a notable impact on the teams' attacking momentum. For Norway, the first break didn't lead to a significant change in their attacking actions, but after the second break, they increased their actions by 3, with a higher rate of increase, indicating a surge in their attacking momentum. In contrast, England's attacking momentum was more consistent, with a slight increase after the first break, but no change after the second break, suggesting they may have lost some steam. Overall, Norway appeared to benefit more from the hydration breaks, particularly the second one, as they were able to increase their attacking actions and potentially gain an advantage over England.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

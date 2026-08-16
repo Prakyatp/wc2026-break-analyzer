@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between France and Morocco, the hydration breaks had a noticeable impact on the teams' attacking momentum. France's attacking actions increased slightly after both breaks, with a small uptick in actions per minute, indicating that they were able to regain or maintain their momentum after the brief pauses. In contrast, Morocco's attacking actions decreased after both breaks, suggesting that they struggled to regain their rhythm after the hydration stops. Overall, France appears to have benefited more from the hydration breaks, as they were able to sustain or increase their attacking pressure, while Morocco's momentum was disrupted, potentially giving France a slight edge in the match.",
+  "insight": "During the hydration breaks, France's attacking momentum saw a slight increase, with their actions per minute rising by 0.10 at both breaks, indicating they were able to regain some energy and intensity after the brief pauses. In contrast, Morocco's momentum decreased at both breaks, with their actions per minute dropping by 0.10, suggesting they struggled to maintain their pace after the stoppages. Overall, France seemed to benefit more from the hydration breaks, as they were able to sustain or even increase their attacking intensity, while Morocco's momentum was disrupted. This subtle difference in momentum could have given France a slight edge in the match, allowing them to potentially capitalize on scoring opportunities.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

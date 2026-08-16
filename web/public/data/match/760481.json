@@ -125,7 +125,7 @@
       "away_delta": 0.3
     }
   ],
-  "insight": "During the match between Colombia and Portugal, Colombia's attacking momentum slowed down significantly at both hydration breaks, with a decrease of 0.40 actions per minute, indicating that the breaks disrupted their flow and rhythm. In contrast, Portugal's attacking momentum was less affected at the first break, but they actually gained momentum at the second break, with an increase of 0.30 actions per minute, suggesting that they were able to regroup and refocus. Overall, Portugal seemed to benefit more from the hydration breaks, as they were able to maintain or even increase their attacking intensity, while Colombia struggled to regain their rhythm after the stops. This shift in momentum could have given Portugal an edge in the match, allowing them to capitalize on Colombia's temporary loss of momentum.",
+  "insight": "During the Colombia vs Portugal match, Colombia's attacking momentum slowed down significantly at both hydration breaks, with a decrease of 0.40 actions per minute, indicating that the breaks disrupted their rhythm and flow. In contrast, Portugal's attacking momentum was less affected at the first break, but they actually gained momentum at the second break, with an increase of 0.30 actions per minute, suggesting that they were able to regroup and refocus. Overall, Portugal benefited more from the hydration breaks, as they were able to maintain or even increase their attacking intensity, while Colombia struggled to regain their footing after the breaks. This shift in momentum may have given Portugal an edge in the match, allowing them to capitalize on Colombia's temporary lapses in intensity.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

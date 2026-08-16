@@ -135,7 +135,7 @@
       "away_delta": -0.6
     }
   ],
-  "insight": "During the match between Uzbekistan and Colombia, the hydration breaks seemed to have a notable impact on the teams' attacking momentum. For Uzbekistan, the first break didn't bring any change in their attacking actions, but the second break led to a slight decrease, indicating a minor loss of momentum. In contrast, Colombia's attacking actions decreased after both breaks, with a more significant drop after the second break, suggesting they struggled to regain their rhythm after the hydration stops. Overall, Uzbekistan appeared to be less affected by the hydration breaks, potentially benefiting more from the brief pauses in the game, as Colombia's more substantial decline in attacking actions after the breaks may have given Uzbekistan an advantage in maintaining their momentum.",
+  "insight": "At the first hydration break, Colombia's attacking momentum slightly decreased, as evidenced by the drop from 2 to 1 action per minute, while Uzbekistan's remained unchanged, with no actions before or after the break. By the second hydration break, Uzbekistan's attacking momentum had also decreased, with a drop from 1 to 0 actions per minute, but Colombia's had decreased more significantly, with a substantial drop from 6 to 0 actions per minute. This suggests that Colombia's attacking momentum was more severely impacted by the breaks, particularly the second one, which could have been a turning point in the match. Overall, Uzbekistan may have benefited more from the hydration breaks, as their attacking momentum was less affected, potentially allowing them to capitalize on Colombia's decreased intensity.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

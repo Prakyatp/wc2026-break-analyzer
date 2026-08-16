@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the first hydration break, the Netherlands' attacking momentum slightly decreased, with their actions per minute dropping by 0.10, whereas Sweden's increased, with their actions per minute rising by 0.20, indicating a shift in Sweden's favor. However, by the second hydration break, both teams' attacking momentum had decreased, with each experiencing a drop of 0.10 actions per minute. Overall, Sweden benefited more from the hydration breaks, as they were able to gain an initial boost in attacking momentum, which could have helped them create more scoring opportunities. This suggests that Sweden's team was better able to capitalize on the brief pause in play to regroup and refocus their attack, potentially giving them an edge in the match.",
+  "insight": "During the match between Netherlands and Sweden, the hydration breaks had a notable impact on the teams' attacking momentum. For the Netherlands, their attacking actions decreased slightly at both breaks, indicating a loss of momentum, while Sweden's attacking actions increased at the first break, showing a gain in momentum, but then decreased at the second break, suggesting a loss of steam. Overall, Sweden benefited more from the hydration breaks, as their increase in attacking actions at the first break was more significant than their decrease at the second break, allowing them to potentially capitalize on the Netherlands' sluggishness after the breaks. This shift in momentum could have influenced the overall flow of the game, potentially giving Sweden an advantage in terms of creating scoring opportunities.",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }
