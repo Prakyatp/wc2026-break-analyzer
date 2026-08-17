@@ -130,7 +130,7 @@
       "away_delta": 0.1
     }
   ],
-  "insight": "During the match between Jordan and Algeria, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Algeria's attack gained significant momentum, increasing from 1 to 5 actions per minute with a notable increase of 0.40 actions per minute, while Jordan's remained stagnant. In contrast, at the second break, Jordan's attack lost momentum, decreasing from 1 to 0 actions, whereas Algeria continued to build on their previous gain, increasing from 5 to 6 actions per minute. Overall, Algeria benefited more from the hydration breaks, as they were able to sustain and slightly increase their attacking momentum, potentially giving them an edge in the match.",
+  "insight": "",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

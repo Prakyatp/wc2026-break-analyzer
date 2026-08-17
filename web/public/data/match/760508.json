@@ -150,7 +150,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between Switzerland and Colombia, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Switzerland's attack slightly increased, taking 0.10 more actions per minute, while Colombia's decreased by the same amount, indicating a shift in momentum in favor of Switzerland. However, at the second break, both teams' attacks slowed down, with Switzerland's decreasing by 0.10 actions per minute and Colombia's by 0.20, suggesting that Colombia was more affected by the break. Overall, Switzerland appears to have benefited more from the hydration breaks, as they were able to maintain a slight increase in attacking momentum after the first break, while Colombia's attack was hindered at both breaks.",
+  "insight": "",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

@@ -130,7 +130,7 @@
       "away_delta": -0.1
     }
   ],
-  "insight": "During the match between Spain and Belgium, the hydration breaks had a notable impact on the teams' attacking momentum. At the first break, Spain's attacking actions increased by 0.20 per minute, indicating a significant surge in their offense, while Belgium's remained unchanged, suggesting they struggled to gain momentum. In contrast, at the second break, Spain's attacking actions decreased by 0.20 per minute, and Belgium's decreased by 0.10 per minute, but since Spain's initial increase was greater, they still benefited more overall from the hydration breaks, as their initial boost in attacking momentum was not fully negated by the later decline. Overall, Spain's ability to capitalize on the first hydration break and maintain a higher attacking tempo than Belgium for a longer period gave them an edge in the match.",
+  "insight": "",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

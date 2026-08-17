@@ -120,7 +120,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the match between Uruguay and Spain, the hydration breaks had a notable impact on the teams' attacking momentum. For Uruguay, the first hydration break seemed to have a slight positive effect, as they increased their actions per minute by 0.20, but this gain was short-lived as they then decreased by 0.10 actions per minute after the second break. In contrast, Spain's attacking momentum took a hit at both breaks, with a significant drop of 0.40 actions per minute after the first break and a further decrease of 0.20 after the second, indicating that they struggled to regain their rhythm after the stops in play. Overall, Uruguay appeared to benefit more from the hydration breaks, as they were able to maintain a relatively stable level of attacking intensity, while Spain's momentum was disrupted.",
+  "insight": "",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

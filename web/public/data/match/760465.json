@@ -130,7 +130,7 @@
       "away_delta": 0.0
     }
   ],
-  "insight": "During the match between Scotland and Brazil, the hydration breaks had distinct effects on each team's attacking momentum. At the first break, Scotland's attack gained momentum, increasing by 0.50 actions per minute, while Brazil's attack slowed down, decreasing by 0.10 actions per minute, indicating a shift in favor of Scotland. The second break saw Scotland's attack continue to gain momentum, albeit at a slower rate, with an increase of 0.20 actions per minute, whereas Brazil's attack remained steady with no change, suggesting that Scotland benefited more overall from the hydration breaks in terms of regaining and maintaining their attacking rhythm. Overall, Scotland's ability to increase their attacking actions after both breaks gave them an edge in terms of momentum and potential scoring opportunities.",
+  "insight": "",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }

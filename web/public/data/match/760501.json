@@ -130,7 +130,7 @@
       "away_delta": -0.2
     }
   ],
-  "insight": "During the Colombia vs Ghana match, the hydration breaks had a noticeable impact on the teams' attacking momentum. At the first break, Ghana's attack gained significant momentum, increasing from 1 to 4 actions per minute with a change of +0.30 actions per minute, while Colombia's remained stagnant with a slight decrease of -0.10 actions per minute. In contrast, at the second break, Colombia's attack surged with an increase from 0 to 4 actions per minute, a change of +0.40 actions per minute, whereas Ghana's attack slowed down, decreasing from 2 to 0 actions per minute with a change of -0.20 actions per minute. Overall, Colombia seemed to benefit more from the hydration breaks, as their second break resurgence likely gave them an edge in the latter part of the match.",
+  "insight": "",
   "home_color": "#3b82f6",
   "away_color": "#ef4444"
 }
